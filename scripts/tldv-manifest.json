@@ -1,0 +1,24 @@
+{
+  "description": "tl;dv (tldx Solutions GmbH, Aachen, Germany, VAT DE330894275) subscription receipts matched to bank transactions by date. Domestic German invoice -> real deductible VAT, not reverse charge: the 11 PRO-plan EUR invoices show 19% German VAT on the invoice itself (booked at 19%); the 4 later Business-plan USD invoices show no VAT at all on the source invoice (booked at 0%, as literally invoiced). Two additional invoices for the free 'Starter' plan (216A6CB2-45606236, 2026-03-28, EUR0.00; 216A6CB2-46592526, 2026-04-09, USD0.00) have no payment and are intentionally excluded from this manifest.",
+  "vendor": {
+    "searchNames": ["tldx Solutions", "tl;dv", "tldv"],
+    "company": { "name": "tldx Solutions GmbH", "street": "Kaiser-Friedrich-Allee 51", "city": "Aachen", "zip": "52074", "countryCode": "DE" }
+  },
+  "entries": [
+    { "file": "Invoice-216A6CB2-19958767.pdf", "voucherNumber": "216A6CB2-19958767", "voucherDate": "2025-04-07", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, Apr 7-May 7 2025" },
+    { "file": "Invoice-216A6CB2-21625590.pdf", "voucherNumber": "216A6CB2-21625590", "voucherDate": "2025-05-07", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, May 7-Jun 7 2025" },
+    { "file": "Invoice-216A6CB2-23392984.pdf", "voucherNumber": "216A6CB2-23392984", "voucherDate": "2025-06-07", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, Jun 7-Jul 7 2025" },
+    { "file": "Invoice-216A6CB2-25238317.pdf", "voucherNumber": "216A6CB2-25238317", "voucherDate": "2025-07-07", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, Jul 7-Aug 7 2025" },
+    { "file": "Invoice-216A6CB2-27166441.pdf", "voucherNumber": "216A6CB2-27166441", "voucherDate": "2025-08-07", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, Aug 7-Sep 7 2025" },
+    { "file": "Invoice-216A6CB2-29169198.pdf", "voucherNumber": "216A6CB2-29169198", "voucherDate": "2025-09-07", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, Sep 7-Oct 7 2025" },
+    { "file": "Invoice-216A6CB2-31283252.pdf", "voucherNumber": "216A6CB2-31283252", "voucherDate": "2025-10-07", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, Oct 7-Nov 7 2025" },
+    { "file": "Invoice-216A6CB2-33525229.pdf", "voucherNumber": "216A6CB2-33525229", "voucherDate": "2025-11-07", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, Nov 7-Dec 7 2025" },
+    { "file": "Invoice-216A6CB2-35895516.pdf", "voucherNumber": "216A6CB2-35895516", "voucherDate": "2025-12-25", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, Dec 7 2025-Jan 7 2026 (invoiced Dec 7, direct debit collected Dec 25)" },
+    { "file": "Invoice-216A6CB2-38351809.pdf", "voucherNumber": "216A6CB2-38351809", "voucherDate": "2026-01-14", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, Jan 7-Feb 7 2026" },
+    { "file": "Invoice-216A6CB2-40937976.pdf", "voucherNumber": "216A6CB2-40937976", "voucherDate": "2026-02-12", "bankAmountEur": 34.51, "taxRatePercent": 19, "taxAmount": 5.51, "plan": "tl;dv PRO, Feb 7-Mar 7 2026" },
+    { "file": "Invoice-216A6CB2-47274508.pdf", "voucherNumber": "216A6CB2-47274508", "voucherDate": "2026-04-26", "bankAmountEur": 33.28, "taxRatePercent": 0, "taxAmount": 0, "plan": "tl;dv Business, Apr 16-May 16 2026 ($39.00 USD, no VAT shown on invoice)" },
+    { "file": "Invoice-216A6CB2-50206670.pdf", "voucherNumber": "216A6CB2-50206670", "voucherDate": "2026-05-24", "bankAmountEur": 33.61, "taxRatePercent": 0, "taxAmount": 0, "plan": "tl;dv Business, May 16-Jun 16 2026 ($39.00 USD, no VAT shown on invoice)" },
+    { "file": "Invoice-216A6CB2-53236938.pdf", "voucherNumber": "216A6CB2-53236938", "voucherDate": "2026-06-24", "bankAmountEur": 32.72, "taxRatePercent": 0, "taxAmount": 0, "plan": "tl;dv Business, Jun 16-Jul 16 2026 ($39.00 USD, no VAT shown on invoice)" },
+    { "file": "Invoice-216A6CB2-56356747.pdf", "voucherNumber": "216A6CB2-56356747", "voucherDate": "2026-07-24", "bankAmountEur": 34.23, "taxRatePercent": 0, "taxAmount": 0, "plan": "tl;dv Business, Jul 16-Aug 16 2026 ($39.00 USD, no VAT shown on invoice)" }
+  ]
+}

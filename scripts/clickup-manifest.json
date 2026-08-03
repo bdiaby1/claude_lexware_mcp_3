@@ -1,5 +1,9 @@
 {
-  "description": "ClickUp (Mango Technologies Inc, US) subscription receipts matched to bank transactions by date. bankAmountEur is the negative EUR debit from the bank statement; invoiceAmountUsd is the ClickUp invoice total in USD (0% VAT, reverse-charged per Art. 196 Directive 2006/112/EC -> check §13b UStG treatment with your Steuerberater / pick a reverse-charge posting category if your chart has one).",
+  "description": "ClickUp (Mango Technologies Inc, US) subscription receipts matched to bank transactions by date. bankAmountEur is the negative EUR debit from the bank statement; invoiceAmountUsd is the ClickUp invoice total in USD (0% VAT, reverse-charged per Art. 196 Directive 2006/112/EC -> check §13b UStG treatment with your Steuerberater / pick a reverse-charge posting category if your chart has one). Booked live 2026-08-03 with scripts/import-vouchers.mjs, taxRatePercent 0 throughout, vendor contact 7d9b7e0f-11ee-49c3-86ce-d2ad82d396ac.",
+  "vendor": {
+    "searchNames": ["Mango Technologies", "ClickUp"],
+    "company": { "name": "Mango Technologies Inc DBA ClickUp", "street": "350 Tenth Ave, Suite 500", "city": "San Diego", "zip": "92101", "countryCode": "US" }
+  },
   "entries": [
     { "file": "T90131805009-070425.pdf", "voucherDate": "2025-07-04", "bankAmountEur": 8.49,  "invoiceAmountUsd": 10.00, "plan": "Unlimited Plan, 1 Seat, 7/4/25-8/4/25",  "reference": "txn 5xkcp27h" },
     { "file": "T90131805009-071125.pdf", "voucherDate": "2025-07-11", "bankAmountEur": 13.79, "invoiceAmountUsd": 16.13, "plan": "Unlimited Plan, 2 Seats, 7/4/25-8/4/25", "reference": "txn hpar3m5c" },

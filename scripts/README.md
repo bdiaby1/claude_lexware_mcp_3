@@ -1,36 +1,68 @@
 # scripts/
 
-## clickup-import.mjs
+## import-vouchers.mjs
 
-Books the 16 ClickUp (Mango Technologies Inc) subscription receipts as
-Lexware Office bookkeeping vouchers, categorized and with the PDF attached
-to each voucher.
+Generic Lexware Office voucher importer. Given a manifest JSON file, it
+books one `purchaseinvoice` bookkeeping voucher per receipt — categorized,
+vendor contact looked up/created, PDF attached, `voucherDate` set to the
+bank statement date so Lexoffice's own Kontenabgleich can auto-suggest the
+match. Idempotent: re-running skips any `voucherNumber` that's already
+booked (retries HTTP 429s instead of racing the idempotency check).
 
-`clickup-manifest.json` maps each receipt filename to its bank statement
-date/amount (matched by date, cross-checked against the invoice's USD
-amount — see the commit that added this file for the reconciliation).
+Manifest shape:
+
+```json
+{
+  "vendor": {
+    "searchNames": ["Company Name", "Trading Name"],
+    "company": { "name": "...", "street": "...", "city": "...", "zip": "...", "countryCode": "XX" }
+  },
+  "entries": [
+    { "file": "receipt.pdf", "voucherNumber": "unique-id", "voucherDate": "2025-07-04",
+      "bankAmountEur": 8.49, "taxRatePercent": 0, "taxAmount": 0, "plan": "..." }
+  ]
+}
+```
+
+`taxRatePercent`/`taxAmount` default to 0 (booked gross, no VAT) when
+omitted. `voucherNumber` defaults to the filename without `.pdf`.
 
 Run where `api.lexware.io` is reachable (this repo's dev sandbox has no
 network access to it):
 
 ```bash
-# 1. put the 16 ClickUp PDFs in ./clickup-receipts (gitignored, never commit them)
-# 2. find your "Lizenzen und Konzessionen" posting category id
-node --env-file=.env scripts/clickup-import.mjs --list-categories
+# find your "Lizenzen und Konzessionen" posting category id (auto-resolved if unambiguous)
+node --env-file=.env scripts/import-vouchers.mjs --list-categories
 
-# 3. preview (no writes)
-node --env-file=.env scripts/clickup-import.mjs --category-id <uuid> --receipts ./clickup-receipts
+# preview (no writes)
+node --env-file=.env scripts/import-vouchers.mjs --manifest scripts/<vendor>-manifest.json --receipts ./<vendor>-receipts
 
-# 4. actually create the vouchers + attach PDFs
-node --env-file=.env scripts/clickup-import.mjs --category-id <uuid> --receipts ./clickup-receipts --yes
+# actually create the vouchers + attach PDFs
+node --env-file=.env scripts/import-vouchers.mjs --manifest scripts/<vendor>-manifest.json --receipts ./<vendor>-receipts --yes
 ```
 
-Requires `LEXWARE_OFFICE_API_KEY` (and `LEXWARE_OFFICE_ALLOW_WRITES=true` if
-you're also running the MCP server with that env, though this script talks
-to the API directly and isn't gated by it).
+Requires `LEXWARE_OFFICE_API_KEY`.
 
-Note: ClickUp invoices these as 0% VAT, "reverse charged to customer"
-(Art. 196 Directive 2006/112/EC). The script books the gross EUR amount at
-0% as literally invoiced. If your chart of accounts has a dedicated
-reverse-charge / §13b UStG posting category for foreign digital services,
-use that category id instead — check with your Steuerberater.
+### Existing manifests
+
+- **clickup-manifest.json** — ClickUp (Mango Technologies Inc, US), 16
+  receipts, booked 2026-08-03. US supplier, invoiced at 0% VAT
+  ("reverse charged to customer", Art. 196 Directive 2006/112/EC) —
+  booked as literally invoiced (0%). If your chart of accounts has a
+  dedicated §13b UStG reverse-charge posting category for foreign digital
+  services, that's a more correct treatment for the VAT return — check
+  with your Steuerberater. (Lexoffice's own "Lizenzen und Konzessionen
+  §13b Drittland" category rejects a 0% tax rate; it needs deliberate
+  reverse-charge tax math this script doesn't attempt.)
+
+- **tldv-manifest.json** — tl;dv (tldx Solutions GmbH, Aachen, Germany),
+  15 receipts, booked 2026-08-03. Domestic German supplier: the 11 PRO-plan
+  EUR invoices show real 19% German VAT (booked at 19%, deductible
+  Vorsteuer); the 4 later Business-plan USD invoices show no VAT on the
+  source invoice (booked at 0%, as literally invoiced). Two additional
+  invoices for the free "Starter" plan have €0.00/$0.00 due and are
+  excluded — nothing was paid, nothing to book.
+
+Both manifests intentionally exclude duplicate/zero-amount entries found
+while reconciling — see the commits that added each file for the full
+date/amount matching against the bank statement.
