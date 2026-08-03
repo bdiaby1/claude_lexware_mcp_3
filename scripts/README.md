@@ -43,6 +43,14 @@ node --env-file=.env scripts/import-vouchers.mjs --manifest scripts/<vendor>-man
 
 Requires `LEXWARE_OFFICE_API_KEY`.
 
+### Editing a voucher after booking (e.g. changing its category)
+
+`PUT /v1/vouchers/{id}` replaces list-valued fields wholesale, including
+`files`. Fetch the current voucher first and carry its `files` array
+through in the PUT body — omitting it detaches the already-attached PDF
+(had to re-attach it after finding this out the hard way on the Fiverr
+vouchers below).
+
 ### Existing manifests
 
 - **clickup-manifest.json** — ClickUp (Mango Technologies Inc, US), 16
@@ -63,6 +71,14 @@ Requires `LEXWARE_OFFICE_API_KEY`.
   invoices for the free "Starter" plan have €0.00/$0.00 due and are
   excluded — nothing was paid, nothing to book.
 
-Both manifests intentionally exclude duplicate/zero-amount entries found
-while reconciling — see the commits that added each file for the full
-date/amount matching against the bank statement.
+- **fiverr-manifest.json** — Fiverr International Ltd. (Tel Aviv, Israel),
+  4 receipts out of 7 PDFs, booked 2026-08-03. Category "Fremdleistungen"
+  (one-off freelance services, not licenses). No VAT shown on any invoice;
+  booked at 0%. The other 3 PDFs (a USD invoice paid from Fiverr balance,
+  its partial credit note, and a full credit note against one of the
+  booked invoices) have no corresponding bank line and are intentionally
+  excluded — see the manifest description and entry remarks.
+
+All manifests intentionally exclude duplicate/zero-amount/no-bank-movement
+entries found while reconciling — see the commits that added each file for
+the full date/amount matching against the bank statement.
