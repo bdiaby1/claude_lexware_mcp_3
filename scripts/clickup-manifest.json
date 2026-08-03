@@ -1,0 +1,21 @@
+{
+  "description": "ClickUp (Mango Technologies Inc, US) subscription receipts matched to bank transactions by date. bankAmountEur is the negative EUR debit from the bank statement; invoiceAmountUsd is the ClickUp invoice total in USD (0% VAT, reverse-charged per Art. 196 Directive 2006/112/EC -> check §13b UStG treatment with your Steuerberater / pick a reverse-charge posting category if your chart has one).",
+  "entries": [
+    { "file": "T90131805009-070425.pdf", "voucherDate": "2025-07-04", "bankAmountEur": 8.49,  "invoiceAmountUsd": 10.00, "plan": "Unlimited Plan, 1 Seat, 7/4/25-8/4/25",  "reference": "txn 5xkcp27h" },
+    { "file": "T90131805009-071125.pdf", "voucherDate": "2025-07-11", "bankAmountEur": 13.79, "invoiceAmountUsd": 16.13, "plan": "Unlimited Plan, 2 Seats, 7/4/25-8/4/25", "reference": "txn hpar3m5c" },
+    { "file": "T90131805009-080125.pdf", "voucherDate": "2025-08-01", "bankAmountEur": 1.13,  "invoiceAmountUsd": 1.29,  "plan": "Unlimited Plan, 1 Seat, 7/4/25-8/4/25",  "reference": "txn 6v5yqx5k" },
+    { "file": "T90131805009-080525.pdf", "voucherDate": "2025-08-05", "bankAmountEur": 34.67, "invoiceAmountUsd": 40.00, "plan": "Unlimited Plan, 4 Seats, 8/4/25-9/4/25",  "reference": "txn affk83th" },
+    { "file": "T90131805009-090425.pdf", "voucherDate": "2025-09-04", "bankAmountEur": 25.78, "invoiceAmountUsd": 30.00, "plan": "Unlimited Plan, 3 Seats, 9/4/25-10/4/25", "reference": "txn 7kpsgw4q" },
+    { "file": "T90131805009-100425.pdf", "voucherDate": "2025-10-04", "bankAmountEur": 25.55, "invoiceAmountUsd": 30.00, "plan": "Unlimited Plan, 3 Seats, 10/4/25-11/4/25", "reference": "Invoice DE2025-279" },
+    { "file": "T90131805009-102425.pdf", "voucherDate": "2025-10-24", "bankAmountEur": 8.24,  "invoiceAmountUsd": 9.58,  "plan": "Business Plan, 3 Seats, 10/4/25-11/4/25 (plan-change proration)", "reference": "Invoice DE2025-2255" },
+    { "file": "T90131805009-110425.pdf", "voucherDate": "2025-11-04", "bankAmountEur": 49.66, "invoiceAmountUsd": 57.00, "plan": "Business Plan, 3 Seats, 11/4/25-12/4/25", "reference": "txn 1w589dd5" },
+    { "file": "T90131805009-120425.pdf", "voucherDate": "2025-12-04", "bankAmountEur": 48.86, "invoiceAmountUsd": 57.00, "plan": "Business Plan, 3 Seats, 12/4/25-1/4/26", "reference": "Invoice DE2025-6274" },
+    { "file": "T90131805009-123025.pdf", "voucherDate": "2025-12-30", "bankAmountEur": 3.13,  "invoiceAmountUsd": 3.68,  "plan": "Business Plan, 1 Seat, 12/30/25-1/4/26 (seat-count proration)", "reference": "Invoice DE2025-8536" },
+    { "file": "T90131805009-032626.pdf", "voucherDate": "2026-03-26", "bankAmountEur": 12.11, "invoiceAmountUsd": 14.00, "plan": "Business Plan, 1 Seat, 3/26/26-4/26/26", "reference": "Invoice DE2026-9359" },
+    { "file": "T90131805009-042626.pdf", "voucherDate": "2026-04-26", "bankAmountEur": 11.95, "invoiceAmountUsd": 14.00, "plan": "Business Plan, 1 Seat, 4/26/26-5/26/26", "reference": "Invoice DE2026-12543" },
+    { "file": "T90131805009-051226.pdf", "voucherDate": "2026-05-12", "bankAmountEur": 5.96,  "invoiceAmountUsd": 7.00,  "plan": "Business Plan, 1 Seat, 5/12/26-5/26/26 (mid-cycle proration)", "reference": "Invoice DE2026-14242" },
+    { "file": "T90131805009-052626.pdf", "voucherDate": "2026-05-26", "bankAmountEur": 24.05, "invoiceAmountUsd": 28.00, "plan": "Business Plan, 2 Seats, 5/26/26-6/26/26", "reference": "Invoice DE2026-15657" },
+    { "file": "T90131805009-062626.pdf", "voucherDate": "2026-06-26", "bankAmountEur": 24.55, "invoiceAmountUsd": 28.00, "plan": "Business Plan, 2 Seats, 6/26/26-7/26/26", "reference": "Invoice DE2026-18848" },
+    { "file": "T90131805009-072626.pdf", "voucherDate": "2026-07-26", "bankAmountEur": 12.32, "invoiceAmountUsd": 14.00, "plan": "Business Plan, 1 Seat, 7/26/26-8/26/26", "reference": "Invoice DE2026-21963" }
+  ]
+}

@@ -1,6 +1,11 @@
 mcp-server.log
 .worktrees/
 
+# Real financial documents (receipts/statements) — never commit these
+clickup-receipts/
+*-receipts/
+.env
+
 # Logs
 logs
 *.log
