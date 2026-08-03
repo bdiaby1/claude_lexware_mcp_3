@@ -33,20 +33,26 @@ function parseArgs(argv) {
 }
 
 async function lexFetch(pathname, options = {}) {
-	const res = await fetch(`${BASE_URL}${pathname}`, {
-		...options,
-		headers: {
-			Authorization: `Bearer ${API_KEY}`,
-			Accept: 'application/json',
-			...(options.body && !(options.body instanceof FormData) ? { 'Content-Type': 'application/json' } : {}),
-			...options.headers,
-		},
-	});
-	if (!res.ok) {
-		const text = await res.text().catch(() => '');
-		throw new Error(`${options.method ?? 'GET'} ${pathname} -> HTTP ${res.status}: ${text}`);
+	for (let attempt = 0; ; attempt++) {
+		const res = await fetch(`${BASE_URL}${pathname}`, {
+			...options,
+			headers: {
+				Authorization: `Bearer ${API_KEY}`,
+				Accept: 'application/json',
+				...(options.body && !(options.body instanceof FormData) ? { 'Content-Type': 'application/json' } : {}),
+				...options.headers,
+			},
+		});
+		if (res.status === 429 && attempt < 5) {
+			await new Promise((r) => setTimeout(r, 1000 * (attempt + 1)));
+			continue;
+		}
+		if (!res.ok) {
+			const text = await res.text().catch(() => '');
+			throw new Error(`${options.method ?? 'GET'} ${pathname} -> HTTP ${res.status}: ${text}`);
+		}
+		return res.status === 204 ? null : res.json();
 	}
-	return res.status === 204 ? null : res.json();
 }
 
 async function listPostingCategories() {
@@ -68,6 +74,14 @@ async function resolveCategoryId(explicitId) {
 	const categories = await lexFetch('/v1/posting-categories');
 	const all = Array.isArray(categories) ? categories : (categories.content ?? []);
 	const candidates = all.filter((c) => /lizenz/i.test(c.name ?? ''));
+	// Prefer the plain, non-automatic category over §13b/§13b Drittland variants:
+	// those require a real 19% self-assessment tax rate (API rejects 0%), which
+	// needs deliberate reverse-charge tax handling, not a default guess.
+	const plain = candidates.find((c) => (c.name ?? '').trim() === 'Lizenzen und Konzessionen');
+	if (plain) {
+		console.log(`Auto-selected posting category: ${plain.id}  (${plain.name})\n`);
+		return plain.id;
+	}
 	if (candidates.length === 1) {
 		console.log(`Auto-selected posting category: ${candidates[0].id}  (${candidates[0].name})\n`);
 		return candidates[0].id;
@@ -81,10 +95,29 @@ async function resolveCategoryId(explicitId) {
 	process.exit(1);
 }
 
-async function findClickUpContact() {
-	const result = await lexFetch('/v1/contacts?name=ClickUp');
+async function findOrCreateClickUpContact() {
+	for (const name of ['Mango Technologies', 'ClickUp']) {
+		const result = await lexFetch(`/v1/contacts?name=${encodeURIComponent(name)}`);
+		const matches = result?.content ?? [];
+		if (matches.length === 1) return matches[0].id;
+	}
+	const created = await lexFetch('/v1/contacts', {
+		method: 'POST',
+		body: JSON.stringify({
+			version: 0,
+			roles: { vendor: {} },
+			company: { name: 'Mango Technologies Inc DBA ClickUp' },
+			addresses: { billing: [{ street: '350 Tenth Ave, Suite 500', city: 'San Diego', zip: '92101', countryCode: 'US' }] },
+		}),
+	});
+	console.log(`Created vendor contact for Mango Technologies Inc DBA ClickUp: ${created.id}`);
+	return created.id;
+}
+
+async function findExistingVoucher(voucherNumber) {
+	const result = await lexFetch(`/v1/vouchers?voucherNumber=${encodeURIComponent(voucherNumber)}`);
 	const matches = result?.content ?? [];
-	return matches.length === 1 ? matches[0].id : undefined;
+	return matches.find((v) => v.voucherNumber === voucherNumber);
 }
 
 async function main() {
@@ -107,8 +140,8 @@ async function main() {
 
 	let contactId = args.contactId;
 	if (!contactId && args.yes) {
-		contactId = await findClickUpContact().catch(() => undefined);
-		if (contactId) console.log(`Using existing ClickUp contact: ${contactId}`);
+		contactId = await findOrCreateClickUpContact();
+		console.log(`Using vendor contact: ${contactId}`);
 	}
 
 	console.log(args.yes ? 'LIVE RUN — creating vouchers in Lexware Office.\n' : 'DRY RUN (pass --yes to actually create vouchers).\n');
@@ -119,10 +152,12 @@ async function main() {
 	for (const entry of entries) {
 		const filePath = path.resolve(args.receipts, entry.file);
 		const fileExists = existsSync(filePath);
+		const voucherNumber = entry.file.replace(/\.pdf$/i, '');
 		total += entry.bankAmountEur;
 
 		const voucherBody = {
 			type: 'purchaseinvoice',
+			voucherNumber,
 			voucherDate: entry.voucherDate,
 			totalGrossAmount: entry.bankAmountEur,
 			totalTaxAmount: 0,
@@ -143,6 +178,21 @@ async function main() {
 		if (!args.yes) {
 			console.log(`[dry-run] ${entry.voucherDate}  ${entry.bankAmountEur.toFixed(2)} EUR  ${entry.file}  (${entry.plan})`);
 			results.push({ ...entry, status: 'dry-run' });
+			continue;
+		}
+
+		await new Promise((r) => setTimeout(r, 700)); // stay under the Lexware API rate limit
+		let existing;
+		try {
+			existing = await findExistingVoucher(voucherNumber);
+		} catch (err) {
+			console.error(`FAIL  ${entry.file}: could not verify existing voucher (${err.message}) — skipping to avoid a duplicate`);
+			results.push({ ...entry, status: 'error', error: err.message });
+			continue;
+		}
+		if (existing) {
+			console.log(`SKIP  ${entry.voucherDate}  ${voucherNumber} already booked as voucher ${existing.id}`);
+			results.push({ ...entry, status: 'already-exists', voucherId: existing.id });
 			continue;
 		}
 
