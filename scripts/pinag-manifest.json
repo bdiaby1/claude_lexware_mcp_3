@@ -1,0 +1,90 @@
+{
+  "description": "PIN AG (Berlin, DE815837146) postage/mail receipts. PIN AG issues one Sammelrechnung (collective invoice) per delivery date, but appears to collect payment as several separate SEPA direct debits per date rather than one lump sum -- the bank history's per-date line groups sum to each invoice's Endsumme almost exactly (off by 1 cent on 2 of 8, plain rounding). Domestic German B2B invoice with real 19% USt shown per item (Steuercode 19); booked at 19% (deductible Vorsteuer), same as tl;dv. bankAmountEur is the sum of that date's bank lines (used for exact reconciliation); the invoice's own net/tax amounts are carried through, with the tax leg absorbing the 1-cent rounding difference where present. Category 'Porto'. Two of the 10 uploaded PDFs are NOT booked -- no bank line matches their date: Belegnummer 2026-001003 (2026-01-10, EUR0.88), and Belegnummer 2025-111192 (2025-10-25, EUR2.69) which is additionally billed to a different, personal address ('Moinseur Diaby, Constanze Hallgarten 46, 81379 Muenchen') rather than Media WEFILM Group UG -- likely private correspondence, not a business expense; check before booking it anywhere.",
+  "vendor": {
+    "searchNames": [
+      "PIN AG",
+      "Pin Ag"
+    ],
+    "company": {
+      "name": "PIN AG",
+      "street": "Alt-Moabit 91",
+      "city": "Berlin",
+      "zip": "10559",
+      "countryCode": "DE"
+    }
+  },
+  "entries": [
+    {
+      "file": "WOV09_W01038899_20260320_2026-027529.pdf",
+      "voucherNumber": "2026-027529",
+      "voucherDate": "2026-03-18",
+      "bankAmountEur": 2.88,
+      "taxRatePercent": 19,
+      "taxAmount": 0.46,
+      "plan": "PIN AG Sammelrechnung 2026-027529, eBrief (1 bank line, exact match)"
+    },
+    {
+      "file": "WOV09_W01038899_20260226_2026-016391.pdf",
+      "voucherNumber": "2026-016391",
+      "voucherDate": "2026-02-26",
+      "bankAmountEur": 2.64,
+      "taxRatePercent": 19,
+      "taxAmount": 0.42,
+      "plan": "PIN AG Sammelrechnung 2026-016391, eBrief (2 bank lines, exact match)"
+    },
+    {
+      "file": "WOV09_W01038899_20260213_2026-013882.pdf",
+      "voucherNumber": "2026-013882",
+      "voucherDate": "2026-02-12",
+      "bankAmountEur": 6.15,
+      "taxRatePercent": 19,
+      "taxAmount": 0.98,
+      "plan": "PIN AG Sammelrechnung 2026-013882, Einschreiben + eBrief (2 bank lines, exact match)"
+    },
+    {
+      "file": "WOV09_W01038899_20260129_2026-004363.pdf",
+      "voucherNumber": "2026-004363",
+      "voucherDate": "2026-01-29",
+      "bankAmountEur": 2.74,
+      "taxRatePercent": 19,
+      "taxAmount": 0.44,
+      "plan": "PIN AG Sammelrechnung 2026-004363, eBrief (3 bank lines, exact match)"
+    },
+    {
+      "file": "WOV09_W01038899_20260113_2026-001002.pdf",
+      "voucherNumber": "2026-001002",
+      "voucherDate": "2026-01-06",
+      "bankAmountEur": 1.3,
+      "taxRatePercent": 19,
+      "taxAmount": 0.21,
+      "plan": "PIN AG Sammelrechnung 2026-001002, eBrief (1 bank line, exact match)"
+    },
+    {
+      "file": "WOV09_W01038899_20260113_2026-001001.pdf",
+      "voucherNumber": "2026-001001",
+      "voucherDate": "2026-01-05",
+      "bankAmountEur": 4.96,
+      "taxRatePercent": 19,
+      "taxAmount": 0.79,
+      "plan": "PIN AG Sammelrechnung 2026-001001, eBrief (4 bank lines sum to EUR4.97; booked at invoice Endsumme EUR4.96, 1 cent rounding vs bank)"
+    },
+    {
+      "file": "WOV09_W01038899_20251104_2025-112053.pdf",
+      "voucherNumber": "2025-112053",
+      "voucherDate": "2025-10-30",
+      "bankAmountEur": 10.16,
+      "taxRatePercent": 19,
+      "taxAmount": 1.62,
+      "plan": "PIN AG Sammelrechnung 2025-112053, Einschreiben + eBrief (4 bank lines, exact match)"
+    },
+    {
+      "file": "WOV09_W01038899_20251016_2025-109226.pdf",
+      "voucherNumber": "2025-109226",
+      "voucherDate": "2025-10-15",
+      "bankAmountEur": 9.19,
+      "taxRatePercent": 19,
+      "taxAmount": 1.47,
+      "plan": "PIN AG Sammelrechnung 2025-109226, Einschreiben + eBrief (2 bank lines sum to EUR9.18; booked at invoice Endsumme EUR9.19, 1 cent rounding vs bank)"
+    }
+  ]
+}
