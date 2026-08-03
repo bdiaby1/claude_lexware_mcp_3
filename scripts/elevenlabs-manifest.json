@@ -1,0 +1,14 @@
+{
+  "description": "ElevenLabs (Eleven Labs Inc., New York, USA — non-EU/Drittland) subscription receipts matched to the 5 given bank lines. 6 PDFs were uploaded (BFSBMZRE-0001..0005, 0007); BFSBMZRE-0006 is missing from the upload entirely (invoice number gap between 0005 and 0007, likely the Mar 22 Creator renewal superseded when downgrading to Starter on Mar 24 -- no unmatched bank line corresponds to it either, so probably never charged). BFSBMZRE-0001 (2025-10-22, $11.00, Creator first month 50% off) has no matching bank line in the 5 given here and is NOT booked -- check whether it was already reconciled elsewhere. Category 'Lizenzen und Konzessionen' (software subscription). No VAT shown ('Tax to be paid on reverse charge basis'); booked at 0% as invoiced, same convention as ClickUp/Pikzels.",
+  "vendor": {
+    "searchNames": ["Eleven Labs", "ElevenLabs"],
+    "company": { "name": "Eleven Labs Inc.", "street": "169 Madison Avenue #2484", "city": "New York", "zip": "10016", "countryCode": "US" }
+  },
+  "entries": [
+    { "file": "Invoice-BFSBMZRE-0002.pdf", "voucherNumber": "BFSBMZRE-0002", "voucherDate": "2025-11-22", "bankAmountEur": 19.11, "taxRatePercent": 0, "taxAmount": 0, "plan": "ElevenLabs Creator, Nov 22-Dec 22 2025 ($22.00)" },
+    { "file": "Invoice-BFSBMZRE-0003.pdf", "voucherNumber": "BFSBMZRE-0003", "voucherDate": "2025-12-25", "bankAmountEur": 18.68, "taxRatePercent": 0, "taxAmount": 0, "plan": "ElevenLabs Creator, Dec 22 2025-Jan 22 2026 ($22.00)" },
+    { "file": "Invoice-BFSBMZRE-0004.pdf", "voucherNumber": "BFSBMZRE-0004", "voucherDate": "2026-01-31", "bankAmountEur": 18.57, "taxRatePercent": 0, "taxAmount": 0, "plan": "ElevenLabs Creator, Jan 22-Feb 22 2026 ($22.00)" },
+    { "file": "Invoice-BFSBMZRE-0005.pdf", "voucherNumber": "BFSBMZRE-0005", "voucherDate": "2026-02-24", "bankAmountEur": 18.67, "taxRatePercent": 0, "taxAmount": 0, "plan": "ElevenLabs Creator, Feb 22-Mar 22 2026 ($22.00)" },
+    { "file": "Invoice-BFSBMZRE-0007.pdf", "voucherNumber": "BFSBMZRE-0007", "voucherDate": "2026-03-24", "bankAmountEur": 4.32, "taxRatePercent": 0, "taxAmount": 0, "plan": "ElevenLabs Starter, Mar 24-Apr 24 2026 ($5.00) -- downgraded from Creator ($22) to Starter ($5)" }
+  ]
+}
