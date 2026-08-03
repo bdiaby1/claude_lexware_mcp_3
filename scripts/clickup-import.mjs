@@ -63,6 +63,24 @@ async function listPostingCategories() {
 	return candidates;
 }
 
+async function resolveCategoryId(explicitId) {
+	if (explicitId) return explicitId;
+	const categories = await lexFetch('/v1/posting-categories');
+	const all = Array.isArray(categories) ? categories : (categories.content ?? []);
+	const candidates = all.filter((c) => /lizenz/i.test(c.name ?? ''));
+	if (candidates.length === 1) {
+		console.log(`Auto-selected posting category: ${candidates[0].id}  (${candidates[0].name})\n`);
+		return candidates[0].id;
+	}
+	if (candidates.length === 0) {
+		console.error('No posting category matching "Lizenz*" found in your chart of accounts. Run --list-categories to see all categories, then pass --category-id explicitly.');
+	} else {
+		console.error(`${candidates.length} posting categories match "Lizenz*" — ambiguous, pass --category-id explicitly:`);
+		for (const c of candidates) console.error(`  ${c.id}  ${c.name}`);
+	}
+	process.exit(1);
+}
+
 async function findClickUpContact() {
 	const result = await lexFetch('/v1/contacts?name=ClickUp');
 	const matches = result?.content ?? [];
@@ -82,10 +100,7 @@ async function main() {
 		return;
 	}
 
-	if (!args.categoryId) {
-		console.error('Missing --category-id. Run with --list-categories first to find the "Lizenzen und Konzessionen" category id in your chart of accounts.');
-		process.exit(1);
-	}
+	const categoryId = await resolveCategoryId(args.categoryId);
 
 	const manifestPath = path.join(__dirname, 'clickup-manifest.json');
 	const { entries } = JSON.parse(await readFile(manifestPath, 'utf8'));
@@ -115,7 +130,7 @@ async function main() {
 			...(contactId ? { contactId } : {}),
 			remark: `ClickUp – ${entry.plan} (${entry.reference})`,
 			voucherItems: [
-				{ amount: entry.bankAmountEur, taxAmount: 0, taxRatePercent: 0, categoryId: args.categoryId },
+				{ amount: entry.bankAmountEur, taxAmount: 0, taxRatePercent: 0, categoryId },
 			],
 		};
 
