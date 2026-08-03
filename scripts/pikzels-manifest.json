@@ -1,0 +1,19 @@
+{
+  "description": "Pikzels (Dover, Delaware, USA — non-EU/Drittland) subscription receipts. 11 PDFs = exactly one $40 invoice per month Oct 2025-Jul 2026 (consecutive invoice number series PKZ-701489..PKZ-759818) plus one $0.00 trial invoice (PKZ-701487, excluded, no payment). The bank history has 16 lines, not 10: from Oct 2025 through Mar 2026 there are TWO Pikzels debits per month (labelled 'Pikzels' vs 'Pikzels PIKZELS.COM'), only ONE per month from Apr 2026 on. Only one invoice per month exists in this upload for the whole period, so for Oct'25-Mar'26 this manifest books against one of the two bank lines per month (the 'Pikzels'-labelled one, or the earlier date where both differ) and the OTHER line each month is left unmatched -- likely a second Pikzels subscription/account whose receipts were not included here. No VAT is shown on any invoice ('Tax to be paid on reverse charge basis'); booked at 0% as invoiced, same convention as ClickUp.",
+  "vendor": {
+    "searchNames": ["Pikzels"],
+    "company": { "name": "Pikzels", "street": "8 The Green, Suite A", "city": "Dover", "zip": "19901", "countryCode": "US" }
+  },
+  "entries": [
+    { "file": "Invoice-PKZ-701489.pdf", "voucherNumber": "PKZ-701489", "voucherDate": "2025-10-22", "bankAmountEur": 34.44, "taxRatePercent": 0, "taxAmount": 0, "plan": "Pikzels Premium, Oct 22-Nov 22 2025 ($40.00) -- unmatched sibling bank line same date: -34.60 EUR 'Pikzels PIKZELS.COM', no invoice for it" },
+    { "file": "Invoice-PKZ-708399.pdf", "voucherNumber": "PKZ-708399", "voucherDate": "2025-11-22", "bankAmountEur": 34.74, "taxRatePercent": 0, "taxAmount": 0, "plan": "Pikzels Premium, Nov 22-Dec 22 2025 ($40.00) -- unmatched sibling bank line same date: -34.90 EUR 'Pikzels PIKZELS.COM', no invoice for it" },
+    { "file": "Invoice-PKZ-716932.pdf", "voucherNumber": "PKZ-716932", "voucherDate": "2025-12-22", "bankAmountEur": 34.01, "taxRatePercent": 0, "taxAmount": 0, "plan": "Pikzels Premium, Dec 22 2025-Jan 22 2026 ($40.00) -- unmatched sibling bank line same date: -34.17 EUR 'Pikzels PIKZELS.COM', no invoice for it" },
+    { "file": "Invoice-PKZ-725531.pdf", "voucherNumber": "PKZ-725531", "voucherDate": "2026-01-23", "bankAmountEur": 33.82, "taxRatePercent": 0, "taxAmount": 0, "plan": "Pikzels Premium, Jan 22-Feb 22 2026 ($40.00) -- unmatched sibling bank line 2026-01-24: -33.98 EUR 'Pikzels PIKZELS.COM', no invoice for it" },
+    { "file": "Invoice-PKZ-733264.pdf", "voucherNumber": "PKZ-733264", "voucherDate": "2026-02-23", "bankAmountEur": 33.92, "taxRatePercent": 0, "taxAmount": 0, "plan": "Pikzels Premium, Feb 22-Mar 22 2026 ($40.00) -- unmatched sibling bank line 2026-02-24: -34.08 EUR 'Pikzels PIKZELS.COM', no invoice for it" },
+    { "file": "Invoice-PKZ-739625.pdf", "voucherNumber": "PKZ-739625", "voucherDate": "2026-03-22", "bankAmountEur": 34.57, "taxRatePercent": 0, "taxAmount": 0, "plan": "Pikzels Premium, Mar 22-Apr 22 2026 ($40.00) -- unmatched sibling bank line same date: -34.73 EUR 'Pikzels PIKZELS.COM', no invoice for it" },
+    { "file": "Invoice-PKZ-746687.pdf", "voucherNumber": "PKZ-746687", "voucherDate": "2026-04-22", "bankAmountEur": 34.15, "taxRatePercent": 0, "taxAmount": 0, "plan": "Pikzels Premium, Apr 22-May 22 2026 ($40.00)" },
+    { "file": "Invoice-PKZ-752166.pdf", "voucherNumber": "PKZ-752166", "voucherDate": "2026-05-22", "bankAmountEur": 34.48, "taxRatePercent": 0, "taxAmount": 0, "plan": "Pikzels Premium, May 22-Jun 22 2026 ($40.00)" },
+    { "file": "Invoice-PKZ-756146.pdf", "voucherNumber": "PKZ-756146", "voucherDate": "2026-06-22", "bankAmountEur": 35.00, "taxRatePercent": 0, "taxAmount": 0, "plan": "Pikzels Premium, Jun 22-Jul 22 2026 ($40.00)" },
+    { "file": "Invoice-PKZ-759818.pdf", "voucherNumber": "PKZ-759818", "voucherDate": "2026-07-22", "bankAmountEur": 35.05, "taxRatePercent": 0, "taxAmount": 0, "plan": "Pikzels Premium, Jul 22-Aug 22 2026 ($40.00)" }
+  ]
+}
