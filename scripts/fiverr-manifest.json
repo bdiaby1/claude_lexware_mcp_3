@@ -1,0 +1,13 @@
+{
+  "description": "Fiverr (Fiverr International Ltd., Tel Aviv, Israel — non-EU/Drittland freelancer marketplace) receipts matched to the 4 given bank statement lines. Category: 'Freelancer/Freie Mitarbeiter' (these are one-off freelance services — Consultation, Data Processing, Email Marketing, Career Counseling — not software licenses, so NOT the 'Lizenzen und Konzessionen' category used for ClickUp/tl;dv). No VAT is shown on any Fiverr invoice (Israel/non-EU supplier); booked at 0% as literally invoiced, same convention as ClickUp. Excluded from this manifest (no matching bank line provided): FI44588018900 (2026-07-20, $77.35, paid from Fiverr balance, not the bank) and its partial credit FC1204565209 (2026-07-27, $36.92). FC4903831700 (2025-05-23, full EUR97.75 credit against FI49774021225) is also not booked here — see the entry's remark; if a matching incoming bank credit for that refund shows up, book it separately as income/expense-reduction.",
+  "vendor": {
+    "searchNames": ["Fiverr International", "Fiverr"],
+    "company": { "name": "Fiverr International Ltd.", "street": "8 Eliezer Kaplan St.", "city": "Tel Aviv", "zip": "6473409", "countryCode": "IL" }
+  },
+  "entries": [
+    { "file": "FI74274063591.pdf", "voucherNumber": "FI74274063591", "voucherDate": "2025-05-22", "bankAmountEur": 61.41, "taxRatePercent": 0, "taxAmount": 0, "plan": "Fiverr - Consultation, Order FO3D3A7D3541" },
+    { "file": "FI49774021225.pdf", "voucherNumber": "FI49774021225", "voucherDate": "2025-05-21", "bankAmountEur": 97.75, "taxRatePercent": 0, "taxAmount": 0, "plan": "Fiverr - Data Processing, Order FO32110A18487 -- fully refunded 2025-05-23 via credit invoice FC4903831700; if a matching EUR97.75 incoming bank credit appears, book it separately as income/expense-reduction" },
+    { "file": "FI72574022100.pdf", "voucherNumber": "FI72574022100", "voucherDate": "2025-05-21", "bankAmountEur": 146.63, "taxRatePercent": 0, "taxAmount": 0, "plan": "Fiverr - Email Marketing, Order FO413D6CC94C2" },
+    { "file": "FI12488020029.pdf", "voucherNumber": "FI12488020029", "voucherDate": "2026-07-20", "bankAmountEur": 35.45, "taxRatePercent": 0, "taxAmount": 0, "plan": "Fiverr - Career Counseling, Order FO422F1091786 -- split payment: total EUR61.27, EUR25.82 paid from Fiverr balance (not a bank movement, not booked), EUR35.45 by card (this voucher, matches bank)" }
+  ]
+}
