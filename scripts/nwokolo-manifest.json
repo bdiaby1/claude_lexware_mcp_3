@@ -1,0 +1,108 @@
+{
+  "description": "Emmanuel Nwokolo (Lagos, Nigeria), freelance Inbox Management, one Gutschrift per bank line (10 total, matching all 10 given bank lines exactly). Rate: EUR10.00/hour flat (his documented rate). Hours = bankAmountEur / 10, rounded to 1 decimal place per user instruction; the displayed Satz absorbs the resulting sub-cent rounding so Std x Satz reconciles exactly to the real bank amount. Two bank lines exist per period (e.g. 426.82/430.00) with a consistent ~0.73% gap between them across 4 of 5 pairs -- likely a base amount plus a separately-debited transfer fee, but unconfirmed; each line is booked as its own voucher/hours entry per explicit user instruction, not merged. Category 'Fremdleistungen'. 0% VAT: reverse charge (Section 13b UStG), Nigeria is non-EU/Drittland.",
+  "vendor": {
+    "searchNames": [
+      "Emmanuel Nwokolo",
+      "Nwokolo"
+    ],
+    "company": {
+      "name": "Emmanuel Nwokolo",
+      "street": "Maben Terrace, 11 LFS Maben Rd, off Northern Foreshore Road, off Chevron Drive",
+      "city": "Eti-Osa, Lekki, Lagos",
+      "zip": "106104",
+      "countryCode": "NG"
+    }
+  },
+  "entries": [
+    {
+      "file": "GS-NWO-001.pdf",
+      "voucherNumber": "GS-NWO-001",
+      "voucherDate": "2025-12-04",
+      "bankAmountEur": 426.82,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Emmanuel Nwokolo - Inbox Management, Inbox 2025-11, 42.7 Std. a 9.9958 EUR"
+    },
+    {
+      "file": "GS-NWO-002.pdf",
+      "voucherNumber": "GS-NWO-002",
+      "voucherDate": "2025-12-04",
+      "bankAmountEur": 430.0,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Emmanuel Nwokolo - Inbox Management, Inbox 2025-11, 43.0 Std. a 10.0000 EUR"
+    },
+    {
+      "file": "GS-NWO-003.pdf",
+      "voucherNumber": "GS-NWO-003",
+      "voucherDate": "2026-01-24",
+      "bankAmountEur": 101.67,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Emmanuel Nwokolo - Inbox Management, Inbox 2025-11, 10.2 Std. a 9.9676 EUR"
+    },
+    {
+      "file": "GS-NWO-004.pdf",
+      "voucherNumber": "GS-NWO-004",
+      "voucherDate": "2026-01-24",
+      "bankAmountEur": 102.85,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Emmanuel Nwokolo - Inbox Management, Inbox 2025-11, 10.3 Std. a 9.9854 EUR"
+    },
+    {
+      "file": "GS-NWO-005.pdf",
+      "voucherNumber": "GS-NWO-005",
+      "voucherDate": "2026-01-24",
+      "bankAmountEur": 426.84,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Emmanuel Nwokolo - Inbox Management, Inbox 2025-12, 42.7 Std. a 9.9963 EUR"
+    },
+    {
+      "file": "GS-NWO-006.pdf",
+      "voucherNumber": "GS-NWO-006",
+      "voucherDate": "2026-01-24",
+      "bankAmountEur": 430.0,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Emmanuel Nwokolo - Inbox Management, Inbox 2025-12, 43.0 Std. a 10.0000 EUR"
+    },
+    {
+      "file": "GS-NWO-007.pdf",
+      "voucherNumber": "GS-NWO-007",
+      "voucherDate": "2026-02-11",
+      "bankAmountEur": 471.06,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Emmanuel Nwokolo - Inbox Management, Inbox 2026-01, 47.1 Std. a 10.0013 EUR"
+    },
+    {
+      "file": "GS-NWO-008.pdf",
+      "voucherNumber": "GS-NWO-008",
+      "voucherDate": "2026-02-11",
+      "bankAmountEur": 474.51,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Emmanuel Nwokolo - Inbox Management, Inbox 2026-01, 47.5 Std. a 9.9897 EUR"
+    },
+    {
+      "file": "GS-NWO-009.pdf",
+      "voucherNumber": "GS-NWO-009",
+      "voucherDate": "2026-03-13",
+      "bankAmountEur": 502.72,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Emmanuel Nwokolo - Inbox Management, Inbox 2026-02, 50.3 Std. a 9.9944 EUR"
+    },
+    {
+      "file": "GS-NWO-010.pdf",
+      "voucherNumber": "GS-NWO-010",
+      "voucherDate": "2026-03-13",
+      "bankAmountEur": 506.41,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Emmanuel Nwokolo - Inbox Management, Inbox 2026-02, 50.6 Std. a 10.0081 EUR"
+    }
+  ]
+}
