@@ -1,0 +1,81 @@
+{
+  "description": "Fatimah Setya Wardani (Bali, Indonesia), freelance Personal Assistant / Inbox Management, one Gutschrift per bank line (Section 14(2) sentence 2 UStG self-billing, scripts/generate-gutschrift.py). Real confirmed rate: $11.00 USD/hour (user-confirmed from memory, not solved backward from the payment amount). Hours are derived by converting each EUR bank amount to USD using the actual ECB reference rate on that value date (frankfurter.app/ECB data), then dividing by $11 -- fractional hours, not rounded to a clean grid, since the real driver of the EUR variance is daily FX, not hours worked. Category 'Fremdleistungen'. 0% VAT: reverse charge (Section 13b UStG), Indonesia is a non-EU/Drittland supplier.",
+  "vendor": {
+    "searchNames": [
+      "Fatimah Setya Wardani",
+      "Fatimah"
+    ],
+    "company": {
+      "name": "Fatimah Setya Wardani",
+      "street": "Yudistira Street Number 3",
+      "city": "Seminyak - Bali",
+      "zip": "",
+      "countryCode": "ID"
+    }
+  },
+  "entries": [
+    {
+      "file": "GS-FAT-001.pdf",
+      "voucherNumber": "GS-FAT-001",
+      "voucherDate": "2025-09-03",
+      "bankAmountEur": 494.13,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Fatimah Setya Wardani - Personal Assistant, GS-FAT-001, $11.00 USD/h zum EZB-Kurs vom 2025-09-03 umgerechnet"
+    },
+    {
+      "file": "GS-FAT-002.pdf",
+      "voucherNumber": "GS-FAT-002",
+      "voucherDate": "2025-09-06",
+      "bankAmountEur": 103.94,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Fatimah Setya Wardani - Personal Assistant, GS-FAT-002, $11.00 USD/h zum EZB-Kurs vom 2025-09-06 umgerechnet"
+    },
+    {
+      "file": "GS-FAT-003.pdf",
+      "voucherNumber": "GS-FAT-003",
+      "voucherDate": "2025-10-06",
+      "bankAmountEur": 494.02,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Fatimah Setya Wardani - Personal Assistant, GS-FAT-003, $11.00 USD/h zum EZB-Kurs vom 2025-10-06 umgerechnet"
+    },
+    {
+      "file": "GS-FAT-004.pdf",
+      "voucherNumber": "GS-FAT-004",
+      "voucherDate": "2025-10-16",
+      "bankAmountEur": 129.09,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Fatimah Setya Wardani - Personal Assistant, GS-FAT-004, $11.00 USD/h zum EZB-Kurs vom 2025-10-16 umgerechnet"
+    },
+    {
+      "file": "GS-FAT-005.pdf",
+      "voucherNumber": "GS-FAT-005",
+      "voucherDate": "2025-10-16",
+      "bankAmountEur": 130.5,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Fatimah Setya Wardani - Personal Assistant, GS-FAT-005, $11.00 USD/h zum EZB-Kurs vom 2025-10-16 umgerechnet"
+    },
+    {
+      "file": "GS-FAT-006.pdf",
+      "voucherNumber": "GS-FAT-006",
+      "voucherDate": "2025-11-07",
+      "bankAmountEur": 494.02,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Fatimah Setya Wardani - Personal Assistant, GS-FAT-006, $11.00 USD/h zum EZB-Kurs vom 2025-11-07 umgerechnet"
+    },
+    {
+      "file": "GS-FAT-007.pdf",
+      "voucherNumber": "GS-FAT-007",
+      "voucherDate": "2025-11-07",
+      "bankAmountEur": 497.55,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Fatimah Setya Wardani - Personal Assistant, GS-FAT-007, $11.00 USD/h zum EZB-Kurs vom 2025-11-07 umgerechnet"
+    }
+  ]
+}

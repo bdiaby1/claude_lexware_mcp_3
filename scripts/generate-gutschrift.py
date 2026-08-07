@@ -76,6 +76,9 @@ def draw_gutschrift(path, issuer, doc):
     if doc.get("bic"):
         c.drawString(x, y, f"BIC/Bank: {doc['bic']}")
         y -= 5 * mm
+    if doc.get("bankLine"):
+        c.drawString(x, y, doc["bankLine"])
+        y -= 5 * mm
     y -= 6 * mm
 
     c.setFont("Helvetica-Bold", 16)
@@ -137,6 +140,10 @@ def draw_gutschrift(path, issuer, doc):
     if doc.get("iban"):
         c.setFont("Helvetica", 9)
         c.drawString(x, y, f"Zahlungsverbindung des leistenden Unternehmers: IBAN {doc['iban']}, BIC/Bank {doc.get('bic', '')}.")
+        y -= 8 * mm
+    elif doc.get("bankLine"):
+        c.setFont("Helvetica", 9)
+        c.drawString(x, y, f"Zahlungsverbindung des leistenden Unternehmers: {doc['bankLine']}")
         y -= 8 * mm
 
     c.setFont("Helvetica", 8)
