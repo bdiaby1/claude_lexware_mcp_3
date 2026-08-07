@@ -175,7 +175,7 @@ async function main() {
 		total += entry.bankAmountEur;
 
 		const voucherBody = {
-			type: 'purchaseinvoice',
+			type: entry.voucherType ?? 'purchaseinvoice',
 			voucherNumber,
 			voucherDate: entry.voucherDate,
 			totalGrossAmount: entry.bankAmountEur,
