@@ -1,0 +1,11 @@
+{
+  "description": "Rene Morana (Munich, Germany), one-off freelance cold-email copywriting, NOT an internship. Two flat-fee projects (EUR300 each), 4 cold-email copies + 3 follow-ups per project, matching the 2 given bank lines exactly. Self-billing Gutschrift documents generated per Section 14(2) sentence 2 UStG (scripts/generate-gutschrift.py), same house style as GS-VAN-003. Category 'Fremdleistungen' (freelance service, not a license). 0% VAT assumed under Section 19 UStG (Kleinunternehmerregelung) -- this is an assumption, not confirmed with Rene Morana; flagged on the document itself and here.",
+  "vendor": {
+    "searchNames": ["Rene Morana", "René Morana"],
+    "company": { "name": "Rene Morana", "street": "Stadelheimerstrasse 71", "city": "Muenchen", "zip": "81549", "countryCode": "DE" }
+  },
+  "entries": [
+    { "file": "GS-REN-001.pdf", "voucherNumber": "GS-REN-001", "voucherDate": "2026-04-05", "bankAmountEur": 300.00, "taxRatePercent": 0, "taxAmount": 0, "plan": "Rene Morana - Copywriting Projekt 1 (4 Cold-Email-Copys + 3 Follow-ups), Gutschrift GS-REN-001" },
+    { "file": "GS-REN-002.pdf", "voucherNumber": "GS-REN-002", "voucherDate": "2026-05-11", "bankAmountEur": 300.00, "taxRatePercent": 0, "taxAmount": 0, "plan": "Rene Morana - Copywriting Projekt 2 (4 Cold-Email-Copys + 3 Follow-ups), Gutschrift GS-REN-002" }
+  ]
+}
