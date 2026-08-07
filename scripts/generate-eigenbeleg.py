@@ -23,7 +23,7 @@ from reportlab.lib import colors
 from reportlab.pdfgen import canvas
 from datetime import date
 
-def draw_eigenbeleg(path, issuer, prepared_by, reason, account, beleg_nummer, beleg_date, lines):
+def draw_eigenbeleg(path, issuer, prepared_by, reason, account, beleg_nummer, beleg_date, lines, source_label=None):
     c = canvas.Canvas(path, pagesize=A4)
     width, height = A4
     x = 20 * mm
@@ -59,7 +59,16 @@ def draw_eigenbeleg(path, issuer, prepared_by, reason, account, beleg_nummer, be
     c.drawString(x, y, "Erstellt am:")
     c.setFont("Helvetica", 10)
     c.drawString(x + 35 * mm, y, date.today().strftime("%d.%m.%Y"))
-    y -= 10 * mm
+    y -= 6 * mm
+
+    if source_label:
+        c.setFont("Helvetica-Bold", 10)
+        c.drawString(x, y, "Bankbezeichnung:")
+        c.setFont("Helvetica", 10)
+        c.drawString(x + 35 * mm, y, source_label)
+        y -= 6 * mm
+
+    y -= 4 * mm
 
     c.setFont("Helvetica-Bold", 10)
     c.drawString(x, y, "Grund:")
@@ -150,6 +159,7 @@ def main():
             group["belegNummer"],
             group["date"],
             group["lines"],
+            group.get("sourceLabel"),
         )
         print(f"wrote {out_path}")
 

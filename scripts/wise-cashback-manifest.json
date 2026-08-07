@@ -1,18 +1,348 @@
 {
-  "description": "TransferWise (Wise) 'BALANCE CASHBACK' credits on the business account, 21 bank lines grouped by settlement date into 9 vouchers (matches how Wise pays out cashback in date batches). Wise issues no invoice/receipt for these credits, so each voucher is backed by a generated Eigenbeleg PDF (scripts/generate-eigenbeleg.py) listing the individual lines instead of a vendor document. Booked as voucherType 'purchasecreditnote' (expense reduction) against 'Nebenkosten des Geldverkehrs' -- this reduces prior payment/FX fee expense rather than being booked as separate income, per the user's explicit request. 0% VAT: a rebate on a VAT-exempt financial service (Section 4 No. 8 UStG) carries no VAT itself. Vendor entity is inferred as TransferWise Europe SA (Brussels, the Wise entity licensed for EEA customers) -- confirm against the actual account provider shown in your Wise dashboard if this matters.",
+  "description": "TransferWise/Wise 'BALANCE CASHBACK' / 'general' credits on the business account -- REDONE per explicit user correction: one voucher per individual bank line (exact date + exact cent amount), no date-grouping, so Lexoffice's automatic bank matching (Kontenabgleich autodetect) can pair each voucher to its bank transaction 1:1. Supersedes the earlier grouped version (9 vouchers), which the user deleted because grouped sums didn't match individual bank lines. Excludes 'Usmaan Khan / Sent via Wise / -1.940,68 EUR' (2025-05-20) -- a real outgoing payment via Wise, not a cashback credit, explicitly flagged by the user as a different matter, not booked here. Wise issues no invoice/receipt for cashback; each voucher is backed by a generated Eigenbeleg PDF (scripts/generate-eigenbeleg.py) for exactly that one transaction. Booked as voucherType 'purchasecreditnote' (expense reduction) against 'Nebenkosten des Geldverkehrs', 0% VAT (rebate on a VAT-exempt financial service carries no VAT of its own).",
   "vendor": {
-    "searchNames": ["TransferWise", "Wise"],
-    "company": { "name": "TransferWise Europe SA", "street": "Avenue Marnix 13-17", "city": "Brussels", "zip": "1000", "countryCode": "BE" }
+    "searchNames": [
+      "TransferWise",
+      "Wise"
+    ],
+    "company": {
+      "name": "TransferWise Europe SA",
+      "street": "Avenue Marnix 13-17",
+      "city": "Brussels",
+      "zip": "1000",
+      "countryCode": "BE"
+    }
   },
   "entries": [
-    { "file": "EB-WISE-2025-04-03.pdf", "voucherNumber": "EB-WISE-2025-04-03", "voucherType": "purchasecreditnote", "voucherDate": "2025-04-03", "bankAmountEur": 0.35, "taxRatePercent": 0, "taxAmount": 0, "plan": "Wise Balance Cashback 03.04.2025 (1 bank line) -- Eigenbeleg, kein Fremdbeleg verfuegbar" },
-    { "file": "EB-WISE-2025-05-02.pdf", "voucherNumber": "EB-WISE-2025-05-02", "voucherType": "purchasecreditnote", "voucherDate": "2025-05-02", "bankAmountEur": 2.05, "taxRatePercent": 0, "taxAmount": 0, "plan": "Wise Balance Cashback 02.05.2025 (3 bank lines) -- Eigenbeleg, kein Fremdbeleg verfuegbar" },
-    { "file": "EB-WISE-2025-06-03.pdf", "voucherNumber": "EB-WISE-2025-06-03", "voucherType": "purchasecreditnote", "voucherDate": "2025-06-03", "bankAmountEur": 4.27, "taxRatePercent": 0, "taxAmount": 0, "plan": "Wise Balance Cashback 03.06.2025 (3 bank lines) -- Eigenbeleg, kein Fremdbeleg verfuegbar" },
-    { "file": "EB-WISE-2025-07-04.pdf", "voucherNumber": "EB-WISE-2025-07-04", "voucherType": "purchasecreditnote", "voucherDate": "2025-07-04", "bankAmountEur": 2.15, "taxRatePercent": 0, "taxAmount": 0, "plan": "Wise Balance Cashback 04.07.2025 (3 bank lines) -- Eigenbeleg, kein Fremdbeleg verfuegbar" },
-    { "file": "EB-WISE-2025-08-06.pdf", "voucherNumber": "EB-WISE-2025-08-06", "voucherType": "purchasecreditnote", "voucherDate": "2025-08-06", "bankAmountEur": 2.37, "taxRatePercent": 0, "taxAmount": 0, "plan": "Wise Balance Cashback 06.08.2025 (3 bank lines) -- Eigenbeleg, kein Fremdbeleg verfuegbar" },
-    { "file": "EB-WISE-2025-09-04.pdf", "voucherNumber": "EB-WISE-2025-09-04", "voucherType": "purchasecreditnote", "voucherDate": "2025-09-04", "bankAmountEur": 3.81, "taxRatePercent": 0, "taxAmount": 0, "plan": "Wise Balance Cashback 04.09.2025 (3 bank lines) -- Eigenbeleg, kein Fremdbeleg verfuegbar" },
-    { "file": "EB-WISE-2025-10-06.pdf", "voucherNumber": "EB-WISE-2025-10-06", "voucherType": "purchasecreditnote", "voucherDate": "2025-10-06", "bankAmountEur": 2.00, "taxRatePercent": 0, "taxAmount": 0, "plan": "Wise Balance Cashback 06.10.2025 (3 bank lines) -- Eigenbeleg, kein Fremdbeleg verfuegbar" },
-    { "file": "EB-WISE-2025-11-06.pdf", "voucherNumber": "EB-WISE-2025-11-06", "voucherType": "purchasecreditnote", "voucherDate": "2025-11-06", "bankAmountEur": 0.17, "taxRatePercent": 0, "taxAmount": 0, "plan": "Wise Balance Cashback 06.11.2025 (1 bank line) -- Eigenbeleg, kein Fremdbeleg verfuegbar" },
-    { "file": "EB-WISE-2025-12-03.pdf", "voucherNumber": "EB-WISE-2025-12-03", "voucherType": "purchasecreditnote", "voucherDate": "2025-12-03", "bankAmountEur": 0.11, "taxRatePercent": 0, "taxAmount": 0, "plan": "Wise Balance Cashback 03.12.2025 (1 bank line) -- Eigenbeleg, kein Fremdbeleg verfuegbar" }
+    {
+      "file": "EB-WISE-2026-07-03-1.pdf",
+      "voucherNumber": "EB-WISE-2026-07-03-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-07-03",
+      "bankAmountEur": 0.34,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 03.07.2026 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-06-03-1.pdf",
+      "voucherNumber": "EB-WISE-2026-06-03-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-06-03",
+      "bankAmountEur": 0.07,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 03.06.2026 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-06-03-2.pdf",
+      "voucherNumber": "EB-WISE-2026-06-03-2",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-06-03",
+      "bankAmountEur": 0.27,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 03.06.2026 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-06-03-3.pdf",
+      "voucherNumber": "EB-WISE-2026-06-03-3",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-06-03",
+      "bankAmountEur": 0.13,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 03.06.2026 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-05-07-1.pdf",
+      "voucherNumber": "EB-WISE-2026-05-07-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-05-07",
+      "bankAmountEur": 0.53,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 07.05.2026 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-05-07-2.pdf",
+      "voucherNumber": "EB-WISE-2026-05-07-2",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-05-07",
+      "bankAmountEur": 0.12,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 07.05.2026 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-05-07-3.pdf",
+      "voucherNumber": "EB-WISE-2026-05-07-3",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-05-07",
+      "bankAmountEur": 0.1,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 07.05.2026 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-04-06-1.pdf",
+      "voucherNumber": "EB-WISE-2026-04-06-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-04-06",
+      "bankAmountEur": 0.38,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 06.04.2026 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-04-06-2.pdf",
+      "voucherNumber": "EB-WISE-2026-04-06-2",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-04-06",
+      "bankAmountEur": 0.26,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 06.04.2026 (Wise / general) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-03-05-1.pdf",
+      "voucherNumber": "EB-WISE-2026-03-05-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-03-05",
+      "bankAmountEur": 0.15,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 05.03.2026 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-03-05-2.pdf",
+      "voucherNumber": "EB-WISE-2026-03-05-2",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-03-05",
+      "bankAmountEur": 0.36,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 05.03.2026 (Wise / general) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-02-05-1.pdf",
+      "voucherNumber": "EB-WISE-2026-02-05-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-02-05",
+      "bankAmountEur": 0.25,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 05.02.2026 (Wise / general) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2026-01-07-1.pdf",
+      "voucherNumber": "EB-WISE-2026-01-07-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2026-01-07",
+      "bankAmountEur": 0.55,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 07.01.2026 (Wise / general) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-12-03-1.pdf",
+      "voucherNumber": "EB-WISE-2025-12-03-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-12-03",
+      "bankAmountEur": 0.91,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 03.12.2025 (Wise / general) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-11-06-1.pdf",
+      "voucherNumber": "EB-WISE-2025-11-06-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-11-06",
+      "bankAmountEur": 1.84,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 06.11.2025 (Wise / general) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-10-06-1.pdf",
+      "voucherNumber": "EB-WISE-2025-10-06-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-10-06",
+      "bankAmountEur": 0.1,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 06.10.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-10-06-2.pdf",
+      "voucherNumber": "EB-WISE-2025-10-06-2",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-10-06",
+      "bankAmountEur": 1.59,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 06.10.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-10-06-3.pdf",
+      "voucherNumber": "EB-WISE-2025-10-06-3",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-10-06",
+      "bankAmountEur": 0.31,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 06.10.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-09-04-1.pdf",
+      "voucherNumber": "EB-WISE-2025-09-04-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-09-04",
+      "bankAmountEur": 0.29,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 04.09.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-09-04-2.pdf",
+      "voucherNumber": "EB-WISE-2025-09-04-2",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-09-04",
+      "bankAmountEur": 3.32,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 04.09.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-09-04-3.pdf",
+      "voucherNumber": "EB-WISE-2025-09-04-3",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-09-04",
+      "bankAmountEur": 0.2,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 04.09.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-08-06-1.pdf",
+      "voucherNumber": "EB-WISE-2025-08-06-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-08-06",
+      "bankAmountEur": 0.13,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 06.08.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-08-06-2.pdf",
+      "voucherNumber": "EB-WISE-2025-08-06-2",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-08-06",
+      "bankAmountEur": 0.48,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 06.08.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-08-06-3.pdf",
+      "voucherNumber": "EB-WISE-2025-08-06-3",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-08-06",
+      "bankAmountEur": 1.76,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 06.08.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-07-04-1.pdf",
+      "voucherNumber": "EB-WISE-2025-07-04-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-07-04",
+      "bankAmountEur": 0.07,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 04.07.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-07-04-2.pdf",
+      "voucherNumber": "EB-WISE-2025-07-04-2",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-07-04",
+      "bankAmountEur": 0.95,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 04.07.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-07-04-3.pdf",
+      "voucherNumber": "EB-WISE-2025-07-04-3",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-07-04",
+      "bankAmountEur": 1.13,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 04.07.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-06-03-1.pdf",
+      "voucherNumber": "EB-WISE-2025-06-03-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-06-03",
+      "bankAmountEur": 0.99,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 03.06.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-06-03-2.pdf",
+      "voucherNumber": "EB-WISE-2025-06-03-2",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-06-03",
+      "bankAmountEur": 0.56,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 03.06.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-06-03-3.pdf",
+      "voucherNumber": "EB-WISE-2025-06-03-3",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-06-03",
+      "bankAmountEur": 2.72,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 03.06.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-05-02-1.pdf",
+      "voucherNumber": "EB-WISE-2025-05-02-1",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-05-02",
+      "bankAmountEur": 0.47,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 02.05.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-05-02-2.pdf",
+      "voucherNumber": "EB-WISE-2025-05-02-2",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-05-02",
+      "bankAmountEur": 1.46,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 02.05.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    },
+    {
+      "file": "EB-WISE-2025-05-02-3.pdf",
+      "voucherNumber": "EB-WISE-2025-05-02-3",
+      "voucherType": "purchasecreditnote",
+      "voucherDate": "2025-05-02",
+      "bankAmountEur": 0.12,
+      "taxRatePercent": 0,
+      "taxAmount": 0,
+      "plan": "Wise Balance Cashback 02.05.2025 (TransferWise / BALANCE CASHBACK) -- Eigenbeleg 1:1 zur Bankbuchung, kein Fremdbeleg verfuegbar"
+    }
   ]
 }
