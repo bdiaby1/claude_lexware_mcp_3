@@ -1,5 +1,17 @@
 # Lexware Office MCP Server — Claude Instructions
 
+## Benjamin's Brain (content / YouTube work)
+
+This repo doubles as Benjamin's persistent Claude workspace. `brain/` is cross-session
+memory for his content work (YouTube channel, video retention analysis, shorts, IG).
+
+- Task about content, videos, scripts, shorts, Instagram, retention, Michael's cuts →
+  read `brain/README.md` FIRST and follow its protocol (then STATE.md → the project).
+- Task about Lexware/bookkeeping/MCP-server code → ignore `brain/`, use the sections below.
+- Any session that changes content state must write back to `brain/STATE.md` +
+  `brain/LOG.md` and commit + push before ending. Containers are ephemeral:
+  unpushed = forgotten.
+
 ## API Documentation
 
 Lexware Office REST API: https://developers.lexoffice.io/docs/
