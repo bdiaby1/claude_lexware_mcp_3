@@ -1,29 +1,43 @@
-# STATE — as of 2026-08-21 (brain creation)
+# STATE — as of 2026-08-23
 
 Sources: handoff package — master doc dated 29 June 2026, Berlin preproduction doc
-dated 16 Aug 2026. Items marked **[STALE?]** are ~8 weeks old and need confirmation.
+dated 16 Aug 2026, plus the published Görli video (link from Benjamin, 23 Aug).
+Items marked **[STALE?]** are ~8 weeks old and need confirmation.
 Rule: ask the open questions ONCE at the start of the next content session, write the
 answers here, delete the question.
 
 ## OPEN QUESTIONS FOR BENJAMIN
 
-1. **KL swap video** — published as planned (~end of June)? If yes: send the YouTube
-   Studio retention-curve screenshots — the post-publish half of the analysis loop
-   (MEMORY §11/§12) has never run and closes the prediction→proof circle.
-2. **Name spelling** — Mohammed vs Ahmed (MEMORY §9, "ask ONCE, then fix globally").
-   Still unresolved in every file we hold.
-3. **Görlitzer** — status of Michael's rough cut? VO recorded (13 blocks + 3 interview
-   re-records, `goerlitzer_vo_final.md`)? Kamara dub test (Segment 3, animal story) done?
-4. **Berlin Rich vs Poor** — the Waldorf/G-Klasse weekend: the shot list targeted the
-   weekend right after 16 Aug — that is 22/23 Aug, i.e. NOW. Shot already, or upcoming?
-   Prices verified (suite rate, G-Klasse list price → exact bottle numbers)?
-5. **First retention analysis** — Görli rough cut? Needed from Benjamin: 480p proxy
-   (split in halves if too big) + ElevenLabs Scribe transcript with timestamps.
-   Pipeline is ready: `pipelines/video-retention-analysis.md`.
+1. **Görli is LIVE — send the retention curve.** YouTube Studio screenshots (audience
+   retention + the first 30s, plus CTR/impressions). Claude cannot see any of it from
+   outside. This is the post-publish half of the loop (MEMORY §11/§12) and it has never
+   run once. Pre-publish analysis is prediction; the curve is proof.
+2. **Also send the 480p proxy + Scribe transcript of the published cut.** Then the
+   frame-level analysis runs against the real curve — "people leave at 1:47" plus
+   "here is the picture at 1:47" is the whole point. Downloading it here is impossible
+   (YouTube bot-block, verified 23 Aug — see the findings file).
+3. **The 5 shorts** — posting order was built around launch day (2 before, 2 on the
+   day, 1 after). Which ones went out, and how did they do?
+4. **KL swap video** — published back in June/July? If yes, its curves are the second
+   data point and the two videos can be compared. [STALE?]
+5. **Name spelling** — Mohammed vs Ahmed (MEMORY §9, "ask ONCE, then fix globally").
+   Still unresolved in every file we hold. Only matters if the swap video is still
+   unpublished or its shorts are still being cut.
+6. **Berlin Rich vs Poor** — the Waldorf/G-Klasse weekend was aimed at 22/23 Aug, i.e.
+   right now. Shot already, or upcoming? Prices verified (suite rate, G-Klasse list
+   price → exact bottle numbers)? Protagonist cast at the street interview?
 
 ## PROJECTS
 
-### Görlitzer Park — "Before They Were Dealers — Germany's Most Dangerous Park" — SHOT, IN POST
+### Görlitzer Park — "Before They Were Dealers - Germany's Most Dangerous Park" — **PUBLISHED** (confirmed 2026-08-23)
+- Live at https://youtu.be/3lO8b-jyFmg — title exactly as locked in script v2.
+- Thumbnail shipped: split, **FRIDAY 1PM** mosque / **FRIDAY 3PM** park, faces blurred
+  or turned away. Archived as `projects/goerlitzer/published_thumbnail.jpg`; full read
+  in `projects/goerlitzer/findings/2026-08-23_packaging-live.md`. It holds up against
+  MEMORY §8 and produced two new packaging rules (now in §8, dated).
+- Metrics: UNKNOWN to Claude and unreachable from here → open questions 1 and 2.
+- Everything below describes the plan the cut was built from — useful as the reference
+  when the proxy arrives (what was intended vs what shipped).
 - Script v2 locked (`projects/goerlitzer/goerlitzer_script_v2.md`). Cold open: bottle
   throw, audio-led. Loop: mosque contradiction → Kamara's faith answer closes it.
   Closing thesis: "don't judge a man until you know the road he walked."
@@ -34,8 +48,8 @@ answers here, delete the question.
   stays French. Flags are Benjamin's decisions, not the editor's.
 - VO sheet final: 13 blocks + 3 interview questions to re-record. Record AFTER rough cut.
 - 5 shorts fully written with posting order (2 before launch, 2 on launch day, 1 after).
-- **Next:** rough cut from Michael → retention analysis → findings to
-  `projects/goerlitzer/findings/`.
+- **Next:** retention curve + proxy + transcript from Benjamin → frame-level analysis
+  against the real curve → findings to `projects/goerlitzer/findings/`.
 
 ### Berlin Rich vs Poor (Waldorf + G-Klasse) — PRE-PRODUCTION (as of 16 Aug)
 - Script v1 written (`projects/berlin-rich-vs-poor/berlin_rich_vs_poor_script_v1.md`).

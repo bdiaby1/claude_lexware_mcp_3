@@ -86,6 +86,8 @@ His own key sentence: **"The strongest videos play around other people."** No ot
 - Title and thumbnail split the work — they never repeat each other.
 - Click must equal payoff (no wheelchair-man thumb — viewer would think HE gets the penthouse).
 - Don't change packaging 5x after launch. One clean A/B if possible, then leave it.
+- [added 2026-08-23, from the published Görli thumbnail] **When the blur rule collides with the readable-eyes rule, blur wins — and something else has to carry the emotion.** On consent-sensitive videos there are no usable faces, so the readable-eyes rule from the swap thumb cannot apply. The Görli thumbnail solved it with TIME: split frame, mosque "FRIDAY 1PM" vs park "FRIDAY 3PM", one man from behind, the others blurred. The timestamps do the work eyes normally do, and the contradiction is legible in half a second without a face.
+- [added 2026-08-23] **The most cinematic frame of the shoot is not automatically the thumbnail.** The mosque lit blue by twenty police cars was the planned thumbnail candidate; it needs a sentence to explain itself. 1PM/3PM needs none. Thumbnail = fastest legible contradiction, not the best image in the film.
 
 ## 9. SHORTS PLAYBOOK
 
@@ -145,3 +147,4 @@ Moved to `brain/STATE.md` (fast-changing — it gets rewritten every session; th
 - Editor/videographer: Michael — English briefs, gets scripts + VO + optional talking-head, decides usage per cut.
 - Sound direction (instead of music): ambience, foley, simple percussion, vocal humming.
 - Claude cannot access/watch YouTube directly; use pipeline in §12.
+- [added 2026-08-23, tested] Concretely: from a Claude Code container, YouTube blocks yt-dlp with HTTP 429 / "Sign in to confirm you're not a bot" (datacenter IP). No cut, no auto-subtitles, no view count. What DOES work: the public oEmbed endpoint (title + channel) and the thumbnail via `i.ytimg.com/vi/<id>/maxresdefault.jpg` — enough for a packaging read, nothing more. Don't retry this; the proxy + Scribe transcript into the chat stays the only path.
