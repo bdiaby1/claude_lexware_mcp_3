@@ -42,3 +42,27 @@ facts only. Never edit old entries — correct with a new one.
 - Still not run: any retention analysis. Blocked on Benjamin sending the Studio curve
   plus the 480p proxy and Scribe transcript. STATE questions renumbered around that.
 
+
+## 2026-09-12 — Istanbul: script into the brain, first retention analysis run
+
+- New project: Istanbul / Tahsin, "He Eats From the Trash of Istanbul's Rich". Benjamin
+  pasted the full script + 3-shorts brief in chat on 11 Sep; both saved verbatim to
+  `projects/istanbul/` — they existed nowhere else and would have died with the session.
+- He sent a 50-second screen recording of the first cut (played from Drive). **First
+  time the retention pipeline actually ran end to end.**
+- Method notes worth keeping (added to the pipeline doc): a screen recording needs
+  cropping to the video area first (here 1152x648 inside 1512x648, pillarboxed); and
+  scene detection at the standard 0.3 threshold UNDER-REPORTS cuts in very dark
+  footage — it claimed a 6.8s static hold that a 0.12 pass showed was five cuts.
+  Checking that before reporting saved a wrong headline finding.
+- Findings: `projects/istanbul/findings/2026-09-12_hook-cut-50s.md`. Pace is good
+  (~19 cuts/30s, his 4-second rule holds everywhere). The real problems are order and
+  picture choice: the knife story — his scripted line one — starts at 0:17 behind a
+  wordless montage; the payoff line "You give me money." sits on a wide of him in a
+  park instead of on Tahsin; "Tonight I pulled it with him" sits on a taxi; the closing
+  promise sits on the weakest frame in the cut. Plus: bin-climb and 50kg lift are both
+  on his own hook shot list and absent; the coffee terrace is spent twice.
+- Flagged for him, not changed: the knife shot at 0:19.5 is an unlabelled re-enactment
+  cut among real footage — brand risk against "real frames only", his call.
+- Still open: whether this 50s is the whole hook or an excerpt; the rest of the cut;
+  and the Görli retention curve, which has now been outstanding since 23 Aug.

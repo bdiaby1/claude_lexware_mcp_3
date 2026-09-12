@@ -14,6 +14,22 @@ verbatim from Benjamin's handoff (drop-in replacement for VIDEO_ANALYSIS_BRIEF.m
 - **Load context before looking at a single frame:** the project's script, footage
   protocol and VO sheet (`brain/projects/<video>/`). The "missing best material"
   check is the one thing no tool can do — it only works if you know what was filmed.
+- **If the input is a SCREEN RECORDING** (he films the player, e.g. from Drive): crop to
+  the video area FIRST or every measurement is polluted by player UI and letterboxing.
+  `ffprobe` the size, pull one full frame, look at it, then e.g.
+  `-vf "crop=1152:648:180:0"` for a 16:9 video pillarboxed inside a 1512x648 screen.
+  Verified 12 Sep 2026 on the Istanbul hook.
+- **Scene detection UNDER-REPORTS cuts in dark footage.** The brief's `scene>0.3` is
+  right for normal material, but night scenes have too little frame-to-frame contrast
+  to cross it. On the Istanbul hook it reported a 6.8s static hold that did not exist —
+  a second pass at `>0.12` showed five cuts inside that window. **Always re-run any
+  suspected static stretch at a lower threshold before reporting it**, and cross-check
+  with brightness: `fps=1,signalstats` → `YAVG` per second. A "hole" that is really a
+  dark stretch is a legibility finding, not a pacing finding — two different notes for
+  Michael.
+- **Brightness is a real finding on its own.** YAVG under ~50 while the rest of the cut
+  sits at 100+ means that stretch is close to unreadable on a phone in daylight. Worth
+  flagging whenever the dark stretch carries an important line.
 - **Output:** `brain/projects/<video>/findings/YYYY-MM-DD_<cutname>.md` — one line
   per issue, `timecode → problem → instruction for Michael`. Commit + push, update
   STATE.md + LOG.md per `brain/README.md`.

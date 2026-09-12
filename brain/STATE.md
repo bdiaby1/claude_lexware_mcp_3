@@ -1,33 +1,48 @@
-# STATE — as of 2026-08-23
+# STATE — as of 2026-09-12
 
 Sources: handoff package — master doc dated 29 June 2026, Berlin preproduction doc
-dated 16 Aug 2026, plus the published Görli video (link from Benjamin, 23 Aug).
-Items marked **[STALE?]** are ~8 weeks old and need confirmation.
+dated 16 Aug 2026, the published Görli video (23 Aug), and the Istanbul script + shorts
+brief + first hook cut (11/12 Sep).
+Items marked **[STALE?]** are old and need confirmation.
 Rule: ask the open questions ONCE at the start of the next content session, write the
 answers here, delete the question.
 
 ## OPEN QUESTIONS FOR BENJAMIN
 
-1. **Görli is LIVE — send the retention curve.** YouTube Studio screenshots (audience
-   retention + the first 30s, plus CTR/impressions). Claude cannot see any of it from
-   outside. This is the post-publish half of the loop (MEMORY §11/§12) and it has never
-   run once. Pre-publish analysis is prediction; the curve is proof.
-2. **Also send the 480p proxy + Scribe transcript of the published cut.** Then the
-   frame-level analysis runs against the real curve — "people leave at 1:47" plus
-   "here is the picture at 1:47" is the whole point. Downloading it here is impossible
-   (YouTube bot-block, verified 23 Aug — see the findings file).
-3. **The 5 shorts** — posting order was built around launch day (2 before, 2 on the
-   day, 1 after). Which ones went out, and how did they do?
-4. **KL swap video** — published back in June/July? If yes, its curves are the second
-   data point and the two videos can be compared. [STALE?]
-5. **Name spelling** — Mohammed vs Ahmed (MEMORY §9, "ask ONCE, then fix globally").
-   Still unresolved in every file we hold. Only matters if the swap video is still
-   unpublished or its shorts are still being cut.
-6. **Berlin Rich vs Poor** — the Waldorf/G-Klasse weekend was aimed at 22/23 Aug, i.e.
-   right now. Shot already, or upcoming? Prices verified (suite rate, G-Klasse list
-   price → exact bottle numbers)? Protagonist cast at the street interview?
+1. **Istanbul — is the 50s clip the whole hook or an excerpt?** The structure finding
+   (knife story starts at 0:17) assumes it is the opening of the film. If it is a
+   middle excerpt, that note changes.
+2. **Istanbul — send the rest of the cut** (480p proxy, split in halves if big) plus
+   the Scribe transcript. The first 50s are analysed; the other eight minutes are not.
+3. **Istanbul — does a shot of Benjamin actually pulling the cart exist?** The script
+   lists it ("Benjamin pulling, cart stuck") and the hook uses a taxi instead at 0:37.
+   Same question for: him climbing into a bin, and the 50kg lift. All three are on the
+   script's own hook shot list and none appear in the first 50 seconds.
+4. **Istanbul — the knife re-enactment at 0:19.5.** Staged, unlabelled, cut among real
+   footage. Your call, flagged in the findings file. Nothing changed without you.
+5. **Görli is LIVE — send the retention curve.** YouTube Studio screenshots (audience
+   retention + first 30s, CTR/impressions). Still never run once. Pre-publish analysis
+   is prediction; the curve is proof — and now there are two videos to compare.
+6. **The 5 Görli shorts** — which went out, and how did they do?
+7. **KL swap video** — published back in June/July? [STALE?] If yes its curves are a
+   third data point.
+8. **Name spelling** — Mohammed vs Ahmed (MEMORY §9, "ask ONCE, then fix globally").
+   Only matters if the swap video or its shorts are still being cut. [STALE?]
+9. **Berlin Rich vs Poor** — the Waldorf/G-Klasse weekend was aimed at 22/23 Aug. Shot,
+   or dropped in favour of Istanbul? Prices verified? Protagonist cast? [STALE?]
 
 ## PROJECTS
+
+### Istanbul / Tahsin — "He Eats From the Trash of Istanbul's Rich" — SHOT, IN POST
+- Script v1 and the 3-shorts brief are in `projects/istanbul/` (verbatim, 11 Sep).
+- First cut of the hook (50s) reviewed 12 Sep → `projects/istanbul/findings/2026-09-12_hook-cut-50s.md`.
+  Headline: pace is good and his 4-second rule holds; the problems are ORDER and
+  PICTURE CHOICE — the knife story starts at 0:17 behind a wordless montage, and the
+  three biggest lines sit on the park talking-head instead of on Tahsin, the cart or
+  the coffee. One flag for Benjamin: the knife shot is an unlabelled re-enactment.
+- Loops in the script: eggs · the coffee math · why he refused the restaurant.
+- Hard rules: depot faces blurred, no location-identifying wides, no footage of the
+  children (one VO line only).
 
 ### Görlitzer Park — "Before They Were Dealers - Germany's Most Dangerous Park" — **PUBLISHED** (confirmed 2026-08-23)
 - Live at https://youtu.be/3lO8b-jyFmg — title exactly as locked in script v2.
@@ -35,7 +50,7 @@ answers here, delete the question.
   or turned away. Archived as `projects/goerlitzer/published_thumbnail.jpg`; full read
   in `projects/goerlitzer/findings/2026-08-23_packaging-live.md`. It holds up against
   MEMORY §8 and produced two new packaging rules (now in §8, dated).
-- Metrics: UNKNOWN to Claude and unreachable from here → open questions 1 and 2.
+- Metrics: UNKNOWN to Claude and unreachable from here → open question 5.
 - Everything below describes the plan the cut was built from — useful as the reference
   when the proxy arrives (what was intended vs what shipped).
 - Script v2 locked (`projects/goerlitzer/goerlitzer_script_v2.md`). Cold open: bottle
