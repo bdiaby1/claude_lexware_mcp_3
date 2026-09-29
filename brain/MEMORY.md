@@ -69,6 +69,7 @@ His own key sentence: **"The strongest videos play around other people."** No ot
 - Real frames only, NEVER AI-rendered thumbnails (past AI thumbs had typos "BORUGHT"/"HOMELSS" and looked fake). Color-grading real frames = fine.
 - Child-safety line: kids' organizations (e.g. Buku Jalanan Chow Kit) stay OFF the channel.
 - Political videos (Brown-German/Staatsräson, Palestine/Malaysia) = "from strength, later." Never stack two political risk videos close together. Never draft these half-awake or from garbled input.
+- [added 2026-09-29] **LEISURE / OFF-ENGINE content (guns, flexing, flirty "me + a woman" bits): default OFF the public grid.** Test any clip against the §2 engine; if it has zero engine elements it is the opposite pole of the brand ("I sit with the invisible") and does not go out as a discovery Reel. GUNS specifically: audience is heavily SEA/Muslim and the faith layer is real — a holiday gun clip signals leisure/weapons/flex and clashes hard, regardless of sport-shooting being fine in itself. At most such material lives in BEHIND/OFF SCRIPT for warm followers, never next to the invisible-people content. His own hesitation about self-display is a reliable signal — trust it, do not talk him out of it.
 - Street/dealer filming safety: consent before faces, camera down the second mood shifts, never stay long in one spot, someone knows his location, deep/heikle questions only after trust, don't show drugs on camera.
 
 ## 7. RETENTION & OPEN-LOOP PLAYBOOK

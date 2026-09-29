@@ -102,3 +102,14 @@ facts only. Never edit old entries — correct with a new one.
   30s. Told him that line was the MOST valuable part (it's what makes the heli mean the
   gap), not the least, and that runtime was never the real constraint (§7). rio verdict
   file updated; if used at all it goes into THE INVISIBLE, not a new highlight.
+
+## 2026-09-29 (rev 3) — shooting-range clip: brand-fit call
+
+- Analysed the 17s Brazil shooting-range clip (pistol + AR, a woman, a bet, chocolate).
+  Verdict: zero engine elements, does not fit; as a public Reel it mildly damages the
+  brand. Two reasons, both his own rules: guns clash with the SEA/Muslim audience and
+  the faith layer and the just-changed "I sit with the invisible" bio; and "me + a woman
+  + a bet" reads as flex/player against the sincere figure. His own hesitation was right.
+- Recommended: keep personal; at most BEHIND/OFF SCRIPT for followers, never a Reel,
+  never on the grid next to Tahsin. New durable rule added to MEMORY §6 (leisure/guns
+  off the public grid). Verdict file: projects/instagram-highlights/shooting_range_verdict.md
