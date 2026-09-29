@@ -161,3 +161,16 @@ facts only. Never edit old entries — correct with a new one.
   spends the uncopyable authenticity. Net: cheap interest, real trust spent — bad trade
   on status grounds. Desirability may only show as an incidental byproduct, never the
   subject. Captured in MEMORY §10.
+
+## 2026-09-29 (rev 8) — boxing performed; next up = motorbike (same lane)
+
+- Confirmed result: the boxing/combat clip "kam richtig gut an, kommt immer noch leicht"
+  (still riding). Real-world confirmation of the BUILDS bucket (combat = discipline).
+- Sequencing call (his "ride the winning angle" §11 + the leisure framework): after a
+  winner, post the SAME lane, not a new one. Ranked next: MOTORBIKE (same currency —
+  grit/movement/real, compounds the positioning) > golf (calm/affluent, a later "range"
+  post, mild flex-risk) > VR (neutral, only with Malaysia+friends context).
+- Told him: motorbike is Reel-worthy, not just a 24h story; if posted as a Reel, space
+  it 1-2 days after the boxing post so they don't compete for discovery (§9 spacing).
+  Caption = minimal (mood clip, don't manufacture depth): place/time sticker, or one dry
+  first-person concrete line; his own dry line beats a generated one (§5).
