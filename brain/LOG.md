@@ -113,3 +113,11 @@ facts only. Never edit old entries — correct with a new one.
 - Recommended: keep personal; at most BEHIND/OFF SCRIPT for followers, never a Reel,
   never on the grid next to Tahsin. New durable rule added to MEMORY §6 (leisure/guns
   off the public grid). Verdict file: projects/instagram-highlights/shooting_range_verdict.md
+
+## 2026-09-29 (rev 4) — VR battle-arena clip
+
+- 17s EVA VR laser-combat arena clip. Off-engine leisure like the range clip, but
+  distinguished it: this is obviously a GAME (headset, arcade, game UI), not real
+  weapons, so no faith/audience clash and no real-guns damage — it only dilutes.
+  Call: OFF SCRIPT for followers or skip; not a Reel, not next to the invisible content.
+  Showed the distinction from the gun clip rather than reflex-stamping "off-brand".

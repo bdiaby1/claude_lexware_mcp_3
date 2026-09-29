@@ -24,3 +24,5 @@ The IG playbook itself is MEMORY §10. This folder is the applied, ongoing work.
 - `rio_day_verdict.md` — Rio day (33s): has the engine; the green-shirt-man moment is
   Reel/short gold, the clip as-is goes into "On the road" as a Story. Consent flag on
   the fence-sleeper.
+- `shooting_range_verdict.md` — Brazil/Bali gun range: off-brand, mild damage as a Reel (guns + flex). Personal, or BEHIND/OFF SCRIPT at most.
+- VR battle arena (EVA, 17s, 29 Sep): same off-engine leisure family but SOFTER — it is clearly a game, not real weapons, so no faith/audience clash. Does not damage like the gun clip; just dilutes. OFF SCRIPT for followers or skip. The end beat (celebrating at the leaderboard) is the only human keeper.
