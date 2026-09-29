@@ -174,3 +174,16 @@ facts only. Never edit old entries — correct with a new one.
   it 1-2 days after the boxing post so they don't compete for discovery (§9 spacing).
   Caption = minimal (mood clip, don't manufacture depth): place/time sticker, or one dry
   first-person concrete line; his own dry line beats a generated one (§5).
+
+## 2026-09-29 (rev 9) — corrected: off-script clips go to Highlights, NOT the feed/Reel
+
+- Benjamin corrected my "make the motorbike a Reel" push, and he's right (his own pool
+  theory §3). Feed/Reels = discovery to strangers → core-brand only, because you get
+  sorted into the pool of what you post; a moto/golf/VR Reel sorts him into the wrong
+  pool and mislabels him to strangers. Story Highlights = the warm audience already on
+  his profile → the correct home for on-the-road/off-script texture (boxing was a
+  Highlight and that was right; motorbike → same, OFF SCRIPT).
+- Permanence point conceded: a Story saved to a Highlight is permanent, so my "Reel for
+  permanence" argument collapsed — permanence comes from the Highlight, reach was the
+  only Reel delta and off-brand reach is a negative. Superseded my earlier "Reel-capable"
+  notes. Rule captured in MEMORY §10 (feed-vs-highlight, governed by §3). Feed stays pure.
