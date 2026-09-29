@@ -1,4 +1,4 @@
-# STATE — as of 2026-09-12
+# STATE — as of 2026-09-29
 
 Sources: handoff package — master doc dated 29 June 2026, Berlin preproduction doc
 dated 16 Aug 2026, the published Görli video (23 Aug), and the Istanbul script + shorts
@@ -87,6 +87,12 @@ answers here, delete the question.
 - Held back: withheld-loop short (after long video is live) · food short (second wave).
 
 ## STANDING (from MEMORY, still assumed true)
+- **IG highlights** are an active workstream now → `projects/instagram-highlights/`.
+  "On the road" highlight concept + format rules (15s story split, Reel vs Story, no
+  explaining caption) captured 29 Sep. rio_day.mp4 decided: engine present, green-shirt
+  man is Reel/short gold, clip-as-is → Story in "On the road"; consent flag on the
+  fence-sleeper. Confirmed a 3rd time that video frames ARE analysable here.
+
 - Ride the winning angle: one human + giving + luxury scroll-stopper (Gold-Cake angle)
   — cut more of it before touching other topics. TikTok flat numbers = no signal yet.
 - IG queue as of 29 June [STALE?]: Favela post (locked, + the Christmas line at the

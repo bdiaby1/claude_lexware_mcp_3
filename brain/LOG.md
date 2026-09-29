@@ -66,3 +66,21 @@ facts only. Never edit old entries — correct with a new one.
   cut among real footage — brand risk against "real frames only", his call.
 - Still open: whether this 50s is the whole hook or an excerpt; the rest of the cut;
   and the Görli retention curve, which has now been outstanding since 23 Aug.
+
+## 2026-09-29 — Rio day clip: format call + "such tool das du es kannst"
+
+- Benjamin asked whether rio_day.mp4 is a Reel, a Story, or nothing — and told me to
+  find a tool so I can actually see it (older chat-me had said "I can't watch frames";
+  that belief is wrong and now retired — this is the 3rd video I've read via ffmpeg).
+- Ran the pipeline on the 33s vertical clip. It is NOT a throwaway: full engine in 33s
+  — resort + Land Rover + helicopter (wealth) vs a warm laughing moment with an older
+  man in green + a person sleeping at the luxury fence (the invisible).
+- Verdict: green-shirt-man moment is Reel/short gold if more footage exists; the clip
+  as-is → Story into the "On the road" highlight; not a standalone Reel (no single
+  spine). Flagged dignity/consent on the fence-sleeper (face down / not identifiable
+  in the frame checked, so defensible, but §6 applies for anything permanent).
+- New brain folder `projects/instagram-highlights/` holds the "On the road" concept,
+  the format rules agreed in chat (15s story split, Reel vs Story, no explaining
+  caption, no self-diminishing text), and the Rio verdict.
+- Still open (unchanged): Görli retention curve (since 23 Aug), Istanbul rest-of-cut,
+  and whether the Istanbul 50s was hook or excerpt.
