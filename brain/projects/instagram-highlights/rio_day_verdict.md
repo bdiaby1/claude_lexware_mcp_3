@@ -23,8 +23,10 @@ hero beat. NOT an "ich war hier" throwaway.
 1. **The green-shirt man is the gold.** He laughs WITH Benjamin — rare, warm, the exact
    beat the brand is built on. If more of that interaction exists, THAT is a Reel or a
    short on its own. Do not bury it as clip #4 in a highlight montage.
-2. **The clip AS-IS → Story, into the "On the road" highlight.** Raw texture of Rio with
-   the gap visible = good permanent highlight material. Not a finished standalone Reel.
+2. **The clip AS-IS → a Story clip; if it goes to a highlight, THE INVISIBLE is the fit**
+   (there is no "On the road" highlight — see profile_state.md; he wants no new ones).
+   But he is lukewarm on it, and the consent flag stands, so "not up at all" is a fine
+   call too. Raw texture, not a finished standalone Reel.
 3. **Not a standalone Reel as-is:** no single spine. Toilet bit + walk-talk + resort +
    heli + man + sleeper = four half-beats. A Reel needs ONE. If he wants a Reel from
    this, the spine is gap → the man; cut the toilet bit and the generic walk-talk.
@@ -39,3 +41,14 @@ image, face never pushed. Never build the piece on the sleeper.
 ## Caption / comment
 Let it breathe. Max a small place sticker "Rio 🇧🇷" for context. No explaining caption.
 If it becomes a Reel, first line = a concrete image, not a claim (MEMORY §10).
+
+## UPDATE 2026-09-29 — the cut helicopter line (his own note)
+He said he HAD a line naming that the helicopter belongs to a man who flies it with his
+kids, and cut it to bring the clip from 1 min to 30 sec — "wasn't worth much more anyway."
+Respectfully, the opposite: that half-sentence was the most valuable thing in the clip,
+not the least. Without it the helicopter is pretty Rio b-roll; WITH it, it is a family's
+casual helicopter against a man sleeping at the fence 100m away — that line is what makes
+the shot MEAN the wealth gap (§2). The constraint was never 30 vs 60 seconds — §7:
+"Länge tötet die Retention nicht, Langeweile tötet sie." 30s of pretty b-roll with no
+contrast is weaker than 40-45s where the gap lands. If this clip is used at all, put the
+helicopter line back; trim generic walking instead.

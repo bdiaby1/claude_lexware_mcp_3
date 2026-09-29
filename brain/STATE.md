@@ -1,4 +1,4 @@
-# STATE — as of 2026-09-29
+# STATE — as of 2026-09-29 (rev 2)
 
 Sources: handoff package — master doc dated 29 June 2026, Berlin preproduction doc
 dated 16 Aug 2026, the published Görli video (23 Aug), and the Istanbul script + shorts
@@ -87,6 +87,11 @@ answers here, delete the question.
 - Held back: withheld-loop short (after long video is live) · food short (second wave).
 
 ## STANDING (from MEMORY, still assumed true)
+- **FIRST REAL DATA (29 Sep, off his profile):** 134 followers, 20 posts, 5.9K views/30d.
+  Istanbul shorts are LIVE — Tahsin 1,510 · Cats-vs-People 1,072 · 500-Lira 381. The two
+  that lead on a human/concept beat the coffee-math short ~3-4x. Full read + the actual
+  highlight list (OFF SCRIPT · BEHIND · THE INVISIBLE · WATCH; no "On the road", he wants
+  no new ones) in `projects/instagram-highlights/profile_state.md`.
 - **IG highlights** are an active workstream now → `projects/instagram-highlights/`.
   "On the road" highlight concept + format rules (15s story split, Reel vs Story, no
   explaining caption) captured 29 Sep. rio_day.mp4 decided: engine present, green-shirt

@@ -10,6 +10,7 @@ Content as of: 29 June 2026 (handoff package). In the brain since 21 Aug 2026 �
 
 - Benjamin Diaby, "Undercover Agency Owner." German-Guinean, divorced father, agency owner (LeadPioneer), KL penthouse. Channel ~585 subs, 41 videos. Audience heavy Indonesia/Malaysia. Moving to Germany for ~4 months (working full time, weekends only for content).
 - Bio (locked): "Undercover Agency Owner. / I sit with the people everyone walks past to change my perception. / New video on YouTube."
+- [updated 2026-09-29, seen on his live profile] He has CHANGED the bio himself to: "I sit with the invisible. / The people everyone walks past. / New video on YouTube." The "Undercover Agency Owner" opener is GONE. Tighter, and it moves the identity from job title to the brand line — "the invisible" now echoes his THE INVISIBLE highlight and the "seeing the invisible" superpower (§2). Treat THIS as the current bio; the line above is the prior version.
 - CTA (locked): "If you want to see the world differently — subscribe."
 - He switches German/English fluidly. MIRROR his current language. He corrects drift hard.
 - Muslim. Faith is real, not performed (quiet Bismillah, Tawakkul framing — never "manifestation"). Islamic layer woven in, never preached (Seneca/practicing poverty + the Prophet (saw) with the poor).

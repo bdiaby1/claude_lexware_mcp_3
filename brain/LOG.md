@@ -84,3 +84,21 @@ facts only. Never edit old entries — correct with a new one.
   caption, no self-diminishing text), and the Rio verdict.
 - Still open (unchanged): Görli retention curve (since 23 Aug), Istanbul rest-of-cut,
   and whether the Istanbul 50s was hook or excerpt.
+
+## 2026-09-29 (rev 2) — real IG profile state: first audience data
+
+- Benjamin sent a screenshot of his live profile. Captured as
+  `projects/instagram-highlights/profile_state.md`.
+- Two of my assumptions corrected: (1) there is NO "On the road" highlight — the actual
+  four are OFF SCRIPT · BEHIND · THE INVISIBLE · WATCH (+1 cut off), and he wants no new
+  ones; (2) the bio has changed to "I sit with the invisible. / The people everyone
+  walks past. / New video on YouTube." — recorded in MEMORY §1.
+- First real numbers in the whole brain: 134 followers, 20 posts, 5.9K views/30d.
+  Istanbul shorts live — Tahsin 1,510, Cats-vs-People 1,072, 500-Lira 381. The two
+  that lead on a human/concept beat the coffee short ~3-4x; hypothesis (view totals
+  only) that the 500-lira cover frame (Benjamin drinking, no other human) is the weak
+  point. Confirming needs Studio retention/CTR — still owed for Görli too.
+- On the Rio clip: he cut the line naming the helicopter as a rich family's toy to hit
+  30s. Told him that line was the MOST valuable part (it's what makes the heli mean the
+  gap), not the least, and that runtime was never the real constraint (§7). rio verdict
+  file updated; if used at all it goes into THE INVISIBLE, not a new highlight.
