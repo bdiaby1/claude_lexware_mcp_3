@@ -148,3 +148,16 @@ facts only. Never edit old entries — correct with a new one.
   proof vs legitimacy-proof are opposite currencies and he wants the latter. Kept the
   privacy line fully separate and non-negotiable: her real number never on screen; if he
   ever wants the beat, digits 100% covered.
+
+## 2026-09-29 (rev 7) — preselection question (red-pill frame): staged vs incidental
+
+- He asked, explicitly in an alpha/red-pill (not green-washed) frame, whether the number
+  beat builds trust or creates interest, via preselection ("other women see he was
+  chosen → want him more"). Answered in-frame on status grounds, no moralizing.
+- Read: preselection is real but only works INCIDENTAL/observed; STAGING it (holding the
+  note to camera) reads as validation-seeking = lower-value, inverts the effect.
+  Abundance = indifference; not-showing is the flex. Plus funnel-mismatch: it's a
+  dating/lifestyle-brand tactic, cross-contamination on the invisible/legit profile,
+  spends the uncopyable authenticity. Net: cheap interest, real trust spent — bad trade
+  on status grounds. Desirability may only show as an incidental byproduct, never the
+  subject. Captured in MEMORY §10.
