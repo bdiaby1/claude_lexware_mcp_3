@@ -121,3 +121,14 @@ facts only. Never edit old entries — correct with a new one.
   weapons, so no faith/audience clash and no real-guns damage — it only dilutes.
   Call: OFF SCRIPT for followers or skip; not a Reel, not next to the invisible content.
   Showed the distinction from the gun clip rather than reflex-stamping "off-brand".
+
+## 2026-09-29 (rev 5) — two OFF SCRIPT candidates: night ride yes, coffee/note NO
+
+- Night motorbike ride through a SEA city (~17s): approved for OFF SCRIPT — real
+  on-the-road texture/movement, not posing; Reel-capable with a clean opening frame.
+- Rooftop coffee clip (~11s): hard NO. The yellow note he filmed is a real person's
+  phone number + a heart (Rio). Posting it anywhere would expose her number to his
+  followers — a safety/doxxing issue for her, on top of the "she gave me her number"
+  flex. Clip also does nothing (posing, not work). Added a durable safety rule to
+  MEMORY §6: never post third-party private contact details; cover 100% if ever used.
+  Did NOT transcribe the number into the repo (that would be the same exposure).

@@ -26,3 +26,5 @@ The IG playbook itself is MEMORY §10. This folder is the applied, ongoing work.
   the fence-sleeper.
 - `shooting_range_verdict.md` — Brazil/Bali gun range: off-brand, mild damage as a Reel (guns + flex). Personal, or BEHIND/OFF SCRIPT at most.
 - VR battle arena (EVA, 17s, 29 Sep): same off-engine leisure family but SOFTER — it is clearly a game, not real weapons, so no faith/audience clash. Does not damage like the gun clip; just dilutes. OFF SCRIPT for followers or skip. The end beat (celebrating at the leaderboard) is the only human keeper.
+- Night motorbike ride (SEA city, ~17s, 29 Sep): **best OFF SCRIPT material so far** — real on-the-road movement and place, not posing; Reel-capable with a clean first frame. APPROVED for OFF SCRIPT.
+- Rooftop coffee + note (~11s, 29 Sep): **hard NO, do not post.** The filmed yellow note is a real person's phone number + heart (Rio) — posting exposes her number to followers (safety/doxxing), plus the "someone gave me her number" flex. Clip also does nothing (posing, not work). Cover the number 100% if any frame is ever used.
