@@ -28,3 +28,19 @@ The IG playbook itself is MEMORY §10. This folder is the applied, ongoing work.
 - VR battle arena (EVA, 17s, 29 Sep): same off-engine leisure family but SOFTER — it is clearly a game, not real weapons, so no faith/audience clash. Does not damage like the gun clip; just dilutes. OFF SCRIPT for followers or skip. The end beat (celebrating at the leaderboard) is the only human keeper.
 - Night motorbike ride (SEA city, ~17s, 29 Sep): **best OFF SCRIPT material so far** — real on-the-road movement and place, not posing; Reel-capable with a clean first frame. APPROVED for OFF SCRIPT.
 - Rooftop coffee + note (~11s, 29 Sep): **hard NO, do not post.** The filmed yellow note is a real person's phone number + heart (Rio) — posting exposes her number to followers (safety/doxxing), plus the "someone gave me her number" flex. Clip also does nothing (posing, not work). Cover the number 100% if any frame is ever used.
+
+## LEISURE TEST (his insight, 29 Sep) — supersedes the flat "leisure = off-brand"
+Not leisure yes/no. Does the clip BUILD the trust/legit-figure ("future-president" caliber
+he wants) or SPEND it? Full rule in MEMORY §10. Applied to what he's sent:
+- **Combat sports → BUILDS. Want more.** Reads as discipline, not indulgence; his clip
+  already out-performed. Belongs in OFF SCRIPT, could carry a Reel.
+- **VR (Malaysia, with friends) → NEUTRAL, now APPROVED for OFF SCRIPT *with context*.**
+  Reversal of the earlier "skip/soft" call: his idea to tag Malaysia + friends turns it
+  from "random game clip" into "my life/place/people". OFF SCRIPT is allowed to show
+  personality; the risk was only a STREAM of leisure, not one clip. Moderate.
+- **Night ride → BUILDS (grit/on-the-road). Approved (Reel-capable).**
+- **Real gun range → SPENDS. Skip.** Indulgence + faith/audience clash. (Combat sport ≠ this.)
+- **The number/note → SPENDS (wrong social-proof currency: playboy vs legit). Skip.**
+  Separate hard line: her real number never on screen regardless (safety). If he insists
+  on the social-proof beat, only the note/heart with digits 100% covered — but the brand
+  call is still skip, by his own positioning.

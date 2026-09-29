@@ -13,6 +13,7 @@ Content as of: 29 June 2026 (handoff package). In the brain since 21 Aug 2026 �
 - [updated 2026-09-29, seen on his live profile] He has CHANGED the bio himself to: "I sit with the invisible. / The people everyone walks past. / New video on YouTube." The "Undercover Agency Owner" opener is GONE. Tighter, and it moves the identity from job title to the brand line — "the invisible" now echoes his THE INVISIBLE highlight and the "seeing the invisible" superpower (§2). Treat THIS as the current bio; the line above is the prior version.
 - CTA (locked): "If you want to see the world differently — subscribe."
 - He switches German/English fluidly. MIRROR his current language. He corrects drift hard.
+- [added 2026-09-29, his own framing] He positions himself as **legit, trustworthy, "future-president" caliber** — a serious figure, not an entertainer. This is the lens for every content call: TRUST is the currency the profile builds or spends. It is why the "I sit with the invisible" bio replaced "Undercover Agency Owner".
 - Muslim. Faith is real, not performed (quiet Bismillah, Tawakkul framing — never "manifestation"). Islamic layer woven in, never preached (Seneca/practicing poverty + the Prophet (saw) with the poor).
 
 ## 2. THE ENGINE (what makes his videos work)
@@ -111,6 +112,10 @@ His own key sentence: **"The strongest videos play around other people."** No ot
 - Brand pull = land his bio line near the end: "I sit with the people everyone walks past." Don't bend the story to the brand; land his sentence.
 - Locked captions: Gold Cake (posted; hook "This cake had real gold on it."), Villa/practicing-poverty (posted), Oman desert (locked, hook "One day, I couldn't answer my own employees."), Favela (locked; first line = LV ammo bags; ADD one line at the Lucas beat: "I spent Christmas Day here." — only because it truly was Christmas Day; Gucci-cap bit + orphanage/meat stats cut = own later post).
 - His data point: the SHORTEST version wins. Trust it.
+- [added 2026-09-29, his insight — the rule that replaced my flat "leisure = off-brand"] The test is NOT leisure yes/no. It is: **does this clip BUILD the person people should trust, or SPEND that trust?** Three buckets:
+  1. BUILDS (discipline, depth, realness, adventure) → post, even Reel. **Combat sports fits here** (reads as discipline/control, not indulgence — and his combat clip out-performed). Night ride = grit/on-the-road. Training, prayer, work, being with real people.
+  2. NEUTRAL / humanising (harmless fun with friends, a place) → OFF SCRIPT for followers, WITH context so it reads as "my life/my people/my place" not "look at me" (e.g. VR with friends → tag Malaysia + friends). OFF SCRIPT is allowed to show personality. Danger is never ONE fun clip — it is a STREAM of leisure with no work. Moderate = a few, not a feed.
+  3. SPENDS trust (status flex, real weapons, "women want me") → skip. Two social-proof CURRENCIES exist and pull opposite ways: playboy-proof ("women give me their number") vs legitimacy-proof ("he is deep, real, sits with the poor"). Can't build both on one profile. For his stated positioning, playboy-proof is the WRONG currency — which is his own "playboy risk". Real guns also live here (indulgence + audience/faith clash); combat sport does NOT (it is bucket 1).
 
 ## 11. ANALYTICS LEARNINGS (as of 29 June 2026)
 

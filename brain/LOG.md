@@ -132,3 +132,19 @@ facts only. Never edit old entries — correct with a new one.
   flex. Clip also does nothing (posing, not work). Added a durable safety rule to
   MEMORY §6: never post third-party private contact details; cover 100% if ever used.
   Did NOT transcribe the number into the repo (that would be the same exposure).
+
+## 2026-09-29 (rev 6) — leisure framework refined (his insight); VR reversed to approved
+
+- Benjamin pushed back well and gave the better rule: leisure that FITS the person is
+  fine; the filter is his positioning — legit, trustworthy, "future-president" caliber,
+  where TRUST is the currency a clip builds or spends. Formalised as the three-bucket
+  test in MEMORY §10, and the positioning line in §1.
+- Concessions where he was right: (1) combat sports BUILDS (discipline, not indulgence)
+  and his combat clip out-performed — want more; (2) VR reversed from soft-skip to
+  APPROVED for OFF SCRIPT *with* his Malaysia+friends context (turns "game clip" into
+  "my life/place"); OFF SCRIPT is allowed to show personality, the risk is a stream of
+  leisure not one clip.
+- Number: reconsidered as asked. Held skip, but on his own logic not morality — playboy-
+  proof vs legitimacy-proof are opposite currencies and he wants the latter. Kept the
+  privacy line fully separate and non-negotiable: her real number never on screen; if he
+  ever wants the beat, digits 100% covered.
