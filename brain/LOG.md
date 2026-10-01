@@ -187,3 +187,13 @@ facts only. Never edit old entries — correct with a new one.
   permanence" argument collapsed — permanence comes from the Highlight, reach was the
   only Reel delta and off-brand reach is a negative. Superseded my earlier "Reel-capable"
   notes. Rule captured in MEMORY §10 (feed-vs-highlight, governed by §3). Feed stays pure.
+
+## 2026-10-01 — YouTube profile-picture call + channel state
+
+- He likes his avatar (cinematic side-profile, desert, no eye contact) and asked keep or change.
+- Recommendation: CHANGE to direct eye contact (calm/warm, e.g. his banner green-turtleneck
+  shot). Reason: avatar is tiny → recognition+connection are its only jobs, and eye contact
+  wins both; and "seeing" is literally his brand, so looking away undercuts it. Keep the
+  side-profile as a hero/about/banner image. His call; captured in MEMORY §8.
+- Channel state recorded: 660 subs / 76 videos (up from 585/41 in June); banner
+  "Sit with THE INVISIBLE" (Tahsin+luxury contrast + front-facing portrait + Paris).
