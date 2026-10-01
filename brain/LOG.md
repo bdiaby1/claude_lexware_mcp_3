@@ -197,3 +197,18 @@ facts only. Never edit old entries — correct with a new one.
   side-profile as a hero/about/banner image. His call; captured in MEMORY §8.
 - Channel state recorded: 660 subs / 76 videos (up from 585/41 in June); banner
   "Sit with THE INVISIBLE" (Tahsin+luxury contrast + front-facing portrait + Paris).
+
+## 2026-10-01 — Germany subjects: TikTok/press sourcing run (new workstream)
+
+- He wants real German hardship stories for the next doc (TikTok as raw source, his
+  value-add = the dignified 9-min film). Can't scrape TikTok feeds from here; used
+  WebSearch for press-covered + vetted-fundraiser stories (safer leads). New project
+  folder brain/projects/germany-subjects/ with method + sourced leads.
+- Strongest angle surfaced: "wohnungslos trotz Arbeit" (working but homeless) — breaks
+  the stereotype, dignity built in, German mirror of Kamara. Plus single-mother leads
+  (Rosanna Ruo/Frankfurt, der Freitag 17 Jun 2026; Marina; Assadi family) and
+  pre-consented GoFundMe fire-victim mothers. Raw TikTok lead: Tanja/Kiel.
+- Cautionary find (Fallstrick 1, now in the project file + worth MEMORY): Tagesschau —
+  an influencer exploited a homeless person for a FALSE donation appeal (Essen). Proof
+  viral hardship is often staged; the line he must never cross.
+- All framed as leads-to-verify; child-safety + dignity + verify-before-film reiterated.
