@@ -212,3 +212,19 @@ facts only. Never edit old entries — correct with a new one.
   an influencer exploited a homeless person for a FALSE donation appeal (Essen). Proof
   viral hardship is often staged; the line he must never cross.
 - All framed as leads-to-verify; child-safety + dignity + verify-before-film reiterated.
+
+## 2026-10-04 — female-gaze aesthetic strategy + Collision Carousel; grid update
+
+- He referenced Jack Hopkins' "design your IG for the female gaze" and wants more aesthetic
+  pull for a female audience WITHOUT losing brand credibility. His idea: a 2-image carousel —
+  aesthetic lifestyle frame first (the click, e.g. Bali villa), brand payoff second (him with
+  the invisible person), moodboard-quality. Agreed Reels stay off the brand feed (pool theory).
+- Validated + sharpened into the "Collision Carousel" and the reconciling principle: aesthetics
+  are packaging, the subject stays the seeing; female gaze = man-in-his-world + cohesion, not
+  flex; swipe 2 must RECONTEXTUALISE swipe 1. Captured in MEMORY §10.
+- Grid data (new screenshot): 144 followers (+10), 5.5K/30d, THE INVISIBLE highlight moved first.
+  Human face (Tahsin 1,516) beats the villa/lifestyle shot (~500) ~3:1 on his own audience — his
+  "lifestyle gets clicked" is a general truth, not true on his profile; aesthetic = hook lever,
+  not a lifestyle pivot. The "GOLD" warm portrait did 531. profile_state.md updated.
+- YT transcript of the Hopkins video not reachable directly (bot-block); web-fetch agent running
+  to pull it from a transcript site — refine the framework if it returns specifics.

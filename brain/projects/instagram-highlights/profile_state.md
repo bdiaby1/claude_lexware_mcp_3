@@ -34,3 +34,13 @@ frame (Benjamin's back, drinking) as much as its content. Actionable: cut MORE T
 face and concept-first shorts; when a short's engine is a number, still open on the man.
 To confirm vs guess: pull Studio/Insights retention + the cover-frame of each (the
 post-publish half of the loop — still owed for Görli too).
+
+## UPDATE 2026-10-04 (new screenshot)
+- IG: **144 followers** (was 134 on 29 Sep, +10), 20 posts, 171 following, **5.5K views/30d**.
+- Highlights reordered: **THE INVISIBLE first**, then OFF SCRIPT, BEHIND (brand-forward — good).
+- Grid view signal holds and SHARPENS: Tahsin (a face) **1,516** · cats-vs-people (concept) 1,088
+  · a warm smiling portrait he tagged "GOLD" **531** · an orange-vest workers shot 641 · the
+  villa/pool lifestyle shot only **~500** · 500-Lira coffee still low 396 · depot interior 335.
+  → On HIS OWN audience the invisible-human face beats the lifestyle shot ~3:1 (1,516 vs ~500).
+  His "lifestyle images get clicked" is a general-internet truth, NOT true on his profile yet —
+  the human already wins. Use lifestyle as a HOOK lever, don't over-invest in pure lifestyle.
