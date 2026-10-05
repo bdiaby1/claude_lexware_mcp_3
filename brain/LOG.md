@@ -265,3 +265,10 @@ facts only. Never edit old entries — correct with a new one.
 - Danger clip "don't film, gangs are here" (7s): place as the turn before the fireworks,
   fireworks last — danger→light→end, never end on fear. Also a strong Reel cold-open.
 - Saved details to projects/rocinha-christmas.md.
+
+## 2026-10-05 (c) — Rocinha post audio: "Nascendo (humming)"
+- IG suggested "Nascendo – humming" for the Rocinha carousel; he asked if it fits (very subtle).
+- Confirmed on-brand: vocal humming is literally in his sound DNA (§14), and subtle/restrained
+  is his style (story carries drama, no swell). Flagged that whether music FEELS right is his +
+  Michael's call (§12), that carousels are often viewed muted (audio = bonus layer), and that
+  for a Reel cut warmth beats "trending" if they conflict. Test given: warmth without pulling focus.
