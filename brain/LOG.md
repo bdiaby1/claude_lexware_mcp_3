@@ -235,3 +235,20 @@ facts only. Never edit old entries — correct with a new one.
   warm tile (cooking/smile) to top-left (the handshake square); rest of the rhythm improving.
 - "3 Reels aufeinander?" → no, too much: 1/day, strongest first, 3 over 3 days. Same-day
   dumping cannibalises reach + breaks §9 spacing. Captured both as tactical rules in §10.
+
+## 2026-10-05 — Rio favela carousel: photo selection + cover pick
+
+- He sent 27 stills (3 zips) from the Rio favela video (Rocinha/Dois Irmãos; the two
+  brothers; gifting an RC car; "favela christmas light"). Asked which for the grid
+  carousel and which as the FIRST/cover.
+- Cover pick: the HUG (frame 120747) — warm, brand-literal ("sit with the invisible"),
+  the "up" of the arc, scroll-stopping, clean, kids' faces tucked into the embrace
+  (more dignified). Flips the grid from "heavy" to "heart" (the thing he said was
+  missing). Alt: the warm smile (120713) but it's slightly motion-blurred.
+- Carousel arc: hug (cover) → favela+mountain wide (121140) → the gift (121000) →
+  fireworks "favela christmas light" (121201). 3-5 slides, warm cohesive grade.
+- Cut: shirtless-on-glass (120009/120022, flex-adjacent, off the warmth target);
+  anything with burned-in subtitles as a COVER; near-duplicates.
+- FLAGS: (1) child-safety §6 — several frames show kids' faces; the gift close-up
+  (121000, blond boy frontal) as a permanent post is the dignity/pity-porn line, his
+  call, flagged. (2) These are screenshots — export clean master frames, not the grabs.
