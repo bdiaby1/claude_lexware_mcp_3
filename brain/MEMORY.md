@@ -108,6 +108,8 @@ His own key sentence: **"The strongest videos play around other people."** No ot
 
 - [added 2026-10-05] **POSTING CADENCE + top-left handshake (tactical).** Never dump multiple Reels the same day — they cannibalise each other's reach (IG pushes one at a time) and it violates §9 spacing. Rule: **1 Reel/day, strongest first** (best face/concept), watch what hits, then the next. 3 Reels over 3 days = good; 3 in one day = they kill each other. GRID: the **top-left square is the handshake** — the first thing the eye lands on — so it must be WARM/light (a smile, connection, the cooking), never the dark/heavy opener. One warm top-left tile flips the whole first impression from "heavy" to "heart".
 
+- [added 2026-10-05] **ASPECT RATIO (feed photos/carousels): post 4:5 portrait (1080×1350), not 1:1** — tallest the feed allows, ~25% more screen = more stopping power, better for the feed algo (9:16 is Reels/Stories only). Caveats: (1) the profile GRID always center-crops to 1:1, so the cover subject must sit CENTERED to survive the square crop; (2) source film is 16:9 → 4:5 cuts ~58% of width, so either center-crop (immersive, for the cover) or place the 16:9 frame on a clean mat (cinematic, keeps the whole frame, for wide shots that a crop would destroy — also gives grid cohesion); (3) a carousel locks to the first slide's ratio, so ALL slides must share one ratio (4:5) — mat the wides, center-crop the rest.
+
 ## 10. INSTAGRAM PLAYBOOK
 
 - First line is everything (only line visible before "...more"). It must be a concrete image, not a claim.
