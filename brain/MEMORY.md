@@ -106,6 +106,8 @@ His own key sentence: **"The strongest videos play around other people."** No ot
 - Batch discipline: give Michael 2–3 max, test, then scale the WINNING angle (don't produce all concepts).
 - Posting: Reels = growth (permanent, strangers), Stories = maintenance (24h, followers). Post the reel, then share the reel TO story with the sticker (feeds first-hour push). Long + short cuts of same content both fine — space them a few DAYS apart, never same day. NEVER delete a posted reel.
 
+- [added 2026-10-05] **POSTING CADENCE + top-left handshake (tactical).** Never dump multiple Reels the same day — they cannibalise each other's reach (IG pushes one at a time) and it violates §9 spacing. Rule: **1 Reel/day, strongest first** (best face/concept), watch what hits, then the next. 3 Reels over 3 days = good; 3 in one day = they kill each other. GRID: the **top-left square is the handshake** — the first thing the eye lands on — so it must be WARM/light (a smile, connection, the cooking), never the dark/heavy opener. One warm top-left tile flips the whole first impression from "heavy" to "heart".
+
 ## 10. INSTAGRAM PLAYBOOK
 
 - First line is everything (only line visible before "...more"). It must be a concrete image, not a claim.

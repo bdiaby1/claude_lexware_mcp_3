@@ -228,3 +228,10 @@ facts only. Never edit old entries — correct with a new one.
   not a lifestyle pivot. The "GOLD" warm portrait did 531. profile_state.md updated.
 - YT transcript of the Hopkins video not reachable directly (bot-block); web-fetch agent running
   to pull it from a transcript site — refine the framework if it returns specifics.
+
+## 2026-10-05 — grid reorder check + Reel cadence
+
+- Grid still opens top-left on the dark depot + intense sunglasses — told him to swap a
+  warm tile (cooking/smile) to top-left (the handshake square); rest of the rhythm improving.
+- "3 Reels aufeinander?" → no, too much: 1/day, strongest first, 3 over 3 days. Same-day
+  dumping cannibalises reach + breaks §9 spacing. Captured both as tactical rules in §10.
