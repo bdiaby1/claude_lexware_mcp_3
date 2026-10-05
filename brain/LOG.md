@@ -252,3 +252,16 @@ facts only. Never edit old entries — correct with a new one.
 - FLAGS: (1) child-safety §6 — several frames show kids' faces; the gift close-up
   (121000, blond boy frontal) as a permanent post is the dignity/pity-porn line, his
   call, flagged. (2) These are screenshots — export clean master frames, not the grabs.
+
+## 2026-10-05 (b) — Rocinha Christmas: IG caption + the danger-clip placement
+
+- Rocinha Christmas video (YT published 27 Dec 2025, 237 views) repurposed as a 4:5 IG
+  carousel; he built it to the cover rec (hug → wide → gift → fireworks).
+- Wrote the caption in his voice: hook "I asked a kid what he got for Christmas. He
+  couldn't remember." → agency/bubble → "who is Christmas built for" → pressure not
+  celebration → the forgotten perfume+t-shirt → food/stability/dignity → the Islam
+  incomplete-while-hungry line → money unlocks small dreams → "needs more honesty" →
+  lands "I sit with the people everyone walks past." Two alt first lines offered.
+- Danger clip "don't film, gangs are here" (7s): place as the turn before the fireworks,
+  fireworks last — danger→light→end, never end on fear. Also a strong Reel cold-open.
+- Saved details to projects/rocinha-christmas.md.
