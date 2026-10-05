@@ -286,3 +286,16 @@ facts only. Never edit old entries — correct with a new one.
   shoot. Noted the bottle-collector [17tnw2b2rc5, status filming] as the Berlin definer.
   Flagged what to avoid (Lambo flex, döner makeover pity-porn, prison/station fear).
   Details in projects/next-videos-zurich.md.
+
+## 2026-10-05 (e) — two Reels judged: desert reflection vs Bali-flood mindset
+
+- A "I Had Only Minutes Before the Military Arrived" (Oman desert, 31s): real content is a
+  CALM personal reset ("no calls, just me, the sand, the quiet"). On-brand in tone, but
+  SOLO = loyalty content not discovery, and the title oversells danger (fake-doc suspense).
+  Verdict: ACCEPTABLE/on-brand as a personal depth Reel IF the hook is made honest.
+- B "Bali Flood Chaos / 3000 Flew Away Still Smiling" (35s): hustle/mindset piece centred on
+  his own travel problems + money losses ("$2000 gone... winning is a mindset"). Verdict:
+  TOO OFF — no invisible person/gap/seeing, shows his privilege, wrong pool (travel/
+  motivation), dents the sit-with-the-poor credibility. Skip on the brand profile.
+- Added the distinction to MEMORY §10: solo reflective/spiritual = loyalty OK (honest hook);
+  my-problems-hustle = off-brand. The test is substance, not solo-or-not.
