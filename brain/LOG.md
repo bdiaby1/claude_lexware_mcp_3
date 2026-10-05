@@ -272,3 +272,17 @@ facts only. Never edit old entries — correct with a new one.
   is his style (story carries drama, no swell). Flagged that whether music FEELS right is his +
   Michael's call (§12), that carousels are often viewed muted (audio = bonus layer), and that
   for a Reel cut warmth beats "trending" if they conflict. Test given: warmth without pulling focus.
+
+## 2026-10-05 (d) — picked 2 brand-DEFINING videos from the ClickUp board (Zürich)
+
+- Read the YouTube-Ben ClickUp board (71 tasks). He's in Zürich (fallback Berlin), wants 2
+  ideas that DEFINE the new brand line, not just hit it.
+- Articulated the crystallised brand line in MEMORY §1b (invisible everywhere even in the
+  richest cities; I don't rescue, I sit + let them teach me + turn money into small dreams;
+  warmth not pity). Two axes: WHERE and HOW.
+- Picks: (1) "Low Income Families in Europe's richest city / Zürich" [86akkwpr5] — defines
+  the WHERE, kills poverty-tourism; (2) "homeless plans my perfect day / my bank card"
+  [86aj1mq19] — defines the HOW (the invisible as authority, dignity not pity), fastest to
+  shoot. Noted the bottle-collector [17tnw2b2rc5, status filming] as the Berlin definer.
+  Flagged what to avoid (Lambo flex, döner makeover pity-porn, prison/station fear).
+  Details in projects/next-videos-zurich.md.

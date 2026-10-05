@@ -16,6 +16,14 @@ Content as of: 29 June 2026 (handoff package). In the brain since 21 Aug 2026 �
 - [added 2026-09-29, his own framing] He positions himself as **legit, trustworthy, "future-president" caliber** — a serious figure, not an entertainer. This is the lens for every content call: TRUST is the currency the profile builds or spends. It is why the "I sit with the invisible" bio replaced "Undercover Agency Owner".
 - Muslim. Faith is real, not performed (quiet Bismillah, Tawakkul framing — never "manifestation"). Islamic layer woven in, never preached (Seneca/practicing poverty + the Prophet (saw) with the poor).
 
+## 1b. THE BRAND LINE (crystallised 2026-10-05)
+
+The one-sentence line the brand now stands on (earned across this session — the bio change, the Rocinha video, the warmth pivot):
+
+**"The people everyone walks past exist everywhere — even in the richest cities. I don't rescue them. I sit with them, I let them teach me, and I turn money into small dreams for others. Warmth, not pity. Dignity, not drama."**
+
+Two axes a video can DEFINE (not just hit): the WHERE (invisibility exists in the richest places — universalises the thesis, kills the poverty-tourism/colonial read) and the HOW (the invisible person is the authority/teacher/hero — respect and learning, not charity or pity). The strongest videos define one axis cleanly.
+
 ## 2. THE ENGINE (what makes his videos work)
 
 Every strong video/short/post has ALL of these. If an idea lacks one, it fails:
