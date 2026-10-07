@@ -311,3 +311,15 @@ facts only. Never edit old entries — correct with a new one.
   (direct gaze, warm light, calm/legit, no flex) — crop tight to face+shoulders. Beats the
   car-smile shot (Mercedes = flex context, only usable ultra-tight) and the full-body-by-car
   shot (face too small for an avatar + flex). Full-body one is a grid 4:5 candidate instead.
+
+## 2026-10-07 (c) — "DARK CONFESSION" (Rio) thumbnail upgrade brief
+- He asked to recreate the DARK CONFESSION thumb "stronger from real scenes" (not AI).
+  Reaffirmed §8 (no AI thumbnails; real frames only) and that real quality comes from the
+  HIGH-RES source frame in PS/Canva, not upscaling (ImageMagick can't fake it).
+- Upgrade brief (keep concept/text/mood): bigger emotion-forward faces (zoom 20-30%, drop
+  empty side tables, keep one steak+candle); the confessor's face as the emotional anchor;
+  DODGE the faces out of shadow so eyes read at 320px (warm faces / cool bg, NOT orange);
+  heavier condensed font; keep it real (grade+crop+text only).
+- BRAND FLAG: "DARK CONFESSION" + "she sells her body" is strong clickbait and the
+  dinner-contrast is on-brand, but the thumbnail must keep the man's DIGNITY — faces carry
+  gravity, not sensation; the line between his brand and gossip/poverty-porn is exactly that.
