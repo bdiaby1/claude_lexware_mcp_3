@@ -305,3 +305,9 @@ facts only. Never edit old entries — correct with a new one.
   change avatar to direct eye contact (the banner turtleneck shot, tight crop); keep the
   desert side-profile as the hero/about image. Gave the thumbnail-size test to settle it.
 - YouTube now 666 subs (was 660 on 1 Oct), 76 videos.
+
+## 2026-10-07 (b) — avatar photo chosen
+- He sent 3 candidates. Pick for the new eye-contact avatar: the ARMCHAIR/LIBRARY portrait
+  (direct gaze, warm light, calm/legit, no flex) — crop tight to face+shoulders. Beats the
+  car-smile shot (Mercedes = flex context, only usable ultra-tight) and the full-body-by-car
+  shot (face too small for an avatar + flex). Full-body one is a grid 4:5 candidate instead.
