@@ -299,3 +299,9 @@ facts only. Never edit old entries — correct with a new one.
   motivation), dents the sit-with-the-poor credibility. Skip on the brand profile.
 - Added the distinction to MEMORY §10: solo reflective/spiritual = loyalty OK (honest hook);
   my-problems-hustle = off-brand. The test is substance, not solo-or-not.
+
+## 2026-10-07 — avatar revisited (YouTube 666 subs)
+- He re-asked the profile-pic question, still unsure. Reaffirmed the Oct-1 call (MEMORY §8):
+  change avatar to direct eye contact (the banner turtleneck shot, tight crop); keep the
+  desert side-profile as the hero/about image. Gave the thumbnail-size test to settle it.
+- YouTube now 666 subs (was 660 on 1 Oct), 76 videos.
