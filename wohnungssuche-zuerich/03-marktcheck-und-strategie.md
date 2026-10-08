@@ -105,3 +105,25 @@ Brocken als die erste Miete.
 - Woko (günstig, eingeschränkt): https://woko.ch/en/zimmer-in-zuerich-details/10083
 - HousingAnywhere Zürich: https://housinganywhere.com/s/Zurich--Switzerland/private-rooms
 - Homegate Temporär-Beispiel: https://www.homegate.ch/mieten/4003360142
+
+## 9. Rechercheergebnis (Stand 2026-10-08)
+
+**Zugänglichkeit:** Comparis, Homegate, ImmoScout24, newhome, wgzimmer,
+students.ch und Ronorp blockieren automatisierten Zugriff (Cloudflare/Captcha)
+— **nicht** umgangen. Automatisiert auslesbar nur **Flatfox** (öffentliche
+JSON-API) und **WOKO** (serverseitig gerendert, nur Studierende).
+
+**Verifizierte Treffer:** 20 echte, geöffnete Inserate im Tracker
+(`04-inserate-tracker.csv`): 16 Flatfox-WG-Zimmer (Aargau/Schaffhausen/Thurgau)
++ 4 WOKO (Zürich/Winterthur, nur Studierende). Region Zürichsee/Zug + nähere
+Zürich-Regionen (Flatfox-API) laufen noch und werden ergänzt.
+
+**Muster:** Echte ≤ CHF 800 **+ sofort + ohne Sonderbedingung** liegen meist
+40–60 Min ÖV draußen (z. B. Schaffhausen 700, Eiken 710). Näher an Zürich ist
+≤ 800 fast immer an eine Einschränkung gekoppelt (WOKO = Studium, JUWO-Konto)
+oder über Budget (Baden/Wohlen/Würenlingen ~900–950). Ein Flatfox-Inserat in
+Wohlen AG erlaubt laut Text ausdrücklich die **Anmeldung** (aber ~950, ~40 Min).
+
+**Beschaffung weiterer Treffer:** Flatfox per API ohne Browser erweiterbar.
+Für die botgesperrten Portale: echter Browser (Session auf eigenem Rechner)
+**oder** Such-Abos der Portale → Auswertung der Alert-Mails per Gmail.
