@@ -113,12 +113,19 @@ students.ch und Ronorp blockieren automatisierten Zugriff (Cloudflare/Captcha)
 — **nicht** umgangen. Automatisiert auslesbar nur **Flatfox** (öffentliche
 JSON-API) und **WOKO** (serverseitig gerendert, nur Studierende).
 
-**Verifizierte Treffer:** 32 echte, geöffnete Inserate im Tracker
-(`04-inserate-tracker.csv`): 28 Flatfox-WG-Zimmer (Aargau/Schaffhausen/Thurgau +
-Zürichsee/Zug) + 4 WOKO (Zürich/Winterthur, nur Studierende). Nähere
-Zürich-Regionen (Flatfox-API: Stadt/Limmattal/Glattal/Oberland/Winterthur)
-laufen noch. Ein Horgen-Inserat wurde wegen diskriminierender Kriterien als
-„nicht empfohlen" markiert.
+**Verifizierte Treffer:** 60 echte, geöffnete Inserate im Tracker
+(`04-inserate-tracker.csv`): 56 Flatfox-WG-Zimmer (Stadt Zürich, Limmattal,
+Glattal, Oberland, Winterthur, Zürichsee/Zug, Aargau/Schaffhausen/Thurgau) +
+4 WOKO (nur Studierende). Davon **rund 28 im Budget (≤ CHF 800)**, viele als
+**Zwischenmiete/befristet** — ideal für den kurzfristigen Bedarf. Mehrere **in
+der Stadt Zürich** (8048/8003/8046, CHF 688–750) und im Nahbereich (Dietikon
+640, Kloten 538/726, Schlieren 769, Urdorf 750). Ein Horgen-Inserat ist wegen
+diskriminierender Kriterien als „nicht empfohlen" markiert.
+
+**Wichtigste Erkenntnis:** Über die offene **Flatfox-API** ist die verifizierte
+Liste ohne Browser machbar — die anderen Portale (Comparis/Homegate/ImmoScout/
+wgzimmer) bleiben nur per echtem Browser oder Such-Abo erreichbar. Nächster
+Schritt ist nicht mehr „mehr suchen", sondern **die Top-Kandidaten anschreiben**.
 
 **Muster:** Echte ≤ CHF 800 **+ sofort + ohne Sonderbedingung** liegen meist
 40–60 Min ÖV draußen (z. B. Schaffhausen 700, Eiken 710). Näher an Zürich ist
