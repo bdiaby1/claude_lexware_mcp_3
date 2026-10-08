@@ -19,6 +19,10 @@
 - **Anmeldung aktiv ansprechen** — du brauchst eine Wohnungsgeber­bestätigung
   für die Gemeinde. Bei Untermiete braucht der Hauptmieter die Zustimmung
   des Eigentümers/der Verwaltung (Art. 262 OR).
+- **Ausweis/Bankdokumente NICHT streuen** — niemals Pass-/Kontokopien an viele
+  Vermieter senden (Identitätsdiebstahl). Erst bei konkretem Vertrag, einzeln.
+- **Gültiger Ausweis nötig** — für Anmeldung und Anstellung in der Schweiz ein
+  **gültiges** Ausweisdokument bereithalten (abgelaufener Pass reicht nicht).
 - **Zahlungsthema NICHT in Stufe 1.** Erst Passung herstellen (Stufe 1), dann
   Konditionen transparent verhandeln (Stufe 2).
 
@@ -63,24 +67,36 @@ Freundliche Grüsse
 
 ---
 
-## Stufe 2 — nach Interesse (Zahlungsmodalität, transparent)
+## Stufe 2 — nach Interesse (Zahlung & Kaution, transparent)
 
 > Erst senden, wenn der Vermieter grundsätzlich zusagt / nach Besichtigung.
 
 Vielen Dank — das Zimmer passt sehr gut und ich würde es gerne nehmen.
 
-Transparent zu den Zahlungen: Ich starte meine Anstellung und erhalte den
-ersten vollen Lohn **[Datum / Ende des ersten Arbeitsmonats]**. Daher würde ich
-vorschlagen:
+Transparent zum Zahlungsstart: Meine Anstellung beginnt und der erste volle
+Lohn kommt **[Datum / Ende des 1. Arbeitsmonats]**. Vorschlag zur Miete:
 
-- **Sofort:** Kaution [Betrag] + eine **Anzahlung von CHF [200–300]** als
-  Zeichen des guten Willens
-- **Restliche/volle Miete:** ab **[1.11.2026 / nach dem ersten Mietmonat]**
+- **1. Monat:** halbe Miete (CHF [__])
+- **2. Monat:** volle Miete **+** die zweite Hälfte aus dem 1. Monat
 
-Als Sicherheit lege ich Ihnen gerne meinen **Arbeitsvertrag / Lohnnachweis**
-vor. Es geht nur um eine kurze zeitliche Verschiebung, die Zahlung ist
-gesichert. Ich würde mich sehr freuen, wenn das für Sie in Ordnung ist —
-und bin ein unkomplizierter, pfleglicher Mieter.
+Als Sicherheit lege ich **Arbeitsvertrag / Lohnnachweis** vor; es geht nur um
+eine kurze zeitliche Verschiebung.
+
+### Kaution — ehrliche Optionen (nach Glaubwürdigkeit geordnet)
+
+1. **Barkaution / Kautionskonto sofort** — wenn irgend möglich, zahl sie. Sie
+   ist **rückzahlbar** und das mit Abstand **stärkste Vertrauenssignal**.
+2. **Kautionskonto etwas später** — Hinterlegung zum **[Datum, z. B. nach 1. Lohn]**.
+3. **Mietkautionsversicherung** (SwissCaution, Firstcaution, GoCaution …):
+   statt Bardepot nur Jahresprämie (~4–5 %/Jahr). Aber: Bonitätsprüfung nötig,
+   Vermieter muss zustimmen, Jahresvertrag — **bei 2–4 Wochen meist nicht
+   verfügbar**, und die Kautionssumme bleibt im Schadenfall geschuldet.
+
+> Ehrliche Einschätzung (nicht Teil des Anschreibens): „Keine Kaution **und**
+> geteilte/verschobene Miete" bei einem neuen, kurzfristigen Mieter ist aus
+> Vermietersicht das **höchste Risiko** und senkt die Zusage-Quote stark. Je
+> mehr du upfront absicherst (vor allem die Kaution), desto eher kommst du
+> zum Ja. Einkommen/Verträge niemals erfinden.
 
 ---
 
