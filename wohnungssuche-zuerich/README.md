@@ -12,6 +12,7 @@ rein persönliche Planungsunterlagen, hier abgelegt und versioniert.
 | [`02-anforderungsprofil.md`](02-anforderungsprofil.md) | Daraus abgeleitetes Anforderungsprofil: Muss/Soll/Kann, Pendel-Filter, Inserat-Checkliste, Erstkontakt-Vorlage |
 | [`03-marktcheck-und-strategie.md`](03-marktcheck-und-strategie.md) | **Realer Marktabgleich** + Kampagnen-Strategie, Outreach-/Dokumenten-Empfehlung, Suchquellen |
 | [`04-inserate-tracker.csv`](04-inserate-tracker.csv) | Tabelle zum Erfassen der Inserate (importierbar in Excel/Numbers/Sheets) |
+| [`05-outreach-vorlagen.md`](05-outreach-vorlagen.md) | Anschreiben Stufe 1 & 2 (E-Mail/WhatsApp) + 1-seitiges Mieter-Profil (Vorlage) |
 
 ## Eckdaten (Stand 2026-10-08)
 
@@ -20,6 +21,13 @@ rein persönliche Planungsunterlagen, hier abgelegt und versioniert.
 - **Miete:** ≤ CHF 550/Monat warm/all-in (ideal < 500)
 - **Lage:** ≤ 60 Min ÖV **oder** ≤ 30 Min Velo ab **Zürich HB**
 - **Besonderheit:** erste Mietzahlung gestundet (nach 15 Tagen / 1. Monat)
+
+## Festgelegte Parameter (2026-10-08)
+
+- **Budget:** ≤ CHF 800 / Monat (warm/all-in)
+- **Formate:** WG-Zimmer + möbliertes Einzelzimmer (kein Airbnb/Hostel)
+- **Meldeadresse/Anmeldung:** **zwingend** (Wohnungsgeberbestätigung nötig)
+- **Nachweise im Erstkontakt:** minimal (Profil + „auf Anfrage")
 
 ## Realitäts-Hinweis (wichtig)
 
