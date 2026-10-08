@@ -113,10 +113,12 @@ students.ch und Ronorp blockieren automatisierten Zugriff (Cloudflare/Captcha)
 — **nicht** umgangen. Automatisiert auslesbar nur **Flatfox** (öffentliche
 JSON-API) und **WOKO** (serverseitig gerendert, nur Studierende).
 
-**Verifizierte Treffer:** 20 echte, geöffnete Inserate im Tracker
-(`04-inserate-tracker.csv`): 16 Flatfox-WG-Zimmer (Aargau/Schaffhausen/Thurgau)
-+ 4 WOKO (Zürich/Winterthur, nur Studierende). Region Zürichsee/Zug + nähere
-Zürich-Regionen (Flatfox-API) laufen noch und werden ergänzt.
+**Verifizierte Treffer:** 32 echte, geöffnete Inserate im Tracker
+(`04-inserate-tracker.csv`): 28 Flatfox-WG-Zimmer (Aargau/Schaffhausen/Thurgau +
+Zürichsee/Zug) + 4 WOKO (Zürich/Winterthur, nur Studierende). Nähere
+Zürich-Regionen (Flatfox-API: Stadt/Limmattal/Glattal/Oberland/Winterthur)
+laufen noch. Ein Horgen-Inserat wurde wegen diskriminierender Kriterien als
+„nicht empfohlen" markiert.
 
 **Muster:** Echte ≤ CHF 800 **+ sofort + ohne Sonderbedingung** liegen meist
 40–60 Min ÖV draußen (z. B. Schaffhausen 700, Eiken 710). Näher an Zürich ist
