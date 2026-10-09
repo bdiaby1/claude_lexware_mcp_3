@@ -352,3 +352,14 @@ facts only. Never edit old entries — correct with a new one.
   exists / "never wake up again" / country of the bucket wash). Charity-porn short not written.
 - Env note: LibreOffice needs `apt-get install libreoffice-writer` (only core preinstalled) and a
   home-dir working folder + `-env:UserInstallation` to convert; pdftoppm needs poppler-utils.
+
+## 2026-10-09 (c) — v1 REJECTED as too soft → v2 POSITION
+- He: v1 is "politisch korrekt, medium, keine klare Position … korrektes Material … 200 Views und
+  tot." He is right against the master doc itself (§4 "exaggerate for attention rather than
+  soften"); I over-corrected into safe after the charity-porn flag. Recorded as a dated rule in
+  MEMORY §4 (his words).
+- v2: 6 shorts, each with a position in the hook and the last line: Zurich is blind · their garbage
+  fed me better than their hotel · rich men buy love, he was given it · Christmas is for people
+  who can pay · everyone selling freedom is selling the cage · call it charity porn, I film it
+  anyway (Short 6 back — defends the format instead of confessing). Facts unchanged, [verify]
+  tags only move numbers. Sent as .docx in his template; master in scripts_v2_position.md.

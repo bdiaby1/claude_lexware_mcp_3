@@ -30,7 +30,7 @@ answers here, delete the question.
    Only matters if the swap video or its shorts are still being cut. [STALE?]
 9. **Berlin Rich vs Poor** — the Waldorf/G-Klasse weekend was aimed at 22/23 Aug. Shot,
    or dropped in favour of Istanbul? Prices verified? Protagonist cast? [STALE?]
-10. **Shorts v1 (sent 9 Oct as .docx)** — his corrections per line? Fill the ⚠️ flags from the
+10. **Shorts v2 POSITION (sent 9 Oct as .docx, after v1 was rejected as too soft)** — his corrections per line? Fill the ⚠️ flags from the
     transcripts: fisherman's NAME, friends-drowned wording, driver's income number + master's vs
     doctorate + his exact "religion first" line, rifle footage exists?, the bucket-wash country.
     Which 2–3 go to Michael first (§9 batch discipline)?
@@ -43,8 +43,10 @@ answers here, delete the question.
   new shoot), wrong operating system (outrage/verdict endings vs warmth/felt-not-preached).
 - Order proposed: Zürich-hotel-vs-fisherman → Tahsin cooking → Grab driver's wife →
   Rocinha cold open → origin story (later). Charity-porn confession killed.
-- **v1 scripts WRITTEN and sent 9 Oct** (`projects/shorts-from-archive/scripts_v1.md` = text
-  master; .docx in his template went to him). Hotel = 220 USD → 73 days. Fisherman = [NAME].
+- **v1 sent and REJECTED 9 Oct** (too soft, no position — see MEMORY §4 dated 2026-10-09).
+  **v2 POSITION sent** (`projects/shorts-from-archive/scripts_v2_position.md` = text master): 6
+  shorts, every hook + last line takes a position; charity-cam short back as a defended position.
+  Hotel = 220 USD → 73 days. Fisherman = [NAME].
 - Next: his line-by-line corrections → v2 → 2–3 to Michael.
 
 ### Istanbul / Tahsin — "He Eats From the Trash of Istanbul's Rich" — SHOT, IN POST
