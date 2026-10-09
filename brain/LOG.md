@@ -363,3 +363,13 @@ facts only. Never edit old entries — correct with a new one.
   who can pay · everyone selling freedom is selling the cage · call it charity porn, I film it
   anyway (Short 6 back — defends the format instead of confessing). Facts unchanged, [verify]
   tags only move numbers. Sent as .docx in his template; master in scripts_v2_position.md.
+
+## 2026-10-09 (d) — v2 REJECTED ("Zurich is blind") → v3 from his own hooks
+- He: "Zurich is blind" insults the city he lives/works in, has no character, is frustration, is
+  off-brand and "für nichts". Correct. I swung from soft (v1) to contemptuous (v2) — both from
+  writing off a rule instead of from his lines. Second dated note in MEMORY §4: a position is a
+  contrast stated as fact + an ending that includes US; never an insult to a place/group/person.
+- v3: his doc's six hooks and punchlines kept as written (hotel paradox, dumpster menemen, Grab
+  driver's tear, Rocinha, $30k lie, charity porn) — only fact fixes (73 days, 44 kg, one boy
+  forgot his gift, "disappear" not "never wake up again") and [verify] tags on numbers. Short 6
+  keeps his vow line with one ALT (no vow) for his decision. Sent as .docx; master scripts_v3.md.
