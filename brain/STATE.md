@@ -30,10 +30,10 @@ answers here, delete the question.
    Only matters if the swap video or its shorts are still being cut. [STALE?]
 9. **Berlin Rich vs Poor** — the Waldorf/G-Klasse weekend was aimed at 22/23 Aug. Shot,
    or dropped in favour of Istanbul? Prices verified? Protagonist cast? [STALE?]
-10. **Shorts-from-archive batch (9 Oct doc)** — does he accept the verdict (keep 1/2/5,
-    reframe 4, hold 6, kill 3)? If yes: which short do we rewrite first, and does he paste
-    the real transcript lines (fisherman's name, the hotel receipt, the driver's exact
-    words) so the rewrite is built from his material, not the doc's?
+10. **Shorts v1 (sent 9 Oct as .docx)** — his corrections per line? Fill the ⚠️ flags from the
+    transcripts: fisherman's NAME, friends-drowned wording, driver's income number + master's vs
+    doctorate + his exact "religion first" line, rifle footage exists?, the bucket-wash country.
+    Which 2–3 go to Michael first (§9 batch discipline)?
 
 ## PROJECTS
 
@@ -43,7 +43,9 @@ answers here, delete the question.
   new shoot), wrong operating system (outrage/verdict endings vs warmth/felt-not-preached).
 - Order proposed: Zürich-hotel-vs-fisherman → Tahsin cooking → Grab driver's wife →
   Rocinha cold open → origin story (later). Charity-porn confession killed.
-- Next: his answer to open question 10, then section-by-section rewrite (§5) of #1.
+- **v1 scripts WRITTEN and sent 9 Oct** (`projects/shorts-from-archive/scripts_v1.md` = text
+  master; .docx in his template went to him). Hotel = 220 USD → 73 days. Fisherman = [NAME].
+- Next: his line-by-line corrections → v2 → 2–3 to Michael.
 
 ### Istanbul / Tahsin — "He Eats From the Trash of Istanbul's Rich" — SHOT, IN POST
 - Script v1 and the 3-shorts brief are in `projects/istanbul/` (verbatim, 11 Sep).

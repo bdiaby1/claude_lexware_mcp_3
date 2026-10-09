@@ -339,3 +339,16 @@ facts only. Never edit old entries — correct with a new one.
 - Eight fact flags recorded (76−23≠44, 67 vs 73 days, "80% of the planet", inflated gift
   line, invented driver quote and 2 AM detail, "never wake up again", nameless fisherman).
 - Written to projects/shorts-from-archive/README.md; STATE open question 10 added.
+
+## 2026-10-09 (b) — Shorts v1 written in his docx template
+- He accepted the verdict ("Ja, erstelle"). Confirmed: hotel receipt 220 USD (→ 73 days at $3/day);
+  fisherman's name unknown to him → [NAME] placeholder, to be filled from the Jakarta transcript.
+- Wrote 5 Shorts (Zurich vs the Sea · Tahsin Cooks · The Driver's Wife · Christmas Eve in Rocinha ·
+  Origin — HOLD) as a .docx in his template style (Arial, 6d9eeb header row, black borders, Letter,
+  2 columns spoken | shots/notes, one Short per page). Built with docx-js in the scratchpad, rendered
+  via LibreOffice to check; sent to him. Text master: projects/shorts-from-archive/scripts_v1.md.
+- Every line follows §4 (short, deadpan, no quotation marks, no verdict ending) and §1b; ⚠️ flags sit
+  next to the unverified facts (friends drowned / income number / master's vs doctorate / rifle footage
+  exists / "never wake up again" / country of the bucket wash). Charity-porn short not written.
+- Env note: LibreOffice needs `apt-get install libreoffice-writer` (only core preinstalled) and a
+  home-dir working folder + `-env:UserInstallation` to convert; pdftoppm needs poppler-utils.
