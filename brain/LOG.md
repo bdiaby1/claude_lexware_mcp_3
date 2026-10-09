@@ -323,3 +323,19 @@ facts only. Never edit old entries — correct with a new one.
 - BRAND FLAG: "DARK CONFESSION" + "she sells her body" is strong clickbait and the
   dinner-contrast is on-brand, but the thumbnail must keep the man's DIGNITY — faces carry
   gravity, not sensation; the line between his brand and gossip/poverty-porn is exactly that.
+
+## 2026-10-09 — judged the "YouTube-Scripts_Benjamin_Diaby.docx" Shorts batch
+- He sent a .docx (6 Shorts ideas, three AI passes mining five of his published videos:
+  Jakarta fisherman, Rocinha, Grab driver, Tahsin, origin story) and asked for the brain's
+  verdict. Converted with pandoc; not committed (his doc).
+- Verdict: strategy right (archive → 30s Shorts, one real number each, Zürich hotel = only
+  new shoot), framework wrong — it runs on outrage and ends every short on a narrated
+  verdict (§2.7 violation), and its "bulletproof" coffee-math opener is the loser on his
+  own profile (396 vs Tahsin 1,516). Voice is AI-drama, not his (§4).
+- Per idea: KEEP #1 Zürich-vs-fisherman (WHERE axis) and #2 Rocinha cold open (already
+  planned); REFRAME #4 (the wife, not the tear) and #5 (the cooking short, face-first);
+  HOLD #6 origin as loyalty content; KILL #3 "charity porn" confession — it ends his own
+  format, hands critics the quote, re-exploits the driver, admits it is rage bait.
+- Eight fact flags recorded (76−23≠44, 67 vs 73 days, "80% of the planet", inflated gift
+  line, invented driver quote and 2 AM detail, "never wake up again", nameless fisherman).
+- Written to projects/shorts-from-archive/README.md; STATE open question 10 added.
