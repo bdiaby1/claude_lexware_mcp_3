@@ -182,6 +182,7 @@ Moved to `brain/STATE.md` (fast-changing — it gets rewritten every session; th
 
 ## 14. TOOLS & RESOURCES
 
+- [added 2026-10-10] **TRANSCRIPTS OF HIS VIDEOS ARE REACHABLE — via his own YouTube account connected in Composio.** `COMPOSIO_SEARCH_TOOLS` (toolkit youtube, connection alias benjamin-diaby) → `YOUTUBE_LIST_CAPTION_TRACK {video_id}` → `YOUTUBE_LOAD_CAPTIONS {id, tfmt: srt}` (owner-only endpoint, works because the channel is his) → read the sandbox file with `COMPOSIO_REMOTE_BASH_TOOL`. Six are saved in `brain/transcripts/`. Also reachable: the channel's video list (channel page via curl with a browser UA). NOT reachable: watch pages, captions via any innertube client, yt-dlp, youtube-transcript-api, Piped/Invidious, transcript websites (all bot-blocked). Never again ask him for transcripts.
 - ClickUp workspace "LeadPioneer" → project "Growth" id 90138282820 → list "YouTube (Ben)" id 901321069988.
 - Google Doc script repo id 1sT5Fs8QysQnpIEtJL97yH1d2CY1yRJrRAXq5K9k9gZc (native fetch fails — paste text instead).
 - Composio: YouTube OAuth landed on a DIFFERENT Composio account — not reachable from chat. He pastes YouTube Studio data manually (works fine).

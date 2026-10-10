@@ -30,12 +30,9 @@ answers here, delete the question.
    Only matters if the swap video or its shorts are still being cut. [STALE?]
 9. **Berlin Rich vs Poor** — the Waldorf/G-Klasse weekend was aimed at 22/23 Aug. Shot,
    or dropped in favour of Istanbul? Prices verified? Protagonist cast? [STALE?]
-10. **Shorts from archive — v1/v2/v3 all rejected (10 Oct: "wie lauwarme Eier", not his
-    language).** Root cause found: Claude has never seen the videos — YouTube blocks watch
-    pages/captions from the container (channel list works, see projects/channel-map.md).
-    NEEDED FROM HIM, one click each in Studio → Subtitles → ⋮ → Download (.srt): the swap
-    video, Istanbul, Jakarta $3, Grab driver, Rocinha. Then shorts get cut from HIS spoken
-    sentences only; Claude writes nothing new except shot notes.
+10. **Shorts v4 (concepts_zurich_v4.md, 10 Oct) — his verdict?** Built from his transcripts
+    (now in brain/transcripts/ — pulled via his Composio YouTube connection, no help needed).
+    Which of the 8 go first, and when does he shoot the 5 Zürich phone shots?
 11. **The 5 swap shorts (MEMORY §9, locked in June) — were they ever posted?** The swap video
     is the channel's only breakout (10K, 11x the next). If those shorts never went out, they
     are the first thing to cut — before any archive idea. Fill the ⚠️ flags from the
@@ -45,7 +42,14 @@ answers here, delete the question.
 
 ## PROJECTS
 
-### Shorts from the archive — STALLED on 10 Oct until transcripts arrive
+### Shorts from the archive — UNBLOCKED 10 Oct: transcripts pulled, v4 concepts delivered
+- `projects/shorts-from-archive/concepts_zurich_v4.md`: 8 shorts, every quoted line verbatim from
+  his videos; 5 Zürich phone shots pair the archive with where he is now (two looks on
+  Bahnhofstrasse · hotel receipt vs fisherman · "did you ever leave the rich area?" · Christmas
+  lights × Rocinha). Grab driver's name is FAIZAL; his wife story is in Indonesian.
+- Blocked-on nothing. Next: his pick → cut lists with exact in/out points for Michael.
+
+### (history) Shorts from the archive — STALLED on 10 Oct until transcripts arrive
 - Three drafts rejected (v1 soft / v2 contemptuous / v3 his doc's lines — still "not my
   language"). His diagnosis accepted: scripts must be his sentences, possibly not written at
   all. Fix in place: `projects/shorts-from-archive/his_lines.md` (voice corpus from his own

@@ -1,0 +1,27 @@
+# I Slept on the Streets for 24 Hours (Then Brought Him Home) (OkozkUtxgvc) — 10K views / Jul 2026 — THE BREAKOUT
+
+Source: YouTube auto-captions (asr), pulled 2026-10-10 via his connected YouTube account (Composio YOUTUBE_LOAD_CAPTIONS). Light cleanup of ASR errors (names/places); his wording untouched. Timestamps = start of ~20s block.
+
+[00:10] And tomorrow, a homeless man is staying in my penthouse. This is the most dangerous video I've ever done. A few hours ago, I was here. Tonight, I'm
+[00:20] sleeping on the street. I used to eat in places like this. Now, I'm on the other side of the glass. People give me two looks. First, my face. Second, my clothes. After seeing my clothes, I don't exist anymore. It's worse than rude. It's like I'm not
+[00:40] there. Tonight, I'm practicing poverty. No safe place to sleep, no people I can trust, and tomorrow a homeless man is staying in my penthouse. I don't know how this is going to end.
+[01:00] This is Muhammad. He will show me some places rather than I move alone through the night. First, we buy some food to share with other homeless people. A woman recognized me from the food kitchen and we ended up laughing like old friends. Unfortunately, I asked about all these women standing in the
+[01:20] street and the mood changed. Nobody wants to talk anymore. And they said, "No problem. We want no problem." [...] And then afterwards, some people stand behind us. So somehow we're being watched.
+[01:40] And then two guys from behind started asking for my social profiles. It's not safe here anymore. We don't stay too long in one place. There's a man in a wheelchair and he didn't want any money that night. He just wanted to do a phone call. I wouldn't have had to sleep
+[02:00] on the street that night because I could have sat down with this man and listened until sunrise. He had too much to say because finally someone stopped to listen. We handed a man a banana on the way. You'll see later why this matters. And then I accidentally gave away Muhammad's food. And he says, "No, I'm
+[02:22] not hungry." He lost his food because of me. And now he's the one who's trying to make sure I don't feel bad about it. So I pressed him until we found something that he likes, a chicken burger. And this man eats a whole meal for a family.
+[02:41] That's when I started to like Muhammad. The contrast out here never stops. Gucci, Louis Vuitton, right in the same street. [...] And I asked Muhammad, "Do you want any
+[03:00] of this stuff?" And he said, "No, not a single thing. People break away their families for these things." And he doesn't even want it. I started to like him more. Before we slept, we met a woman, divorced, and after that ended on the streets. She's clean though and has
+[03:21] a beautiful face. And I told her that. So she told me every morning she goes to the mosque and cleans her face. I didn't get it yet, but I will. Remember the banana? That same man finds us hours later and gives Muhammad a
+[03:40] cigarette. I have seen it on four continents. People who have the least give the most. And then I tried to sleep. It was horrible. Every second rats, birds, loud neighbors snoring, drunk people walking past you very
+[04:01] close. You don't know what they want. And that night, some of my neighbors weren't well. The things that they have done, I can't say them on YouTube. I barely slept. And somewhere in that night, I realized you never really sleep out there. And then at 6:00 a.m. in the
+[04:22] morning, I hear it. The mosque. And I remember what she said. [...] You shower in the mosque. Ah, for free.
+[04:40] It's quite interesting how many homeless people use mosques to clean themselves. It's very beautiful. [...] mosques are very
+[05:02] useful to homeless people. And probably in every country in the world, homeless people are using mosques to clean themselves up. A place that was built to clean your soul and they are using it to clean their bodies. And I
+[05:23] realized all over the world, in every country, homeless people are using mosques to clean themselves. I will take this as a reminder to be more kind to people on the street, smile more often,
+[05:42] show some signs of respect like holding up a door. Then the sun came up and I invited him into my life. Muhammad doesn't say much. You stay more reserved in Malaysia's culture, especially in such a situation. So, you read the pain
+[06:01] and the joy from his eyes, not from his mouth. We had breakfast at the terrace 100 m above the city after we had spent the night at the very ground. And then he had a shower for 3 hours straight. At some point, I'm just sitting there looking at a watch. And I
+[06:22] didn't want to rush him because if I didn't have access to a shower, I'd spend 3 hours, too. And when he came out, I gave him my skin care routine. And he picked the perfume from Oman over Armani. He likes the sweet ones like me.
+[06:40] We sat on the sofa and had a conversation. I asked him, "What do you think about me?" And he said, "I think you're a good
+[07:01] person." After that night, I want to take free showers. Yes. But here's the thing. I have seen people in expensive suits more dirty than the ones on the street because they clean their bodies and forget their soul. They clean the
+[07:20] body that people can see and forget the soul that people can't. The dirt I was trying to get off, it was not on my body. And the soul doesn't get clean from water. It gets clean from what you do. Subscribe to the channel to see the world differently.

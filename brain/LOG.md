@@ -387,3 +387,15 @@ facts only. Never edit old entries — correct with a new one.
   rules again. Process reset per §5: he freestyles the lines; Claude orders + shot notes.
 - Asked for: .srt exports of 5 videos (one click each), and whether the 5 locked swap shorts
   ever went out (if not: first thing to cut — proven pool).
+
+## 2026-10-10 (b) — TRANSCRIPTS PULLED; Zürich × archive concepts v4
+- He refused to fetch .srt files himself ("du solltest das YouTube-Gehirn sein — finde einen Weg").
+  Tried Piped (8 instances), Invidious (9), yt-dlp (5 clients), youtube-transcript-api, timedtext,
+  10 transcript sites — all blocked. Found the route: Composio has HIS YouTube account connected →
+  YOUTUBE_LIST_CAPTION_TRACK + YOUTUBE_LOAD_CAPTIONS (owner endpoint). All six videos pulled and
+  saved to brain/transcripts/ with a README of the route; MEMORY §14 updated. Permanent fix.
+- Learned from the transcripts: the Grab driver is FAIZAL and his wife story is in Indonesian;
+  the Jakarta video has the gold-cake line and "I did not ask what is wrong with their life. I
+  asked what's wrong with mine."; the swap video has "People give me two looks…"; Rocinha has
+  "Who is Christmas actually built for?" — the positions he wants already exist in his own words.
+- Delivered concepts_zurich_v4.md: 8 shorts quoting only his lines, 5 Zürich phone shots.
