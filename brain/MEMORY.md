@@ -155,6 +155,9 @@ His own key sentence: **"The strongest videos play around other people."** No ot
 - Raw views < retention + CTR. After every spike: pull Studio retention/CTR of the top shorts to learn WHY (the recipe), not just THAT.
 - Post-publish: retention curves in Studio are the truth. Screenshot → analysis: exact second people leave and why.
 
+- [added 2026-10-10, first full-catalogue read — projects/channel-map.md] **The swap video is the only breakout: 10K views vs ≤900 for everything else (26 long-form videos).** Pool theory confirmed on his own data. Engine videos (one human + gap + sacrifice) fill the top of the table; the self/mindset videos (75 Hard, morning routine, Ronaldo, Meta glasses, ChatGPT) are the floor. Velocity beats lifetime: Istanbul 891 in 3 weeks is the fastest start since the swap. Cut shorts FROM the proven pool first (swap → Istanbul), archive ideas after. Titles get changed post-launch (swap, Görli) — read "as live" from the channel, not from the locked script.
+- [added 2026-10-10] **Container access to YouTube:** channel/browse pages are reachable with a browser UA (`curl -A "Mozilla/5.0 …" -b "CONSENT=YES+1; SOCS=CAI" https://www.youtube.com/@benjamin-diaby/videos` → parse `lockupViewModel` in ytInitialData); watch pages and ALL caption routes are bot-blocked (429 / LOGIN_REQUIRED on WEB, ANDROID, IOS, TVHTML5, MWEB, ANDROID_VR, embedded, get_transcript). Transcripts must come from him: Studio → Subtitles → Download .srt.
+
 ## 12. VIDEO RETENTION-ANALYSIS PIPELINE (designed, ready to test on the swap video)
 
 Claude = retention consultant / creative director for Michael's cuts. Michael cuts; Claude analyzes and writes timecoded instructions.

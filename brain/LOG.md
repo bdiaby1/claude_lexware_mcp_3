@@ -373,3 +373,17 @@ facts only. Never edit old entries — correct with a new one.
   driver's tear, Rocinha, $30k lie, charity porn) — only fact fixes (73 days, 44 kg, one boy
   forgot his gift, "disappear" not "never wake up again") and [verify] tags on numbers. Short 6
   keeps his vow line with one ALT (no vow) for his decision. Sent as .docx; master scripts_v3.md.
+
+## 2026-10-10 — v3 rejected ("lauwarme Eier") → root cause + channel map
+- He: scripts must be HIS language, maybe not written at all; "you know the whole channel —
+  which videos would you cut from, how combine with new footage? too lazy for deeper research,
+  or not enough context?" The honest answer is the last one: Claude has never seen the videos.
+- Research done: the channel's Videos tab IS reachable from the container → full list of 26
+  long-form videos with views in projects/channel-map.md. Finding: the swap video is the only
+  breakout (10K vs ≤900); Istanbul has the best velocity. Titles changed post-launch (swap,
+  Görli) — STATE corrected to "as live". Captions/transcripts: every route bot-blocked (8
+  clients tried) — recorded in MEMORY §11.
+- Built the voice corpus from his own scripts (his_lines.md) so no future draft is written from
+  rules again. Process reset per §5: he freestyles the lines; Claude orders + shot notes.
+- Asked for: .srt exports of 5 videos (one click each), and whether the 5 locked swap shorts
+  ever went out (if not: first thing to cut — proven pool).

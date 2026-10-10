@@ -1,4 +1,4 @@
-# STATE — as of 2026-10-09 (rev 3)
+# STATE — as of 2026-10-10 (rev 4)
 
 Sources: handoff package — master doc dated 29 June 2026, Berlin preproduction doc
 dated 16 Aug 2026, the published Görli video (23 Aug), and the Istanbul script + shorts
@@ -30,14 +30,31 @@ answers here, delete the question.
    Only matters if the swap video or its shorts are still being cut. [STALE?]
 9. **Berlin Rich vs Poor** — the Waldorf/G-Klasse weekend was aimed at 22/23 Aug. Shot,
    or dropped in favour of Istanbul? Prices verified? Protagonist cast? [STALE?]
-10. **Shorts v3 (sent 9 Oct as .docx; v1 too soft, v2 "Zurich is blind" killed)** — his corrections per line? Short 6: vow or ALT? Fill the ⚠️ flags from the
+10. **Shorts from archive — v1/v2/v3 all rejected (10 Oct: "wie lauwarme Eier", not his
+    language).** Root cause found: Claude has never seen the videos — YouTube blocks watch
+    pages/captions from the container (channel list works, see projects/channel-map.md).
+    NEEDED FROM HIM, one click each in Studio → Subtitles → ⋮ → Download (.srt): the swap
+    video, Istanbul, Jakarta $3, Grab driver, Rocinha. Then shorts get cut from HIS spoken
+    sentences only; Claude writes nothing new except shot notes.
+11. **The 5 swap shorts (MEMORY §9, locked in June) — were they ever posted?** The swap video
+    is the channel's only breakout (10K, 11x the next). If those shorts never went out, they
+    are the first thing to cut — before any archive idea. Fill the ⚠️ flags from the
     transcripts: fisherman's NAME, friends-drowned wording, driver's income number + master's vs
     doctorate + his exact "religion first" line, rifle footage exists?, the bucket-wash country.
     Which 2–3 go to Michael first (§9 batch discipline)?
 
 ## PROJECTS
 
-### Shorts from the archive — 6 ideas from the "YouTube-Scripts" docx — JUDGED 9 Oct
+### Shorts from the archive — STALLED on 10 Oct until transcripts arrive
+- Three drafts rejected (v1 soft / v2 contemptuous / v3 his doc's lines — still "not my
+  language"). His diagnosis accepted: scripts must be his sentences, possibly not written at
+  all. Fix in place: `projects/shorts-from-archive/his_lines.md` (voice corpus from his own
+  scripts) + `projects/channel-map.md` (all 26 long-form videos with views → cut from the
+  swap video first, Istanbul second, Jakarta+Zurich third). Blocked on .srt exports (Q10).
+- Process from here (§5): he freestyles the 3–5 lines into his phone (hotel room, receipt in
+  hand); Claude only orders his sentences + writes shot notes. No generated VO lines.
+
+### (history) Shorts from the archive — 6 ideas from the "YouTube-Scripts" docx — JUDGED 9 Oct
 - Verdict + per-idea table + fact flags in `projects/shorts-from-archive/README.md`.
   Headline: right strategy (archive → 30s Shorts, real numbers, Zürich hotel is the only
   new shoot), wrong operating system (outrage/verdict endings vs warmth/felt-not-preached).
@@ -61,8 +78,8 @@ answers here, delete the question.
 - Hard rules: depot faces blurred, no location-identifying wides, no footage of the
   children (one VO line only).
 
-### Görlitzer Park — "Before They Were Dealers - Germany's Most Dangerous Park" — **PUBLISHED** (confirmed 2026-08-23)
-- Live at https://youtu.be/3lO8b-jyFmg — title exactly as locked in script v2.
+### Görlitzer Park — **PUBLISHED** (confirmed 2026-08-23) — title AS LIVE (10 Oct): "I Talked to Dealers in Germany's Most Dangerous Park" (459 views / 1 mo)
+- Live at https://youtu.be/3lO8b-jyFmg — he re-titled after launch (locked title was "Before They Were Dealers…").
 - Thumbnail shipped: split, **FRIDAY 1PM** mosque / **FRIDAY 3PM** park, faces blurred
   or turned away. Archived as `projects/goerlitzer/published_thumbnail.jpg`; full read
   in `projects/goerlitzer/findings/2026-08-23_packaging-live.md`. It holds up against
@@ -95,7 +112,7 @@ answers here, delete the question.
   CAST THE PROTAGONIST at the street interview (structure duty — the Mohammed of this
   video) · packaging session after footage · cold open depends on the reveal faces.
 
-### KL swap — "I Slept on the Street With a Homeless Man — Then Gave Him My Penthouse" — [STALE?]
+### KL swap — **PUBLISHED, 10K views (3 mo) — the channel's only breakout.** Title as live: "I Slept on the Streets for 24 Hours (Then Brought Him Home)" (OkozkUtxgvc)
 - As of 29 June: script locked, in production, publish Sun/Mon. 3 shorts locked
   (bathrobe/cardboard · Day in the Life · mosque). Publication status unknown → Q1.
 - Thumbnail mocks A/B/C in `projects/kl-swap/thumbs/` — see the project README for
