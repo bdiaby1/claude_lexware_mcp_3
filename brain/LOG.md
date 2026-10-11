@@ -399,3 +399,13 @@ facts only. Never edit old entries — correct with a new one.
   asked what's wrong with mine."; the swap video has "People give me two looks…"; Rocinha has
   "Who is Christmas actually built for?" — the positions he wants already exist in his own words.
 - Delivered concepts_zurich_v4.md: 8 shorts quoting only his lines, 5 Zürich phone shots.
+
+## 2026-10-11 — "Alles so schlecht. Nix davon viral." → he freestyles the thesis
+- v4 concepts rejected wholesale. Followed §5: asked why on ONE item instead of a new list.
+  He answered with the real raw material — the channel's base thesis, dictated: 220 USD hotel +
+  lukewarm eggs vs the friend at $3/day whose friends drowned → "what if we're just born
+  privileged … what if at the end everything is weighed by what you were given … 90x more, held
+  responsible, it's not yours." Not religious; "ich sage nur: was wenn."
+- Built the WHAT IF short from his sentences only (what_if_hotel_short.md), added the thesis
+  verbatim to MEMORY §1b. Lesson (again): his best work comes from HIS raw material; the
+  generated lists were noise until he spoke.

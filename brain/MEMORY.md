@@ -24,6 +24,8 @@ The one-sentence line the brand now stands on (earned across this session — th
 
 Two axes a video can DEFINE (not just hit): the WHERE (invisibility exists in the richest places — universalises the thesis, kills the poverty-tourism/colonial read) and the HOW (the invisible person is the authority/teacher/hero — respect and learning, not charity or pity). The strongest videos define one axis cleanly.
 
+- [added 2026-10-11, his words, the base under the brand line] **THE THESIS THE WHOLE CHANNEL IS BUILT ON — "What if":** "Was wenn wir einfach nur privilegiert geboren sind, in dieser Blase. Was wenn am Ende alles aufgewogen wird, jeder nach dem, was ihm gegeben wurde. Was wenn du 90 mal mehr hast als die meisten Menschen auf der Welt — und dafür verantwortlich gehalten wirst, und es eben nicht deins ist, auch wenn es dir vorkommt, als ob es deins ist." Privilege reframed from LUCK (passive: "I got lucky, I enjoy it, sad for the others") to RESPONSIBILITY for what was given (active). That is why the giving is not charity but accounting, why "money is a tool to unlock small dreams for others", why the invisible are the teachers. Never framed as religion on camera — "ich sage nur: was wenn." Communicating this short, authentic, in his own sentences is the hard job; the first attempt is projects/shorts-from-archive/what_if_hotel_short.md.
+
 ## 2. THE ENGINE (what makes his videos work)
 
 Every strong video/short/post has ALL of these. If an idea lacks one, it fails:
