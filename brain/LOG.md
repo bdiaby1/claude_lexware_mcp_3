@@ -427,3 +427,5 @@ facts only. Never edit old entries — correct with a new one.
   Shortened in his words; "students built it" and "can't eat gold" moved to the caption.
 - (c2) Correction: Muslim orphanage, no birthdays; gifts over time (maybe Eid) + bags of rice.
   v3: viral unit = people — "One dinner. Or a hundred orphans." Cover: 1 DINNER vs 100 ORPHANS.
+- (c3) Eid confirmed true → final locked: "Rice. Huge bags. And gifts — at Eid, every kid gets
+  one." "Two years" dropped. Cover: 1 DINNER vs 100 ORPHANS.

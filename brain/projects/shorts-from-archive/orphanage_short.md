@@ -5,10 +5,10 @@ time (possibly after Ramadan/Eid), and a big part was FOOD (huge bags of rice). 
 Viral unit = PEOPLE, not time: "One dinner. Or a hundred orphans." Keep "two years" only if the
 home says so; "At Eid, every kid gets one" only if true (strong for his audience).
 
-## v3 (current)
+## FINAL — LOCKED 11 Oct (Eid confirmed true by him)
 > My friend spent 450 euros. On one dinner. I'm not exposing anyone — he's my friend. But: 450. One dinner.
 > I spent 300. On a hundred orphans in Indonesia. 50 boys. 50 girls.
-> Rice. Huge bags. And gifts — not all at once. They hand them out over the next two years. *(or: over time)*
+> Rice. Huge bags. And gifts — at Eid, every kid gets one.
 > One dinner. Or a hundred orphans.
 > When I was a kid, I saw a crocodile handbag. 50,000 euros. And I asked myself: is this even allowed?
 > Not: can you afford it. Should it be allowed — when you could do insane good with the same money?
