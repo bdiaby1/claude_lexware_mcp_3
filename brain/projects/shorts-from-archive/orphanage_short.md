@@ -9,6 +9,7 @@ home says so; "At Eid, every kid gets one" only if true (strong for his audience
 > My friend spent 450 euros. On one dinner. I'm not exposing anyone — he's my friend. But: 450. One dinner.
 > I spent 300. On a hundred orphans in Indonesia. 50 boys. 50 girls.
 > Rice. Huge bags. And gifts — at Eid, every kid gets one.
+> *ALT (his pick 11 Oct, IF the gifts cover the coming Eids — two per year): "Rice. Huge bags. And gifts for two years of Eid."*
 > One dinner. Or a hundred orphans.
 > When I was a kid, I saw a crocodile handbag. 50,000 euros. And I asked myself: is this even allowed?
 > Not: can you afford it. Should it be allowed — when you could do insane good with the same money?
