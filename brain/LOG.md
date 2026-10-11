@@ -429,3 +429,8 @@ facts only. Never edit old entries — correct with a new one.
   v3: viral unit = people — "One dinner. Or a hundred orphans." Cover: 1 DINNER vs 100 ORPHANS.
 - (c3) Eid confirmed true → final locked: "Rice. Huge bags. And gifts — at Eid, every kid gets
   one." "Two years" dropped. Cover: 1 DINNER vs 100 ORPHANS.
+
+## 2026-10-11 (d) — the WHAT-IF format as a series
+- He asked for more shorts that go viral. Named the shape behind the two locked ones (receipt ·
+  human · what-if) and listed 7 in that shape from his footage (what_if_series.md), incl. the
+  Swiss receipt series he can shoot now. What-if lines = shape only; he phrases them.
