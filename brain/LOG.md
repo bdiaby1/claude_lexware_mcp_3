@@ -419,3 +419,9 @@ facts only. Never edit old entries — correct with a new one.
   Faizal dub cut list (his voice, English dub, from the transcript; verify the death moment and
   parents in the video) and the orphanage short in his lines, flagged: "two years" claim vs his
   own "Wocheneinkauf", and the §6 kids-organizations rule (no child faces if he overrides).
+
+## 2026-10-11 (c) — orphanage short v2: birthdays + the crocodile bag
+- He clarified: the €300–350 were GIFTS, handed out per birthday over ~2 years → "two years" is
+  true and stronger than "a week of food". Added his childhood memory as the ending (€50,000
+  crocodile bag, "is this even allowed?") = the WHAT IF thesis in one object; comment CTA his.
+  Shortened in his words; "students built it" and "can't eat gold" moved to the caption.

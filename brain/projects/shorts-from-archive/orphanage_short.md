@@ -1,20 +1,30 @@
-# ORPHANAGE — the €450 dinner vs the €250 shop (his idea, 2026-10-11)
+# ORPHANAGE — one dinner or a hundred birthdays (his idea; v2 11 Oct, his words)
 
-Footage exists: the shopping, the receipt, the delivery to a children's home in Indonesia run by
-STUDENTS (an initiative, ~50 boys + 50 girls). A friend's receipt: €450 for one dinner.
+Facts (his): ~€300–350 of GIFTS for a children's home in Indonesia run by students (~50 boys +
+50 girls). Gifts are NOT handed out at once — each child gets one on their birthday, so the
+purchase covers ~two years of birthdays. A friend's receipt: €450 for one dinner. Footage:
+shopping, bags, receipt, handover.
 
-## His lines (his German → English, minimal)
-> My friend spent 450 euros. On one dinner. I'm not here to expose anyone — he's my friend. But: 450. For dinner.
-> I spent 250. For an orphanage in Indonesia. 50 boys. 50 girls. A week of food.
-> It's just food. You can't eat gold. It's still potatoes.
-> This home was built by students. Not the government. Students.
-> Taking care of orphans is one of the best things you can do. Because it could happen to you. Parents leave unexpectedly.
+Decision 11 Oct: BIRTHDAYS beats "a week of food" (an image people feel; and "two years" is true
+now). The ending is his childhood memory — the €50,000 crocodile handbag, "is this even
+allowed?" — the WHAT IF thesis in one object. Explicit comment CTA is his wish.
 
-## Two flags — his decision
-1. "Positively influenced the lives of 50 children for two years" — he himself calls it "ein
-   Wocheneinkauf". A week of food for 100 kids is strong AND true; "two years" is attackable
-   (§6). Say what is true.
-2. MEMORY §6 child-safety line: kids' organizations stay OFF the channel (Buku Jalanan rule).
-   If he overrides it: no identifiable child faces — hands, backs, the shopping, the students
-   who built it. Cover name/card on the €450 receipt (§6 private details). Name the home only
-   with their consent.
+## The short (his words, shortened)
+> My friend spent 450 euros. On one dinner. I'm not exposing anyone — he's my friend. But: 450. One dinner.
+> I spent 300. On gifts for an orphanage in Indonesia. 50 boys. 50 girls.
+> They don't get them now. Each kid gets one on their birthday. For the next two years, every birthday has a present.
+> *(shopping, bags, handover — hands, backs, no faces)*
+> One dinner. Or a hundred birthdays.
+> When I was a kid, I saw a crocodile handbag. 50,000 euros. And I asked myself: is this even allowed?
+> Not: can you afford it. Should it be allowed — when you could do insane good with the same money?
+> I know. It's your money. I'm just asking: is it really yours?
+> Tell me in the comments.
+
+Cover text: 450€ DINNER vs 100 BIRTHDAYS. Share mechanic: the comments split into "it's their
+money" vs "no it isn't".
+
+Cut from the short → caption: "this home was built by students, not the government" and "you
+can't eat gold, it's still potatoes" (food-version line).
+
+Flags (his call): no identifiable child faces (§6 kids rule); cover name/card on the €450
+receipt; name the home only with consent.
