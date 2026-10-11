@@ -440,3 +440,8 @@ facts only. Never edit old entries — correct with a new one.
   did" → cinema/terrace/dinner/office? → waiting with the watch → "he showered, 3 hours
   straight" → "I'd take 3 hours too". Built it from transcript 06:01–06:40 + his words only,
   psychology annotated per beat; soul/water line kept out (short, not sermon).
+
+## 2026-10-11 (f) — gamified series across all six transcripts
+- "More of this viral stuff throughout all videos" → 8 shorts in the THREE HOURS shape (bet ·
+  wait · reveal · warm line), each from verbatim transcript lines with timestamps; on-screen
+  prompts are the only added text. Ordered by proven pool (swap first). gamified_series.md.
