@@ -409,3 +409,13 @@ facts only. Never edit old entries — correct with a new one.
 - Built the WHAT IF short from his sentences only (what_if_hotel_short.md), added the thesis
   verbatim to MEMORY §1b. Lesson (again): his best work comes from HIS raw material; the
   generated lists were noise until he spoke.
+
+## 2026-10-11 (b) — WHAT IF locked; his next two ideas prepared
+- He locked the WHAT IF short as six lines (cut "Most people say", dropped my closing line:
+  "genau dieser Satz macht es zu lang"). First "das geht, das ist nicht schlecht" in four days.
+- His master plan recorded verbatim in §1b: get everything in the world, give it away for good,
+  pass the test with God that it was used for good.
+- He is in Zürich + a Lausanne hotel (2 days) → WHAT IF shoots there. Prepared from his ideas:
+  Faizal dub cut list (his voice, English dub, from the transcript; verify the death moment and
+  parents in the video) and the orphanage short in his lines, flagged: "two years" claim vs his
+  own "Wocheneinkauf", and the §6 kids-organizations rule (no child faces if he overrides).

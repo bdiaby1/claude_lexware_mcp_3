@@ -1,4 +1,15 @@
-# WHAT IF — the hotel short (his, 2026-10-11)
+# WHAT IF — the hotel short (his, 2026-10-11) — **LOCKED 11 Oct, his text:**
+
+```
+220 dollars. For a mediocre hotel. And lukewarm eggs.
+My friend in Indonesia makes 3 dollars a day. His friends drowned at sea.
+But what if it's not like that.
+What if we're just born privileged. In Europe. In this bubble.
+What if at the end, everything gets weighed. Everyone by what he was given!
+What if you have 90 times more than most people on this planet and you're held responsible for it. Because it's not yours. Even if it feels like it is.
+```
+("Most people say…" cut — "der macht es zu lang"; Claude's closing line dropped. Shoot in the Lausanne hotel: receipt+eggs take · on-the-bed take, quieter per what-if · 5s empty room. Line 2 over Jakarta archive 00:00/02:40.)
+
 
 After four rejected drafts he freestyled the real thing in chat. His German, verbatim:
 

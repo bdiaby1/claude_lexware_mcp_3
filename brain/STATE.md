@@ -1,4 +1,7 @@
-# STATE — as of 2026-10-10 (rev 4)
+# STATE — as of 2026-10-11 (rev 5)
+
+**WHERE HE IS:** Switzerland the next days — Zürich (visiting + working) and a hotel in Lausanne for
+2 days (onboarding at another job). The Lausanne room = the set for the WHAT IF short.
 
 Sources: handoff package — master doc dated 29 June 2026, Berlin preproduction doc
 dated 16 Aug 2026, the published Görli video (23 Aug), and the Istanbul script + shorts
@@ -30,9 +33,9 @@ answers here, delete the question.
    Only matters if the swap video or its shorts are still being cut. [STALE?]
 9. **Berlin Rich vs Poor** — the Waldorf/G-Klasse weekend was aimed at 22/23 Aug. Shot,
    or dropped in favour of Istanbul? Prices verified? Protagonist cast? [STALE?]
-10. **Shorts v4 (concepts_zurich_v4.md, 10 Oct) — his verdict?** Built from his transcripts
-    (now in brain/transcripts/ — pulled via his Composio YouTube connection, no help needed).
-    Which of the 8 go first, and when does he shoot the 5 Zürich phone shots?
+10. **WHAT IF short is LOCKED (11 Oct, his text) — shot in Lausanne yet?** Then: Faizal dub cut
+    (verify the "she died" moment + parents in the video) and the orphanage short (his call on
+    the "two years" claim and on the §6 kids-organizations rule).
 11. **The 5 swap shorts (MEMORY §9, locked in June) — were they ever posted?** The swap video
     is the channel's only breakout (10K, 11x the next). If those shorts never went out, they
     are the first thing to cut — before any archive idea. Fill the ⚠️ flags from the
@@ -42,7 +45,14 @@ answers here, delete the question.
 
 ## PROJECTS
 
-### Shorts from the archive — UNBLOCKED 10 Oct: transcripts pulled, v4 concepts delivered
+### Shorts — CURRENT (11 Oct): WHAT IF locked · Faizal dub · Orphanage
+- v4 concepts rejected wholesale ("nix davon viral"). Asked why on one item (§5) → he dictated
+  the channel thesis → `what_if_hotel_short.md` LOCKED in his words. Thesis + his plan now in
+  MEMORY §1b. Then his two own ideas: `faizal_dub_short.md` (cut list from the transcript, his
+  voice dubbed) and `orphanage_short.md` (his lines + two flags).
+- Order: WHAT IF (shoot in Lausanne) → Faizal → Orphanage.
+
+### (history) Shorts from the archive — v4 concepts (10 Oct, rejected)
 - `projects/shorts-from-archive/concepts_zurich_v4.md`: 8 shorts, every quoted line verbatim from
   his videos; 5 Zürich phone shots pair the archive with where he is now (two looks on
   Bahnhofstrasse · hotel receipt vs fisherman · "did you ever leave the rich area?" · Christmas
