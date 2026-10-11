@@ -1,4 +1,24 @@
-# ORPHANAGE — one dinner or a hundred birthdays (his idea; v2 11 Oct, his words)
+# ORPHANAGE — one dinner or a hundred orphans (his idea; v3 11 Oct, his words)
+
+v3 correction (his): it is a MUSLIM orphanage — no birthday-gift culture. Gifts are handed out over
+time (possibly after Ramadan/Eid), and a big part was FOOD (huge bags of rice). So: no "birthdays".
+Viral unit = PEOPLE, not time: "One dinner. Or a hundred orphans." Keep "two years" only if the
+home says so; "At Eid, every kid gets one" only if true (strong for his audience).
+
+## v3 (current)
+> My friend spent 450 euros. On one dinner. I'm not exposing anyone — he's my friend. But: 450. One dinner.
+> I spent 300. On a hundred orphans in Indonesia. 50 boys. 50 girls.
+> Rice. Huge bags. And gifts — not all at once. They hand them out over the next two years. *(or: over time)*
+> One dinner. Or a hundred orphans.
+> When I was a kid, I saw a crocodile handbag. 50,000 euros. And I asked myself: is this even allowed?
+> Not: can you afford it. Should it be allowed — when you could do insane good with the same money?
+> I know. It's your money. I'm just asking: is it really yours?
+> Tell me in the comments.
+
+Cover text: 1 DINNER vs 100 ORPHANS.
+
+---
+## v2 (superseded — birthdays framing was factually wrong)
 
 Facts (his): ~€300–350 of GIFTS for a children's home in Indonesia run by students (~50 boys +
 50 girls). Gifts are NOT handed out at once — each child gets one on their birthday, so the

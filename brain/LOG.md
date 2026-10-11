@@ -425,3 +425,5 @@ facts only. Never edit old entries — correct with a new one.
   true and stronger than "a week of food". Added his childhood memory as the ending (€50,000
   crocodile bag, "is this even allowed?") = the WHAT IF thesis in one object; comment CTA his.
   Shortened in his words; "students built it" and "can't eat gold" moved to the caption.
+- (c2) Correction: Muslim orphanage, no birthdays; gifts over time (maybe Eid) + bags of rice.
+  v3: viral unit = people — "One dinner. Or a hundred orphans." Cover: 1 DINNER vs 100 ORPHANS.
