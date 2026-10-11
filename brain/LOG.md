@@ -434,3 +434,9 @@ facts only. Never edit old entries — correct with a new one.
 - He asked for more shorts that go viral. Named the shape behind the two locked ones (receipt ·
   human · what-if) and listed 7 in that shape from his footage (what_if_series.md), incl. the
   Swiss receipt series he can shoot now. What-if lines = shape only; he phrases them.
+
+## 2026-10-11 (e) — THREE HOURS: his gamified version of the shower beat
+- He reshaped "three hours" as a game: "I gave a homeless man my penthouse — this is what he
+  did" → cinema/terrace/dinner/office? → waiting with the watch → "he showered, 3 hours
+  straight" → "I'd take 3 hours too". Built it from transcript 06:01–06:40 + his words only,
+  psychology annotated per beat; soul/water line kept out (short, not sermon).
