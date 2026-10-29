@@ -460,3 +460,13 @@ facts only. Never edit old entries — correct with a new one.
   top-5. No English YouTube video owns "poorest man / richest city Zürich" → open pool.
 - Written to projects/zurich-poorest-man/BRIEFING.md (his raw input verbatim in §0; packaging
   candidates; character routes a–g; 5 open questions).
+
+## 2026-10-29 (b) — IG Reel: G-Klasse → cart → Waldorf bathtub → Tahsin's mattress
+- Verdict: POST. His order already ends on the floor (sacrifice last, never end on the flex).
+  Cover = him at the cart or on the floor, not the G-Klasse (his data: Tahsin face 1,516 vs
+  lifestyle ~500). 4 hard cuts, ~8s, loop; caption carries the "what if none of it is yours"
+  thesis, first line an image. Core-brand feed material = the WHAT IF short without words.
+- Implied: the Berlin Waldorf/G-Klasse weekend WAS shot (footage exists) → STATE Q9 partly
+  answered; still unknown whether the Berlin rich-vs-poor video is cut.
+- Env note: this container came up on an old commit without brain/ — `git fetch` +
+  `git merge --ff-only origin/<branch>` restored it. Always check `ls brain` at session start.
