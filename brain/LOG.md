@@ -470,3 +470,5 @@ facts only. Never edit old entries — correct with a new one.
   answered; still unknown whether the Berlin rich-vs-poor video is cut.
 - Env note: this container came up on an old commit without brain/ — `git fetch` +
   `git merge --ff-only origin/<branch>` restored it. Always check `ls brain` at session start.
+- (b2) He corrected: G-Klasse cover pulls clicks/likes (luxury villa Bali had most likes).
+  Accepted — views ≠ likes. MEMORY §10: luxury opens (like-magnet), human closes (watch-magnet).
