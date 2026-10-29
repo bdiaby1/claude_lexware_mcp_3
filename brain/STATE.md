@@ -1,7 +1,8 @@
-# STATE — as of 2026-10-11 (rev 5)
+# STATE — as of 2026-10-29 (rev 6)
 
-**WHERE HE IS:** Switzerland the next days — Zürich (visiting + working) and a hotel in Lausanne for
-2 days (onboarding at another job). The Lausanne room = the set for the WHAT IF short.
+**WHERE HE IS (29 Oct):** working in Zürich EVERY DAY now (new job onboarding; Lausanne hotel 2 days);
+has the new camera; shoots evenings/weekends. First Zürich video in preproduction →
+`projects/zurich-poorest-man/BRIEFING.md`. Berlin (arm→reich) stays a Berlin shoot.
 
 Sources: handoff package — master doc dated 29 June 2026, Berlin preproduction doc
 dated 16 Aug 2026, the published Görli video (23 Aug), and the Istanbul script + shorts
@@ -44,6 +45,15 @@ answers here, delete the question.
     Which 2–3 go to Michael first (§9 batch discipline)?
 
 ## PROJECTS
+
+### ZÜRICH — "Der ärmste Mann in der reichsten Stadt der Welt" — PREPRODUCTION (29 Oct)
+- Briefing v1 with research + sources in `projects/zurich-poorest-man/BRIEFING.md`. Packaging
+  first (his rule). Character routes: Surprise vendor (legal Tahsin-equivalent) or the Incontro
+  food line behind the 25hours Hotel (the WHERE scene, 10 min from Bahnhofstrasse). Pfuusbus
+  opens mid-Nov (46 beds) → if he sleeps there: swap pool. Price module = his idea, numbers
+  verified. Sonstige: crack crisis Kreis 4 / Needle-Park frame / cocaine → video 2, from strength.
+- Open questions 1–5 in the briefing §9 (sleep a night? which hero? may Claude contact Surprise/
+  Incontro/SWS? which prices does he film? Lausanne use?).
 
 ### Shorts — CURRENT (11 Oct): WHAT IF locked · Faizal dub · Orphanage
 - v4 concepts rejected wholesale ("nix davon viral"). Asked why on one item (§5) → he dictated

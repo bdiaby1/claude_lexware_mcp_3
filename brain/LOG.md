@@ -445,3 +445,18 @@ facts only. Never edit old entries — correct with a new one.
 - "More of this viral stuff throughout all videos" → 8 shorts in the THREE HOURS shape (bet ·
   wait · reveal · warm line), each from verbatim transcript lines with timestamps; on-screen
   prompts are the only added text. Ordered by proven pool (swap first). gamified_series.md.
+
+## 2026-10-29 — Zürich video preproduction briefing v1
+- He is now working in Zürich daily (+ Lausanne hotel 2 days), new camera; first Zürich video.
+  His intuition: "Der ärmste Mann in der reichsten Stadt der Welt"; packaging first; price
+  module; needs a character; asks what Zürich's "paper collectors" are; drugs/cocaine → Sonstige.
+- Researched (WebSearch + primary PDF): Stichtagszählung Jan 2026 (218 homeless in one night,
+  only 38 outside at −4°C, 53/100k = internationally LOW → the story is "even here"), Pfuusbus
+  (46 beds, mid-Nov), Incontro food line behind the 25hours Hotel at Europaallee (hundreds
+  nightly, 10 min from Bahnhofstrasse — THE scene), Surprise vendors (3.70/copy, ~1'000–1'500
+  CHF/month = the legal Tahsin-equivalent), begging still banned (fine), Sans-Papiers 10–20k,
+  prices (cappuccino 5.40 world's highest, Mercer #3, Bahnhofstrasse ~7th, vacancy 0.07 %),
+  crack crisis Kreis 4 (NZZ "biggest in 30 years"), Platzspitz history, cocaine wastewater
+  top-5. No English YouTube video owns "poorest man / richest city Zürich" → open pool.
+- Written to projects/zurich-poorest-man/BRIEFING.md (his raw input verbatim in §0; packaging
+  candidates; character routes a–g; 5 open questions).
