@@ -472,3 +472,11 @@ facts only. Never edit old entries — correct with a new one.
   `git merge --ff-only origin/<branch>` restored it. Always check `ls brain` at session start.
 - (b2) He corrected: G-Klasse cover pulls clicks/likes (luxury villa Bali had most likes).
   Accepted — views ≠ likes. MEMORY §10: luxury opens (like-magnet), human closes (watch-magnet).
+
+## 2026-10-29 (c) — the person IS the video; approach script; reel caption options
+- His insight (via a friend's ex-colleague asking 50 % if viral): these videos work because
+  they are built around ONE person's fate; Zürich's problem = no person yet → needs a
+  systematic street network (help first, take WhatsApp). Wrote the 50 %-rule, three approach
+  scripts, the network protocol and the begging-ban scene into BRIEFING §11.
+- IG reel caption: gave 3 directions (A image-only · B what-if thesis · C Tahsin-first with
+  "They were always there. I just never looked."). Recommended B. His pick pending.

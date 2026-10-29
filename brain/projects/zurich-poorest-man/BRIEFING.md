@@ -209,3 +209,36 @@ Surprise/Betteln: surprise.ngo, Tages-Anzeiger (Verkäufer-Lohn; Bettelverbot-Lo
 Tsri. Sans-Papiers: Tsri "7 Zahlen", sans-papiers-zuerich.ch, NZZ "Putzen ohne Papiere", SRF.
 Essen: 20min/NZZ/Beobachter (Incontro Europaallee), Luzerner Zeitung, Blick (Caritas).
 Platzspitz: swissinfo, Wikipedia, zuerich.com.
+
+---
+## 11. NACHTRAG 29 Okt (abends) — DIE PERSON IST DAS VIDEO · NETZWERK-PROTOKOLL
+Sein Roh-Input: Ein Ex-Kollege eines Freundes (Alkoholiker, Job weg, verliert bald die Wohnung)
+wollte bei Viralität 50 %. Benjamins Lesart: "Das scheint der Instinkt zu sein — diese Art Video
+ist erfolgreicher, weil es um die Geschichte und das Schicksal EINER Person gebaut ist. Das ist
+die Schwierigkeit beim ersten Zürich-Video: Ich habe diese Person noch nicht." Elemente (Preise,
+teuerste Strasse) sammelt man pro Video; das Wichtige ist die richtige Geschichte + ein
+systematischer Ansatz: Leuten auf der Strasse helfen, WhatsApp nehmen (Beispiel: der Mann, der
+ihm mit der Autobatterie half, 20 Franken, "das hilft mir jetzt gerade sehr").
+
+**50 %-Regel:** nie einen Anteil an etwas versprechen, das es nicht gibt. Fixe Zahlung für die
+Zeit (50 CHF, bar, heute); das Geben ist der Schluss des Videos, nicht der Vertrag am Anfang.
+
+**Ansprache (nie "Video über dich" im ersten Satz; er ist der Lehrer, du der Gast; Zahl nennen;
+konkreter nächster Schritt; Handy erst nach dem Ja; "du kannst jederzeit aufhören"):**
+1. Nach Hilfe: "Danke dir. Ich hab ein Projekt: Ich setz mich mit Leuten hin, an denen alle
+   vorbeilaufen, und lass sie mir die Stadt zeigen — nicht fünf Minuten, einen Abend. Ich zahl
+   50 Franken für deine Zeit. Gesicht nur, wenn du willst. Darf ich dir auf WhatsApp schreiben?"
+2. Vor dem Supermarkt: "Ich filme nicht, was du gerade machst — das ist hier verboten, und ich
+   bring dich nicht in Schwierigkeiten. Aber deine Geschichte würde ich gern hören. Ich hab
+   dafür Zeit und 50 Franken. Kann ich dir am Donnerstag schreiben?"
+3. Lehrer-Winkel: "Du kennst diese Stadt auf eine Art, die ich nicht kenne. Ich bin neu hier.
+   Zeig mir dein Zürich — einen Abend, ich bezahl deine Zeit, und wenn du willst, erkennt dich
+   im Video niemand."
+
+**Netzwerk-Protokoll:** Liste (Name · wo getroffen · was er gerade braucht · WhatsApp ·
+Gesicht ja/nein · Stand) · 3 Begegnungen/Woche, Hilfe zuerst · Institutionen auf IG folgen +
+anschreiben: Caritas Zürich, Surprise, Incontro (Europaallee), Sozialwerk Pfarrer Sieber,
+sip züri · Leads in `../germany-subjects/` als Vorbild (verify before film, §6).
+
+**Szene Bettelverbot (gesetzt):** "Er fragt gerade nach Geld. Ich darf es nicht zeigen — in
+Zürich ist das verboten." Das Gesetz wird zum Mitspieler; die Person bleibt geschützt.
