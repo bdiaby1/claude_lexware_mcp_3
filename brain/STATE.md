@@ -46,6 +46,11 @@ answers here, delete the question.
 
 ## PROJECTS
 
+### IG post — WHAT IF split carousel (30 Oct) — slide 2 DONE, slide 1 waits on ONE frame
+- `projects/ig-post-what-if-carousel/`: slide 2 = Waldorf bath over Tahsin's floor (built); slide 1 =
+  G-Klasse over the cart (top panel ready, **needs his cart-pulling frame**). Final caption in
+  `projects/shorts-from-archive/what_if_reel_caption.md`. Recipe: `tools/diptych.sh`.
+
 ### ZÜRICH — "Der ärmste Mann in der reichsten Stadt der Welt" — PREPRODUCTION (29 Oct)
 - Briefing v1 with research + sources in `projects/zurich-poorest-man/BRIEFING.md`. Packaging
   first (his rule). Character routes: Surprise vendor (legal Tahsin-equivalent) or the Incontro

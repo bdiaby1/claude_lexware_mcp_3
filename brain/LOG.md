@@ -519,3 +519,11 @@ facts only. Never edit old entries — correct with a new one.
   crop; passenger consent; Rolex sign cropped in the source).
 - Corrected an outdated brain rule: IG's grid is 3:4 now, not 1:1 (MEMORY §9, dated).
 - Real-ESRGAN run still blocked pending his explicit OK; not needed for these (≤1.6× scale).
+
+## 2026-10-30 (g) — frames 6–10: split carousel slide 2 built
+- He sent five more frames (Waldorf bath ×2, Istanbul floor ×2, Istanbul night yacht), no text →
+  read as "pick + build the split". Measured; chose bath frame 6 + floor frame 7; rejected frame 10
+  (dark/small face), frame 9 (thumbs-up on a poor man's floor = mocking, dignity) and kept frame 8
+  (yacht) out of this post. Built slide 2 as a stacked split (1080×1350, 10 px white divider, panels
+  downscaled — no upscaling), pre-cut slide 1's top panel (plate + artefacts excluded). Saved the
+  recipe as tools/diptych.sh (verified byte-identical). Missing: the cart frame for slide 1.
