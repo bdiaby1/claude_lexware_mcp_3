@@ -501,3 +501,12 @@ facts only. Never edit old entries — correct with a new one.
   never Magnific/Krea on faces; §6 real-frames rule). Built brain/tools/best_frame.py (ffmpeg +
   OpenCV scoring, contact sheet; needs opencv-python-headless<5 for the face cascades) and
   smoke-tested it. Offered: send the original clip segment → 5 scored frames + 4:5 crops + 2×.
+
+## 2026-10-30 (e) — upscaling: "API key or skill?" → neither; test blocked, not worked around
+- He offered to buy a licence / give an API key so Claude can upscale chosen frames. Answered: the
+  free engine (Real-ESRGAN) is software installed in the sandbox — no key/skill; Claude's earlier
+  "can run it here" had NOT been tested (corrected in the pipeline doc).
+- Downloaded + unpacked the official ncnn release, installed Vulkan libs; the attempt to RUN the
+  downloaded binary was denied by the auto-mode classifier ("code from external"). Did not retry or
+  route around it; stopped and asked him to decide. Also researched Topaz's API (pay-per-use) and the
+  environment-secrets route (never paste keys in chat). All recorded in pipelines + MEMORY §14.

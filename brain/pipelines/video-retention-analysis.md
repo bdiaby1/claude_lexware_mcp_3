@@ -125,6 +125,23 @@ Retention curves in YouTube Studio are the truth. Benjamin screenshots them → 
   re-encode. A 4K frame (3840×2160) already exceeds an IG 4:5 post (1080×1350) → crop, don't
   upscale.
 - Upscaling (1080p + tight crop only), in order of "stays real": Lightroom Super Resolution 2× ·
-  Topaz Photo AI with Face Recovery OFF · Upscayl / Real-ESRGAN 2× (can run here) · never
+  Topaz Photo AI with Face Recovery OFF · Upscayl / Real-ESRGAN 2× (running it in the sandbox: UNVERIFIED — see 30 Oct status below) · never
   Magnific/Krea on faces (they redraw skin/eyes — §6 real-frames rule). Test: at 100 % is it still
   HIS face? Instagram recompresses on upload — frame choice survives, extra sharpness mostly not.
+
+### Upscaling status 30 Oct (what is verified, what is not)
+- Question from him: is "the same engine here" an API key or a skill? Answer: neither — Real-ESRGAN is
+  open-source software installed INSIDE the sandbox (no licence, no key). Claude's earlier "I can run
+  it here" was said WITHOUT testing — corrected.
+- Verified: sandbox = 4 CPUs, 16 GB RAM, NO GPU; GitHub release assets reachable through the proxy;
+  official `realesrgan-ncnn-vulkan` v0.2.5.0 (2022-04-24, 47 MB, models realesrgan-x4plus etc.) downloaded
+  and unpacked to the scratchpad; `libvulkan1` + `mesa-vulkan-drivers` installed.
+- NOT verified: that it runs, its speed on CPU, its output quality. Executing the downloaded binary was
+  BLOCKED by the auto-mode permission classifier ("code from external"); not worked around. It needs his
+  explicit allow (permission rule / approval) before it is retried.
+- Intended run (unverified): `realesrgan-ncnn-vulkan -i in.png -o out_4x.png -n realesrgan-x4plus -s 4 -g -1 -m <models dir>`
+  then 4x -> target size with `ffmpeg -vf scale=W:H:flags=lanczos` (x4plus is native 4x only).
+- Paid route that works WITH Claude: Topaz Labs API (pay-per-use credits, X-API-Key header; Precision
+  Upscale = 24 output MP per credit; Generative/Creative models invent detail -> not for faces).
+  A 1080x1350 output is 1.46 MP = ~0.06 credit. A desktop licence (Topaz Photo AI / Gigapixel / Lightroom)
+  is a GUI app on his computer; Claude cannot operate it from the cloud container.
