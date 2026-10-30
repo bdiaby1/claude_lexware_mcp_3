@@ -48,7 +48,7 @@ answers here, delete the question.
 
 ### IG post — WHAT IF split carousel (30 Oct) — splits 1–3 from 4K, split 4 draft (pool over Tahsin on the bull)
 - `projects/ig-post-what-if-carousel/`: slide 2 = Waldorf bath over Tahsin's floor (built); slide 1 =
-  G-Klasse over the cart (FINAL), split 2 FINAL (4K), split 4 = pool over Tahsin on the bull (DRAFT), split 3 BUILT (interior portrait over the depot youth, 19 + consented per him; weakest of the four). Carousel: splits 1→2→3 then slide 4 = TAHSIN ALONE full-bleed (recommended; pool split = alt); first comment credits Tahsin. Fisherman = alt for slide 3 (needs his 4K frame); arguing men (underpass) → Berlin video, not here. Final caption in
+  G-Klasse over the cart (FINAL), split 2 FINAL (4K), split 4 = pool over Tahsin on the bull (DRAFT), split 3 BUILT (interior portrait over the depot youth, 19 + consented per him, face BLURRED by his choice; weakest of the four). Carousel: splits 1→2→3 then slide 4 = TAHSIN ALONE full-bleed (recommended; pool split = alt); first comment credits Tahsin. Fisherman = alt for slide 3 (needs his 4K frame); arguing men (underpass) → Berlin video, not here. Final caption in
   `projects/shorts-from-archive/what_if_reel_caption.md`. Recipe: `tools/diptych.sh`.
 - **Quality problem (30 Oct):** frames sent as chat images are too compressed → he is to send ORIGINAL
   clip segments as a ZIP (cart · floor · bath · G-Klasse exit); all four panels get rebuilt from keyframes.

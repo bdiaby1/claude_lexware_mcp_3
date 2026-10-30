@@ -569,3 +569,10 @@ facts only. Never edit old entries — correct with a new one.
   image); fisherman = right picture, wrong slot (alt slide 3 or the WHAT-IF reel); arguing men = no
   for this post (drama, anonymised, torn trousers) → Berlin video. Built the single-slide crop.
   Noted my own slip: I had justified slide 4 with a caption line that his final typed caption dropped.
+
+## 2026-10-30 (l) — blur the depot youth's face
+- He asked for a professional, subtle documentary blur ("feine Pixel oder wie bei professional documentary").
+  Built tools/blur_face.py (feathered head ellipse, Gaussian + matched grain; mosaic mode). First try =
+  too round / censor-ball, mosaic had a bright block → tightened mask (58×74 at 4K), sigma 14, feather 6,
+  grain measured on a dark wall (sd 0.8), judged at 2× phone scale. Recommended soft blur over fine pixels.
+  Split 3 rebuilt with the blurred 4K source. The passenger in the top frame is still unblurred (unanswered).

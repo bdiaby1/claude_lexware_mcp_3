@@ -16,7 +16,7 @@ Caption: FINAL in `../shorts-from-archive/what_if_reel_caption.md` (his typed vo
 |---|---|---|---|---|
 | 1 | G-Klasse/Rolex street, Berlin | him pulling Tahsin's cart, Kadıköy night | 4K PNGs (his ZIP 1) | **FINAL** `split1_…FINAL…jpg` — he: "sieht krass aus" |
 | 2 | Waldorf marble bath, teacup toast | Istanbul floor, heart blanket, smiling | 4K PNGs (`split_2.zip`: `1030(26)`, `1030(27)`) | **FINAL** `split2_…4K_FINAL…jpg` (bath face detail 2× vs chat copy) |
-| 3 | G-Klasse interior, eye contact + friend (`1030(22)`, sun-flare haze) | dark Istanbul scrap-depot yard (`1030(33)`) | `split_3.zip` | **BUILT** `split3_…jpg` — the youth is 19 and agreed to be posted (per Benjamin); the weakest of the four (a portrait, no luxury code in the top frame) |
+| 3 | G-Klasse interior, eye contact + friend (`1030(22)`, sun-flare haze) | dark Istanbul scrap-depot yard (`1030(33)`) | `split_3.zip` | **BUILT** `split3_…jpg` — the youth is 19 and agreed to be posted (per Benjamin); the weakest of the four (a portrait, no luxury code in the top frame); **depot youth's face BLURRED** (his call, 30 Oct) — soft documentary blur, `split3_…BLURRED…jpg` |
 | 4 | Waldorf spa pool (`1030(13)`) | **Tahsin on the Kadıköy bull**, Fenerbahçe jersey, arms wide (WhatsApp photo 2026-09-01) | `split_4.zip` | **DRAFT** (my pairing) `split4_…DRAFT…jpg` |
 | — | Berlin underpass (`1030(4)`) | — | `split_4.zip` | **NOT USED** (dignity, faces, plates) |
 
@@ -37,7 +37,8 @@ cooked for me there."). Pairing 4 was my call; swap if he meant the underpass.
 ```
 split 1: diptych.sh o3_rgb.png o2_rgb.png OUT.png 2672:1670:250:0 2848:1780:100:380 1.10 1.0 0.7 0
 split 2: diptych.sh z2_1.png z2_2.png OUT.png 3456:2160:384:0 3456:2160:0:0 1.12 1.03 0.7 0   (4K bath/floor, rgb24)
-split 3: diptych.sh z3_3.png z3_4.png OUT.png 2880:1800:960:180 2304:1440:1500:720 1.28 1.08 0.7 0 "contrast=1.12:brightness=-0.03:saturation=1.08"   (interior / depot; 10th arg = top-panel eq)
+split 3: first  python3 -I tools/blur_face.py z3_4.png z3_4_blur.png --ellipse 2976 1040 58 74 --sigma 14 --feather 6 --grain-patch 2700 880 2860 980
+         then diptych.sh z3_3.png z3_4_blur.png OUT.png 2880:1800:960:180 2304:1440:1500:720 1.28 1.08 0.7 0 "contrast=1.12:brightness=-0.03:saturation=1.08"   (interior / depot; 10th arg = top-panel eq)
 split 4: diptych.sh z4_5.png z4_7.png OUT.png 3456:2160:264:0 1536:960:0:400 1.0 1.0 0.7 0   (pool / bull JPG)
 ```
 Slide 1 specifics: top crop x 250–2922, y 0–1670 → excludes the parked GLA's plate (B JP 176, razor-sharp
