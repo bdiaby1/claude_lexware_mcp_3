@@ -57,8 +57,9 @@ Location tag (my recommendation, his call): **Berlin, Germany** — NOT the Wald
 
 ## COMMENT REPLIES (30 Oct, recommended) + SEEDS
 - lilschlitz101 "neuer hush puppy" = a Hushpuppi jab (Ramon Abbas, Nigerian Instagram flex influencer, convicted in the US of money laundering): luxury flex reads as scammer.
-  Reply = his own line, polished, in German because the commenter wrote German: `😂 ein sauberer Dollar ist mehr wert als ein dreckiger. der zerrinnt wie Sand ⏳`
-  (EN: `😂 a clean dollar is worth more than a dirty one. dirty money runs out like sand ⏳`). His other ideas, not used: "we take from Europe and bring it to Africa — that's my brand"
+  Reply: his draft `😂 1 clean dollar is worth more, dirty money is like sand ⏳` was "not ideal" (breaks mid-comparison — worth more than what? — and "like sand" doesn't explain itself)
+  → `😂 clean money lasts, dirty money runs through your fingers like sand ⏳` (DE for the German commenter: `😂 sauberes Geld bleibt, dreckiges rinnt dir durch die Finger wie Sand ⏳`).
+  Sharper alternative that names the joke: `😂 ask hushpuppi, dirty money runs through your fingers like sand ⏳`. Instagram comments can't be edited (to my knowledge) → delete + repost if already live. His other ideas, not used: "we take from Europe and bring it to Africa — that's my brand"
   (best punchline, but a screenshot keeps only "we take from Europe" and it plays with the Nigerian-scammer cliché → only with "…just legally 😂"); 🇳🇬🏎️😂 (concedes the flex joke).
 - gulsah.estelik (legacy quote): `and planting trees together 😌` — without the 😏 (a public flirt cuts against the brand; DM if they know each other).
 - Rule: one punchline, then stop — no defence round.

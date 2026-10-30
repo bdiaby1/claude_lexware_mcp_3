@@ -638,3 +638,7 @@ facts only. Never edit old entries — correct with a new one.
   "good is bad and bad is good, blurry" · for Gülşah "and planting trees together 😌😏". Pick: the clean-dollar line (German version for the German commenter); the Europe→Africa joke only
   with "just legally" (screenshot + stereotype risk); "good is bad…" parked as a seed (README); Gülşah without 😏.
 - Lesson: the luxury-first opener carries a "scammer flex" read for some viewers → keep a disarm marker in the first lines ("ok it's not mine 😂"), one punchline in replies, no defence round (MEMORY §10).
+
+## 2026-10-30 (v) — his reply draft to lilschlitz101 "not ideal"
+- His draft: "😂 1 clean dollar is worth more, dirty money is like sand ⏳" — flagged by him as not ideal. Diagnosis: the comparison breaks off (worth more than what?) and "like sand" needs
+  "runs through your fingers". New pick: "😂 clean money lasts, dirty money runs through your fingers like sand ⏳"; alternative "😂 ask hushpuppi, dirty money runs through your fingers like sand ⏳". README updated.
