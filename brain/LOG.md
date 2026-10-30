@@ -557,3 +557,7 @@ facts only. Never edit old entries — correct with a new one.
   comment carries Tahsin). Underpass frame NOT used: exposed body, recognisable people, legible plates.
 - split_3.zip = G-Klasse interior + dark depot yard. Not built: the depot frame has a young person in a
   wide depot shot (his own Istanbul rules). Flag recorded in MEMORY §10 as a general pre-build check.
+- (j2) He answered the depot flag: the young man is 19 and he asked him specifically whether posting is
+  OK → flag cleared, split 3 built (interior eye-contact portrait over the depot yard; smeared hand
+  cropped, night scene lifted only to gamma 1.28; cyclist cropped out). diptych.sh got a TOP_EQ arg
+  (regression: split 2 byte-identical). Verdict: split 3 is the weakest (no luxury code in the top frame).
