@@ -88,3 +88,27 @@ talks guilt, the carousel ends on joy. One line in his typed voice, right before
 and the closing question now also asks "who is the rich one?"; first comment can then be hashtags only.)
 Optional, his call: "99% / 95%" is the only attackable claim → "most people" if he wants it bulletproof.
 Facts used: "over sixty" / "every night he pulls this cart through Istanbul" (Istanbul script).
+
+---
+## FINAL v3 (30 Oct) — his direction: slide 4 is the split pool | Tahsin, context line SHORT, "not bla bla bla"
+His words: "besser people who have least give the most, Tahsin cooked for me or something". His own line from the swap
+video ("People who have the least give the most", 03:40) + the act. It also answers the caption's "held accountable for
+how you spent it": the ones with least give most. Everything else verbatim:
+
+What if the G-Class is not mine?
+
+ok it's not mine 😂 but that's not what I'm trying to say:
+
+what if the wealth you get from the country you're born in is not yours.
+
+what if it's just borrowed AND at the end it gets weighed against the 99% who have 95% less than you? what if you're held accountable for everything extra you got, and how you spent it 😳
+
+not religion, but if there is God, it seems logical, no?
+
+idk. just a thought.
+
+people who have the least give the most. last slide is tahsin, he cooked for me.
+
+what do you think
+
+(first comment = hashtags only. Optional: "99% / 95%" → "most people" if he wants it unattackable.)

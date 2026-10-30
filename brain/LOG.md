@@ -587,3 +587,8 @@ facts only. Never edit old entries — correct with a new one.
 - He pasted the final caption: "Passt auch nicht perfekt?" → fit check: ~80 %; gap = slide 4 / no people named.
   Proposed ONE added line in his voice before the closing question (Tahsin, pulls a cart every night, happiest guy
   in the post); flagged "99%/95%" as the one attackable claim (optional). Recorded as PROPOSED, not approved.
+
+## 2026-10-30 (o) — his call: slide 4 stays a split; context line short
+- He wants slide 4 = pool | Tahsin (the split carries the contrast) and ONE short context line instead of my longer
+  one: "people who have the least give the most, Tahsin cooked for me". Accepted (his decision, his data on feel),
+  no relitigating. Caption v3 written with his own swap-video sentence; overview sheet rebuilt; README/STATE updated.

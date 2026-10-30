@@ -17,7 +17,7 @@ Caption: FINAL in `../shorts-from-archive/what_if_reel_caption.md` (his typed vo
 | 1 | G-Klasse/Rolex street, Berlin | him pulling Tahsin's cart, Kadıköy night | 4K PNGs (his ZIP 1) | **FINAL** `split1_…FINAL…jpg` — he: "sieht krass aus" |
 | 2 | Waldorf marble bath, teacup toast | Istanbul floor, heart blanket, smiling | 4K PNGs (`split_2.zip`: `1030(26)`, `1030(27)`) | **FINAL** `split2_…4K_FINAL…jpg` (bath face detail 2× vs chat copy) |
 | 3 | G-Klasse interior, eye contact + friend (`1030(22)`, sun-flare haze) | dark Istanbul scrap-depot yard (`1030(33)`) | `split_3.zip` | **BUILT** `split3_…jpg` — the youth is 19 and agreed to be posted (per Benjamin); the weakest of the four (a portrait, no luxury code in the top frame); **depot youth's face BLURRED** (his call, 30 Oct) — soft documentary blur, `split3_…BLURRED…jpg` |
-| 4 | Waldorf spa pool (`1030(13)`) | **Tahsin on the Kadıköy bull**, Fenerbahçe jersey, arms wide (WhatsApp photo 2026-09-01) | `split_4.zip` | **DRAFT** (my pairing) `split4_…DRAFT…jpg` |
+| 4 | Waldorf spa pool (`1030(13)`) | **Tahsin on the Kadıköy bull**, Fenerbahçe jersey, arms wide (WhatsApp photo 2026-09-01) | `split_4.zip` | **FINAL — his decision 30 Oct** `split4_…FINAL…jpg` (pool | Tahsin on the bull) |
 | — | Berlin underpass (`1030(4)`) | — | `split_4.zip` | **NOT USED** (dignity, faces, plates) |
 
 Recommended carousel: **1 → 2 → 4** (three punches) — or all four as **1 → 2 → 3 → 4**, ending on Tahsin. Split 4 is the "what if the man
@@ -83,3 +83,10 @@ the top of the photo is cropped out). The pool split stays as the alternative (`
   colourful slide in the sheet; ends on warmth, then the caption's open question. Pool|Tahsin stays the alternative
   (ends on a bare torso, 4th repetition of the contrast).
 - If "B" meant the fine-pixel blur variant: louder (censor-box read) → keep the soft blur.
+
+## FINAL DECISION (his, 30 Oct): slide 4 = SPLIT pool | Tahsin (not Tahsin alone)
+He overrode my "Tahsin alone" recommendation: the split carries the contrast itself, so the caption needs only a
+SHORT context line ("not bla bla bla"). Final carousel = `carousel_FINAL_overview.jpg`: 1 G-Klasse|cart · 2 bath|floor ·
+3 interior|depot (blurred youth) · 4 pool|Tahsin. Tahsin-alone crop kept as an alternative
+(`slide4_tahsin_alone_RECOMMENDED…jpg`). Caption context line = his own swap-video sentence + the act: see
+`../shorts-from-archive/what_if_reel_caption.md` (FINAL v3).
