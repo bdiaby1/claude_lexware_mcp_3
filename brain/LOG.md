@@ -576,3 +576,9 @@ facts only. Never edit old entries — correct with a new one.
   too round / censor-ball, mosaic had a bright block → tightened mask (58×74 at 4K), sigma 14, feather 6,
   grain measured on a dark wall (sd 0.8), judged at 2× phone scale. Recommended soft blur over fine pixels.
   Split 3 rebuilt with the blurred 4K source. The passenger in the top frame is still unblurred (unanswered).
+
+## 2026-10-30 (m) — carousel order confirmed
+- His message (voice-garbled) questioned the first slide, the strength of the blurred split, and "only Tahsin" as
+  the last. Built an overview sheet of 1-2-3-4 and confirmed 1→2→3→4 with reasons (message match with caption
+  line 1, luxury opens, blurred split = third / the invisible before the reveal, Tahsin alone = payoff).
+  Admitted the blur is barely visible at feed size. Interpretation of "B" noted as uncertain.

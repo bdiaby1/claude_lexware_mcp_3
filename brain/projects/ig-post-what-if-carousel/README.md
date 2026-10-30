@@ -71,3 +71,15 @@ the top of the photo is cropped out). The pool split stays as the alternative (`
   is his. he cooked for me there. one of the best menemen of my life" (his words: Istanbul script).
 - Correction: the final typed caption has NO "better than you" line (it was only in rejected caption v1);
   slide 4 now carries that thought silently, without text.
+
+## Order check (his question, 30 Oct: "which first — are you sure? the blurred split is strong too; last = only Tahsin?")
+**FINAL ORDER 1 → 2 → 3 → 4** (see `carousel_overview_1-2-3-4.jpg`).
+- **1 = G-Klasse | cart.** MESSAGE MATCH: caption line 1 is "What if the G-Class is not mine?" — the first image must show the
+  G-Class. Luxury opens (like-magnet, MEMORY §10); bright and warm = the top-left grid tile (§9 handshake). A
+  covered/blurred face on the COVER reads "exposé/crime", not warmth.
+- **3 = blurred split** stays third: it is the "invisible" slide right before the reveal. Honest note: at feed size the
+  blur is a small smudge; the pull of slide 3 is his direct stare in the top frame, not the blur.
+- **4 = Tahsin ALONE**: after the anonymous youth, the one person with a face, a name, a hat → the payoff; the most
+  colourful slide in the sheet; ends on warmth, then the caption's open question. Pool|Tahsin stays the alternative
+  (ends on a bare torso, 4th repetition of the contrast).
+- If "B" meant the fine-pixel blur variant: louder (censor-box read) → keep the soft blur.
