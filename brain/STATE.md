@@ -33,7 +33,7 @@ answers here, delete the question.
 8. **Name spelling** — Mohammed vs Ahmed (MEMORY §9, "ask ONCE, then fix globally").
    Only matters if the swap video or its shorts are still being cut. [STALE?]
 9. **Berlin Rich vs Poor** — the Waldorf/G-Klasse weekend was aimed at 22/23 Aug. Shot,
-   or dropped in favour of Istanbul? Prices verified? Protagonist cast? [STALE?]
+   or dropped in favour of Istanbul? Prices verified? Protagonist cast? [30 Oct: SHOT — G-Klasse/Rolex-street + interior frames exist, a young man in a white shirt rides along (protagonist? confirm); cut status unknown]
 10. **WHAT IF short is LOCKED (11 Oct, his text) — shot in Lausanne yet?** Then: Faizal dub cut
     (verify the "she died" moment + parents in the video) and the orphanage short (his call on
     the "two years" claim and on the §6 kids-organizations rule).

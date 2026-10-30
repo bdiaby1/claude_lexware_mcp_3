@@ -510,3 +510,12 @@ facts only. Never edit old entries — correct with a new one.
   downloaded binary was denied by the auto-mode classifier ("code from external"). Did not retry or
   route around it; stopped and asked him to decide. Also researched Topaz's API (pay-per-use) and the
   environment-secrets route (never paste keys in chat). All recorded in pipelines + MEMORY §14.
+
+## 2026-10-30 (f) — frame pick for the IG post (5 Berlin stills)
+- He sent five 2000×1125 frames (no text) → read as "choose the frame". Measured sharpness/exposure/
+  face sharpness; picked frame 3 (Rolex/Chanel street, G-Klasse, him in beige with iced coffee).
+  Cut the 4:5 hero (688×860 → 1080×1350, Lanczos, no AI). Stored in
+  projects/berlin-rich-vs-poor/stills/ with the table + flags (readable plate B JP 176 outside the
+  crop; passenger consent; Rolex sign cropped in the source).
+- Corrected an outdated brain rule: IG's grid is 3:4 now, not 1:1 (MEMORY §9, dated).
+- Real-ESRGAN run still blocked pending his explicit OK; not needed for these (≤1.6× scale).
