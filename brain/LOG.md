@@ -614,3 +614,8 @@ facts only. Never edit old entries — correct with a new one.
   chose the middle: 1.11× left Benjamin barely bigger, 1.41× lost the sunroof (car cue). Haar face/eye detectors: the old crop finds the passenger, the new
   left strip finds nothing; 3× edge zoom checked. Regression first: the rebuilt OLD slide matched the delivered JPEG (mean abs diff 1.3/255).
 - Overwrote split3_…BLURRED…jpg and the 3-slide overview in the brain; old version only in git history (≤ 0786818), not to be posted.
+
+## 2026-10-30 (r) — "Final text?" → post package
+- He asked for the final text. Answer = his typed v2 FINAL caption, unchanged (no Tahsin line), plus a first comment (optional Tahsin credit line + 10 pool-aligned
+  hashtags) — written into the carousel README as POST PACKAGE so it survives the container. The three slides were sent again numbered 1/2/3 in post order
+  (byte-identical to the brain files, checked by sha256). Hashtag choice: no luxury tags (pool theory). Still open: his OK on the order 1→3→2.

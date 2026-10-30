@@ -30,6 +30,30 @@ Overview: `carousel_3slides_FINAL_overview.jpg`. Posting order = my proposal, hi
   "Document", not "Photo", avoids the recompression) or shoot a 4K portrait at ≥1/250 s. Files kept in this folder:
   `split4_pool_over_tahsin_bull_FINAL_1080x1350.jpg`, `slide4_tahsin_alone_RECOMMENDED_1080x1350.jpg`, `carousel_FINAL_overview.jpg` (old 4-slide sheet).
 
+## POST PACKAGE — copy-paste (30 Oct late; his typed v2 FINAL caption, word for word)
+Slides in post order = `split1_…` → `split3_…` → `split2_…` (sent to him as 1_/2_/3_). Caption:
+```
+What if the G-Class is not mine?
+
+ok it's not mine 😂 but that's not what I'm trying to say:
+
+what if the wealth you get from the country you're born in is not yours.
+
+what if it's just borrowed AND at the end it gets weighed against the 99% who have 95% less than you? what if you're held accountable for everything extra you got, and how you spent it 😳
+
+not religion, but if there is God, it seems logical, no?
+
+idk. just a thought. what do you think
+```
+First comment (the first line is optional; hashtags are pool-aligned — rich-vs-poor / perspective / his brand — and deliberately NO luxury tags like #gclass #mercedes #rolex,
+which would sort the post into the lifestyle pool, MEMORY §3 + §10):
+```
+the cart and the floor are tahsin's. he cooked for me there.
+
+#richvspoor #privilege #perspective #inequality #gratitude #humanity #invisiblepeople #istanbul #berlin #whatif
+```
+Only attackable claim in the caption: "99% … 95% less" (his number, kept). Bulletproof swap if wanted: "the people who have far less than you".
+
 Everything below is history. The sections "Recommended carousel", "Slide 4 decision", "Order check" and "FINAL DECISION slide 4"
 are SUPERSEDED by the block above; the split table, flags and rebuild recipes below still apply.
 
