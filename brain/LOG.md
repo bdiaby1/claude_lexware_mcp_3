@@ -630,3 +630,11 @@ facts only. Never edit old entries — correct with a new one.
   trigger a second comment — dailyhegazi #2 ("do you think it's really ours?"), saidhamed1 ("which part hit you the most?"); emoji-only and the generic legacy quote = like only;
   "neuer hush puppy" = "wie meinst du das?" (a web search found no slang meaning — shoe brand / cornmeal ball only; my guess, unproven: banter on his droopy stare). Rule in MEMORY §10.
 - Owed: Insights after 24 h; the order and location tag he actually used.
+
+## 2026-10-30 (u) — "neuer hush puppy" decoded by him: Hushpuppi
+- He looked it up himself (he had seen a documentary): Hushpuppi = Ramon Abbas, Nigerian Instagram influencer (luxury flex), convicted in the US of money laundering → the jab
+  = "your luxury flex looks like a scammer's". My guess (droopy eyes) and the empty web search were wrong; STATE/MEMORY corrected.
+- His reply sketches: Nigeria/sportscar emoji · "we take from Europe, bring it to Africa, that's my brand" · "a clean dollar is worth more than a dirty one … like sand ⏳" ·
+  "good is bad and bad is good, blurry" · for Gülşah "and planting trees together 😌😏". Pick: the clean-dollar line (German version for the German commenter); the Europe→Africa joke only
+  with "just legally" (screenshot + stereotype risk); "good is bad…" parked as a seed (README); Gülşah without 😏.
+- Lesson: the luxury-first opener carries a "scammer flex" read for some viewers → keep a disarm marker in the first lines ("ok it's not mine 😂"), one punchline in replies, no defence round (MEMORY §10).

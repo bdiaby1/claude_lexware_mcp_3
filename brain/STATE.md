@@ -58,7 +58,7 @@ answers here, delete the question.
   ORIGINAL from Tahsin (WhatsApp → "Document") or shoot 4K at ≥1/250 s. Fisherman = alt for slide 2 (needs his 4K frame);
   arguing men (underpass) → Berlin video, not here.
 - Passenger in the interior frame: RESOLVED 30 Oct late — his call, cropped out at the eye line (left edge), no blur; slide 2 rebuilt 1.19× bigger.
-- LIVE (his comment screenshots 16:14; his first comment 2 h old → posted ≈14:10): 5 comments from 4 accounts — dailyhegazi (❤️❤️❤️🔥 + "Now u can enjoy the life better" = reads it as "enjoy it"), saidhamed1 (💯), gulsah.estelik (generic "legacy / kindness" quote), lilschlitz101 ("neuer hush puppy", meaning unverified). Nobody answers the caption's question yet. Reply plan given: like all, words only where they can trigger a 2nd comment (MEMORY §10). OWED: Insights after 24 h (reach, likes, saves, shares, profile visits, follows) + which order and location tag he actually used.
+- LIVE (his comment screenshots 16:14; his first comment 2 h old → posted ≈14:10): 5 comments from 4 accounts — dailyhegazi (❤️❤️❤️🔥 + "Now u can enjoy the life better" = reads it as "enjoy it"), saidhamed1 (💯), gulsah.estelik (generic "legacy / kindness" quote), lilschlitz101 ("neuer hush puppy" = Hushpuppi jab, decoded by him: luxury flex reads as scammer). Nobody answers the caption's question yet. Reply plan given: like all, words only where they can trigger a 2nd comment (MEMORY §10). OWED: Insights after 24 h (reach, likes, saves, shares, profile visits, follows) + which order and location tag he actually used.
 - **Quality problem (30 Oct) SOLVED:** rebuilt from 4K originals (his ZIPs); rules in MEMORY §14.
 
 ### ZÜRICH — "Der ärmste Mann in der reichsten Stadt der Welt" — PREPRODUCTION (29 Oct)
