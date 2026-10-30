@@ -604,3 +604,13 @@ facts only. Never edit old entries — correct with a new one.
   called the blurred split "quite strong, creating attention"; ends on the warmest pair. 1→2→3 = alternative, rename only.
 - Caption: v2 FINAL stands, v3 line withdrawn; optional first comment credits Tahsin. Parked: pool frame, Tahsin photo,
   "people who have the least give the most" (for a Tahsin post/reel). Brain: README, caption file, STATE rev 7, MEMORY §5/§10.
+
+## 2026-10-30 (q) — his call: passenger cropped out at the eye line, slide 2 rebuilt
+- He (voice, German): adjust "the last picture" = the interior | depot slide. The person sitting with him in the car must not be identifiable: show
+  only the first beginning of the face and stop exactly where the eyes are; the car stays well recognisable; the picture must get BIGGER, not smaller,
+  fill the panel, well composed, "nicht zu wenig nicht zu viel". (No consent known for the passenger — I had asked twice, unanswered.)
+- Done: located him in the 4K frame (eyes x 1040–1212 / y 1285–1335, brow tip ≈ 1238, ear 1300–1340) and moved the crop's LEFT edge to x = 1248 → only hair,
+  ear, a cheek slice and the collar remain. Window 2432×1520 @ (1248, 280) = 1.19× bigger than before. Three variants built (1.11× / 1.25× / 1.41×) —
+  chose the middle: 1.11× left Benjamin barely bigger, 1.41× lost the sunroof (car cue). Haar face/eye detectors: the old crop finds the passenger, the new
+  left strip finds nothing; 3× edge zoom checked. Regression first: the rebuilt OLD slide matched the delivered JPEG (mean abs diff 1.3/255).
+- Overwrote split3_…BLURRED…jpg and the 3-slide overview in the brain; old version only in git history (≤ 0786818), not to be posted.

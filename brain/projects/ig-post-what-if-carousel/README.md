@@ -9,7 +9,7 @@ Overview: `carousel_3slides_FINAL_overview.jpg`. Posting order = my proposal, hi
 | post slide | file | top / bottom |
 |---|---|---|
 | 1 | `split1_gklasse_over_cart_FINAL_1080x1350.jpg` | G-Klasse + Rolex street (Berlin) / him pulling Tahsin's cart (Kadıköy, night) |
-| 2 | `split3_interior_over_depot_BLURRED_1080x1350.jpg` | G-Klasse interior, direct stare / dark depot yard, the 19-year-old's face blurred |
+| 2 | `split3_interior_over_depot_BLURRED_1080x1350.jpg` | G-Klasse interior, direct stare (v2: passenger CROPPED OUT at the eye line, picture 1.19× bigger) / dark depot yard, the 19-year-old's face blurred |
 | 3 | `split2_bath_over_floor_4K_FINAL_1080x1350.jpg` | Waldorf bath, teacup toast / Istanbul floor, heart blanket, him smiling |
 
 - **Caption = his typed v2 FINAL, UNCHANGED.** The v3 context line ("people who have the least give the most. last slide is
@@ -46,7 +46,7 @@ are SUPERSEDED by the block above; the split table, flags and rebuild recipes be
 |---|---|---|---|---|
 | 1 | G-Klasse/Rolex street, Berlin | him pulling Tahsin's cart, Kadıköy night | 4K PNGs (his ZIP 1) | **FINAL** `split1_…FINAL…jpg` — he: "sieht krass aus" |
 | 2 | Waldorf marble bath, teacup toast | Istanbul floor, heart blanket, smiling | 4K PNGs (`split_2.zip`: `1030(26)`, `1030(27)`) | **FINAL** `split2_…4K_FINAL…jpg` (bath face detail 2× vs chat copy) |
-| 3 | G-Klasse interior, eye contact + friend (`1030(22)`, sun-flare haze) | dark Istanbul scrap-depot yard (`1030(33)`) | `split_3.zip` | **BUILT** `split3_…jpg` — the youth is 19 and agreed to be posted (per Benjamin); the weakest of the four (a portrait, no luxury code in the top frame); **depot youth's face BLURRED** (his call, 30 Oct) — soft documentary blur, `split3_…BLURRED…jpg` |
+| 3 | G-Klasse interior, eye contact + friend (`1030(22)`, sun-flare haze) | dark Istanbul scrap-depot yard (`1030(33)`) | `split_3.zip` | **BUILT** `split3_…jpg` — the youth is 19 and agreed to be posted (per Benjamin); the weakest of the four (a portrait, no luxury code in the top frame); **depot youth's face BLURRED** (his call, 30 Oct) — soft documentary blur, `split3_…BLURRED…jpg` · **v2 (30 Oct late): passenger cropped out at his eye line, picture 1.19× bigger** |
 | 4 | Waldorf spa pool (`1030(13)`) | **Tahsin on the Kadıköy bull**, Fenerbahçe jersey, arms wide (WhatsApp photo 2026-09-01) | `split_4.zip` | ~~FINAL 30 Oct~~ → **PARKED (30 Oct late: dropped — his call; the only non-4K image)** `split4_…FINAL…jpg` (pool | Tahsin on the bull) |
 | — | Berlin underpass (`1030(4)`) | — | `split_4.zip` | **NOT USED** (dignity, faces, plates) |
 
@@ -57,7 +57,12 @@ cooked for me there."). Pairing 4 was my call; swap if he meant the underpass.
 
 ## Flags
 - Depot frame (`1030(33)`): RESOLVED 30 Oct — the young man is **19; Benjamin asked him and he agreed to be posted** (his word). Still a wide shot of the depot (his Istanbul brief wanted none) — his call, kept. Crop drops the smeared hand in the corner; lifted gamma 1.28 only (it is a night scene).
-- Split 3 top shows the passenger (young man, white shirt) clearly in 4K — his OK was flagged earlier, not yet answered. The bald cyclist with sunglasses at the left window is cropped out.
+- Split 3 top, the PASSENGER (young man, white shirt, left): no consent known (asked twice, unanswered) → **RESOLVED by his call, 30 Oct late: cut off at the eye line,
+  no blur.** In the 4K frame his eyes sit at x 1040–1212 / y 1285–1335, brow tip ≈ x 1238, ear x 1300–1340. The crop's LEFT edge is now x = 1248 (10 px past the brow tip)
+  → what remains is hair, ear, a cheek slice and the collar. Window 2432×1520 @ (1248, 280) = 1.19× bigger than the old 2880×1800 @ (960, 180); sunroof, door, headrest and
+  belt keep the car readable. Variants tried: 1.11× (more car, Benjamin barely bigger), 1.25×, 1.41× (sunroof gone) → the middle one. Check: Haar face/eye detectors find the
+  passenger in the OLD crop and nothing in the new left strip; looked at 3× zoom. The old version with the visible face exists only in git history (≤ 0786818) — do NOT post it.
+  The bald cyclist with sunglasses at the left window stays outside the crop (x < 1000).
 - Underpass frame (`1030(4)`): a man's torn trousers expose his buttocks; seated people recognisable
   (consent unknown); several number plates legible. Dignity before drama (§1b) → do not use; if ever,
   crop/blur heavily.
@@ -68,7 +73,8 @@ cooked for me there."). Pairing 4 was my call; swap if he meant the underpass.
 split 1: diptych.sh o3_rgb.png o2_rgb.png OUT.png 2672:1670:250:0 2848:1780:100:380 1.10 1.0 0.7 0
 split 2: diptych.sh z2_1.png z2_2.png OUT.png 3456:2160:384:0 3456:2160:0:0 1.12 1.03 0.7 0   (4K bath/floor, rgb24)
 split 3: first  python3 -I tools/blur_face.py z3_4.png z3_4_blur.png --ellipse 2976 1040 58 74 --sigma 14 --feather 6 --grain-patch 2700 880 2860 980
-         then diptych.sh z3_3.png z3_4_blur.png OUT.png 2880:1800:960:180 2304:1440:1500:720 1.28 1.08 0.7 0 "contrast=1.12:brightness=-0.03:saturation=1.08"   (interior / depot; 10th arg = top-panel eq)
+         then diptych.sh z3_3.png z3_4_blur.png OUT.png 2432:1520:1248:280 2304:1440:1500:720 1.28 1.08 0.7 0 "contrast=1.12:brightness=-0.03:saturation=1.08"   (interior / depot; 10th arg = top-panel eq;
+         v2 top crop = passenger cut at the eye line; v1 was 2880:1800:960:180 with the passenger's face visible)
 split 4: diptych.sh z4_5.png z4_7.png OUT.png 3456:2160:264:0 1536:960:0:400 1.0 1.0 0.7 0   (pool / bull JPG)
 ```
 Slide 1 specifics: top crop x 250–2922, y 0–1670 → excludes the parked GLA's plate (B JP 176, razor-sharp
@@ -79,8 +85,7 @@ from the UNTOUCHED source clip would give the full 16:9 (more cart, his legs).
 Cart frame choice: o2 over o1 (face sharpness 66 vs 57, direct gaze).
 
 ## Open
-1. His OK: order 1→3→2 (or the old 1→2→3?) and whether "turkey" meant 4K. Passenger in the interior frame OK to post?
-   (asked twice, unanswered — offer: blur him like the youth.)
+1. His OK: order 1→3→2 (or the old 1→2→3?) and whether "turkey" meant 4K. (Passenger: resolved — cropped at the eye line, v2.)
 2. Optional first comment: "the cart and the floor are tahsin's. he cooked for me there." (else hashtags only).
 3. Rejected: frame 9 thumbs-up on the floor (dignity), frame 10 dark bath, frame 8 yacht (no human), 1:1.
 
