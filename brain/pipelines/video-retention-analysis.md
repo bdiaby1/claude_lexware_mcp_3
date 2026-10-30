@@ -118,3 +118,13 @@ Short lines. Timecode, problem, instruction. No essays.
 ## AFTER PUBLISHING
 
 Retention curves in YouTube Studio are the truth. Benjamin screenshots them → you read the exact second people leave and why, then compare against these findings. Pre-publish analysis is prediction, curves are proof. Both together is the loop that makes the next video better.
+
+## Addendum 2026-10-30 — stills for IG posts: pick first, upscale last
+- `brain/tools/best_frame.py clip.mp4 --out frames --start S --end E` → top-5 REAL frames scored
+  on sharpness/exposure/face/eyes + contact sheet. Run on the original export, never the IG/YT
+  re-encode. A 4K frame (3840×2160) already exceeds an IG 4:5 post (1080×1350) → crop, don't
+  upscale.
+- Upscaling (1080p + tight crop only), in order of "stays real": Lightroom Super Resolution 2× ·
+  Topaz Photo AI with Face Recovery OFF · Upscayl / Real-ESRGAN 2× (can run here) · never
+  Magnific/Krea on faces (they redraw skin/eyes — §6 real-frames rule). Test: at 100 % is it still
+  HIS face? Instagram recompresses on upload — frame choice survives, extra sharpness mostly not.

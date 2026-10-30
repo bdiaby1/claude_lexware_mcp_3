@@ -492,3 +492,12 @@ facts only. Never edit old entries — correct with a new one.
 - (c) He rewrote the caption himself (95 % less, 😳, "if there is God"); asked which 2nd line.
   Picked "but that's not what I'm trying to say:" (the turn). One joint fixed, rest verbatim.
   FINAL in what_if_reel_caption.md.
+
+## 2026-10-30 (d) — stills for IG: frame picker tool + upscaling guidance
+- He asked for an AI solution to upscale video frames for IG posts "100 % realistic", maybe pick
+  the frame. Answer: pick first (sharpness/eyes — an upscaler can't fix blur), upscale last and
+  only for 1080p + tight crops; 4K frames already exceed 1080×1350. Tools ranked by "stays real"
+  (Lightroom Super Resolution → Topaz Photo AI with Face Recovery OFF → Real-ESRGAN/Upscayl →
+  never Magnific/Krea on faces; §6 real-frames rule). Built brain/tools/best_frame.py (ffmpeg +
+  OpenCV scoring, contact sheet; needs opencv-python-headless<5 for the face cascades) and
+  smoke-tested it. Offered: send the original clip segment → 5 scored frames + 4:5 crops + 2×.
