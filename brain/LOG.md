@@ -547,3 +547,13 @@ facts only. Never edit old entries — correct with a new one.
   good. Unsure about poor top/bottom → luxury top, human bottom with reasons (README).
 - Slide 1 FINAL; slide 2 v3 (wide, no bar) built from the chat copies, waits for 4K originals.
   diptych.sh now two-stage + DIVIDER_PX param (ffmpeg 6.1 crash on two 4K inputs in one graph).
+
+## 2026-10-30 (j) — three more ZIPs: split 2 rebuilt from 4K, split 4 drafted, split 3 blocked
+- split_2.zip = bath + floor 4K → rebuilt exactly like split 1 (no bar, full-height 1.6 crops, 0.7):
+  bath face detail 399 → 724, floor 101 → 131 (Laplacian, same output size). Man in the same x-position
+  top and bottom again. FINAL.
+- split_4.zip = spa pool + Berlin underpass + WhatsApp photo of Tahsin on the bull (2026-09-01). Built
+  pool over Tahsin (draft, my pairing — the "better than you" slide; poverty not visible → first
+  comment carries Tahsin). Underpass frame NOT used: exposed body, recognisable people, legible plates.
+- split_3.zip = G-Klasse interior + dark depot yard. Not built: the depot frame has a young person in a
+  wide depot shot (his own Istanbul rules). Flag recorded in MEMORY §10 as a general pre-build check.

@@ -46,9 +46,9 @@ answers here, delete the question.
 
 ## PROJECTS
 
-### IG post — WHAT IF split carousel (30 Oct) — slide 1 DONE from 4K originals; slide 2 v3 built, wants 4K originals
+### IG post — WHAT IF split carousel (30 Oct) — splits 1 + 2 FINAL from 4K; split 4 draft; split 3 blocked on a frame
 - `projects/ig-post-what-if-carousel/`: slide 2 = Waldorf bath over Tahsin's floor (built); slide 1 =
-  G-Klasse over the cart (DONE from his 4K PNGs, no divider, luxury top). Final caption in
+  G-Klasse over the cart (FINAL), split 2 FINAL (4K), split 4 = pool over Tahsin on the bull (DRAFT), split 3 NOT built (depot frame shows a possible minor + wide depot shot). Recommended carousel 1→2→4; first comment credits Tahsin. Final caption in
   `projects/shorts-from-archive/what_if_reel_caption.md`. Recipe: `tools/diptych.sh`.
 - **Quality problem (30 Oct):** frames sent as chat images are too compressed → he is to send ORIGINAL
   clip segments as a ZIP (cart · floor · bath · G-Klasse exit); all four panels get rebuilt from keyframes.
