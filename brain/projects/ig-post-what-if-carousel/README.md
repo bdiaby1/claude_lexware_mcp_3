@@ -51,3 +51,22 @@ Cart frame choice: o2 over o1 (face sharpness 66 vs 57, direct gaze).
 1. His call: carousel 1→2→4 or all four (1→2→3→4)? Confirm the pairing of split 4. Passenger OK?
 2. Optional first comment: "the floor is Tahsin's. he cooked for me there."
 3. Rejected: frame 9 thumbs-up on the floor (dignity), frame 10 dark bath, frame 8 yacht (no human), 1:1.
+
+## Slide 4 decision (his question, 30 Oct): keep Tahsin? fisherman? the two arguing men? more contrast or "happy end"?
+**Recommendation: Tahsin stays — and ALONE, full-bleed (no pool).** `slide4_tahsin_alone_RECOMMENDED…jpg`
+(crop 1240×1550 @ (150,360) of the 1536×2048 WhatsApp photo, ×0.87, unsharp 0.7; the phone-number sign at
+the top of the photo is cropped out). The pool split stays as the alternative (`split4_…DRAFT…jpg`).
+- Arc: slides 1–3 = Tahsin's world through Benjamin's eyes (cart · floor · yard); slide 4 = Tahsin himself,
+  the reveal/payoff. Three hardship contrasts, then a face: warmth not guilt (§1b, never end on fear/drama).
+- The pool shot (bare torso in a spa pool) is the one flex image in the set; ending on it is the wrong note.
+- NOT the fisherman at the end: ending on hardship = the caption's accountability load put on the picture;
+  he fits better as the Jakarta link — slide 3 alternative [interior portrait | fisherman] ("young men the
+  same age as me", Jakarta transcript 04:02) — needs a 4K frame from him; or in the WHAT-IF reel.
+- NOT the arguing men (Berlin underpass): ends on drama; blurred faces make the invisible anonymous again
+  (the opposite of the brand); the torn-trousers body exposure stays in the frame. The group's OK to a
+  blurred version is noted — they belong in the Berlin rich-vs-poor video with a story, named.
+- Watch the "poor but happy" misread: Tahsin's joy must not read as "they're fine". First comment carries
+  him as a person: "last slide is tahsin. 60, pulls a cart through istanbul every night. the floor in slide 2
+  is his. he cooked for me there. one of the best menemen of my life" (his words: Istanbul script).
+- Correction: the final typed caption has NO "better than you" line (it was only in rejected caption v1);
+  slide 4 now carries that thought silently, without text.

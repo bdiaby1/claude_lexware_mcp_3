@@ -561,3 +561,11 @@ facts only. Never edit old entries — correct with a new one.
   OK → flag cleared, split 3 built (interior eye-contact portrait over the depot yard; smeared hand
   cropped, night scene lifted only to gamma 1.28; cyclist cropped out). diptych.sh got a TOP_EQ arg
   (regression: split 2 byte-identical). Verdict: split 3 is the weakest (no luxury code in the top frame).
+
+## 2026-10-30 (k) — which image closes the carousel?
+- He asked: keep Tahsin under the pool, or the fisherman, or the two arguing men (the group agreed to a
+  blurred version), "more contrast or happy end — and it's the nicest picture of him".
+- Verdict: Tahsin, alone full-bleed (reveal after three hardship splits; pool = the set's only flex
+  image); fisherman = right picture, wrong slot (alt slide 3 or the WHAT-IF reel); arguing men = no
+  for this post (drama, anonymised, torn trousers) → Berlin video. Built the single-slide crop.
+  Noted my own slip: I had justified slide 4 with a caption line that his final typed caption dropped.
