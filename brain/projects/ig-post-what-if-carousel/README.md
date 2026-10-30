@@ -53,6 +53,7 @@ the cart and the floor are tahsin's. he cooked for me there.
 #richvspoor #privilege #perspective #inequality #gratitude #humanity #invisiblepeople #istanbul #berlin #whatif
 ```
 Only attackable claim in the caption: "99% … 95% less" (his number, kept). Bulletproof swap if wanted: "the people who have far less than you".
+Location tag (my recommendation, his call): **Berlin, Germany** — NOT the Waldorf Astoria (its location page is the luxury-hotel lifestyle pool = same reason as no #gclass; reads as flex or as an ad for the hotel, and anything hosted/free would need the Werbung label; the caption says "the country you're born in" = Germany). NOT Istanbul/Kadıköy/the depot (pins the "poor" half to a place — position, don't insult a place, MEMORY §4 — and keeps the depot + Tahsin's street unidentifiable). No tag = second best.
 
 Everything below is history. The sections "Recommended carousel", "Slide 4 decision", "Order check" and "FINAL DECISION slide 4"
 are SUPERSEDED by the block above; the split table, flags and rebuild recipes below still apply.

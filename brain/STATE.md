@@ -52,7 +52,7 @@ answers here, delete the question.
   (youth 19, consented, face blurred; passenger cut off at the eyes) → 3 bath | floor** — ends on his smile on Tahsin's floor; old order 1→2→3 = alternative
   (rename only). All three built from his 4K originals (`split1` / `split3` / `split2` `…FINAL…jpg`, 1080×1350, `tools/diptych.sh`).
   Caption = his typed v2 FINAL, unchanged (v3 Tahsin line withdrawn) in `projects/shorts-from-archive/what_if_reel_caption.md`.
-  First comment: hashtags (+ optional "the cart and the floor are tahsin's. he cooked for me there."). Copy-paste text = `projects/ig-post-what-if-carousel/README.md` → POST PACKAGE.
+  First comment: hashtags (+ optional "the cart and the floor are tahsin's. he cooked for me there."). Copy-paste text = `projects/ig-post-what-if-carousel/README.md` → POST PACKAGE. Location tag: Berlin, Germany recommended (not the Waldorf) — his call.
 - PARKED: pool frame (4K) + the Tahsin-on-the-bull photo (nicest portrait of him; WhatsApp JPG 1536×2048 = the only non-4K image —
   "not turkey like all other pics" is most likely "4K" mis-dictated, my reading, unconfirmed). For a later Tahsin post: get the
   ORIGINAL from Tahsin (WhatsApp → "Document") or shoot 4K at ≥1/250 s. Fisherman = alt for slide 2 (needs his 4K frame);

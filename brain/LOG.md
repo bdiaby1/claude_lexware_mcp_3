@@ -619,3 +619,8 @@ facts only. Never edit old entries — correct with a new one.
 - He asked for the final text. Answer = his typed v2 FINAL caption, unchanged (no Tahsin line), plus a first comment (optional Tahsin credit line + 10 pool-aligned
   hashtags) — written into the carousel README as POST PACKAGE so it survives the container. The three slides were sent again numbered 1/2/3 in post order
   (byte-identical to the brain files, checked by sha256). Hashtag choice: no luxury tags (pool theory). Still open: his OK on the order 1→3→2.
+
+## 2026-10-30 (s) — "Location waldorf astoria?"
+- His question: tag the Waldorf Astoria as the post location? Recommendation: no — Berlin, Germany (city level). Reasons: hotel location page = lifestyle pool
+  (hashtag logic), flex/ad reading (+ Werbung label if anything was hosted), caption is about the country you're born in; no Istanbul/depot-specific tag.
+  Written into README POST PACKAGE + MEMORY §10. Not yet confirmed by him.
