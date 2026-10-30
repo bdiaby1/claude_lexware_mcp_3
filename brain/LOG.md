@@ -527,3 +527,14 @@ facts only. Never edit old entries — correct with a new one.
   (yacht) out of this post. Built slide 2 as a stacked split (1080×1350, 10 px white divider, panels
   downscaled — no upscaling), pre-cut slide 1's top panel (plate + artefacts excluded). Saved the
   recipe as tools/diptych.sh (verified byte-identical). Missing: the cart frame for slide 1.
+
+## 2026-10-30 (h) — "too unsharp; 1:1 instead?" → root cause + tools
+- Complaint: slides too soft, "every time with video frames"; asked whether 1:1 would help or is
+  not recommended (old / reach / exposure / accessibility).
+- Findings: the frames reach Claude at 0.25–0.72 bits/pixel (floor frame 69 KB) — chat-upload
+  recompression + low-light/denoise softness; sharpening (unsharp 1.0) at 3× zoom raises edges but
+  also the codec blocks → ceiling 0.7. 1:1 rejected: grid 3:4 crops a square by 25 % width, smallest
+  feed footprint, no proof of reach effect, accessibility is alt-text not ratio, and it doesn't fix
+  sharpness.
+- Built: best_frame.py --keyframes (tested on a GOP-25 clip → keyframes at 0/1/2/3 s), diptych.sh
+  sharpen option (regression-tested byte-identical), slide2_v2_sharp. Rules in MEMORY §14 + pipelines.

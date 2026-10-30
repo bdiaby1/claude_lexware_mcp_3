@@ -145,3 +145,10 @@ Retention curves in YouTube Studio are the truth. Benjamin screenshots them → 
   Upscale = 24 output MP per credit; Generative/Creative models invent detail -> not for faces).
   A 1080x1350 output is 1.46 MP = ~0.06 credit. A desktop licence (Topaz Photo AI / Gigapixel / Lightroom)
   is a GUI app on his computer; Claude cannot operate it from the cloud container.
+
+### Stills from video — quality rules (30 Oct, after "too unsharp, every time")
+- Inputs: ZIP of ORIGINAL 6–10 s clips (not chat images; those arrive ≤2000 px at 0.25–0.7 bpp).
+- Pick: `best_frame.py clip --start S --end E --keyframes` → check the contact sheet → crop → export.
+- Build: 4:5 split via `diptych.sh` (downscale only, white 10 px divider); sharpen ≤0.7; light gamma only.
+- Shoot: photos beside the video at ≥1/250 s for anything meant as a still.
+- Ratio: stay 4:5 (3:4 if he never boosts); 1:1 rejected (grid crops a square by 25 % width).

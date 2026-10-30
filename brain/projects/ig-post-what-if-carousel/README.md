@@ -26,3 +26,10 @@ Caption: FINAL text in `../shorts-from-archive/what_if_reel_caption.md` (his typ
 1. Send frame(s) of him pulling the cart (original export, 16:9, ideally the "cart stuck"/street shot) → slide 1.
 2. Optional first comment crediting the host: "the floor is Tahsin's. he cooked for me there." (hero, not prop)
 3. The 4:5 single crop of frame 3 (`../berlin-rich-vs-poor/stills/…`) stays as the reel opener / fallback.
+
+## Update 30 Oct (later) — "too unsharp"
+- Root cause: chat images arrive downsized/compressed (floor frame 0.25 bits/px) → rebuild BOTH slides
+  from ORIGINAL clips sent as a ZIP (cart, floor — incl. the silent arms-crossed take —, bath, G-Klasse
+  exit). `best_frame.py --keyframes` picks the frames; `diptych.sh … 0.7` sharpens.
+- `slide2_v2_sharp_1080x1350.jpg` = best achievable from the chat copies (unsharp 0.7); floor panel stays soft.
+- 1:1 considered and rejected (MEMORY §14): grid 3:4 crops a square to 75 % of its width.
