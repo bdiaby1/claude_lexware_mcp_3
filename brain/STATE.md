@@ -1,4 +1,4 @@
-# STATE — as of 2026-10-29 (rev 6)
+# STATE — as of 2026-10-30 (rev 7)
 
 **WHERE HE IS (29 Oct):** working in Zürich EVERY DAY now (new job onboarding; Lausanne hotel 2 days);
 has the new camera; shoots evenings/weekends. First Zürich video in preproduction →
@@ -46,12 +46,19 @@ answers here, delete the question.
 
 ## PROJECTS
 
-### IG post — WHAT IF split carousel (30 Oct) — splits 1–3 from 4K, split 4 draft (pool over Tahsin on the bull)
-- `projects/ig-post-what-if-carousel/`: slide 2 = Waldorf bath over Tahsin's floor (built); slide 1 =
-  G-Klasse over the cart (FINAL), split 2 FINAL (4K), split 4 = pool over Tahsin on the bull (DRAFT), split 3 BUILT (interior portrait over the depot youth, 19 + consented per him, face BLURRED by his choice; weakest of the four). Carousel FINAL (his call 30 Oct): splits 1→2→3→4, slide 4 = pool | Tahsin split (Tahsin-alone = alt). Caption v3 has one short context line ("people who have the least give the most. last slide is tahsin, he cooked for me."). Fisherman = alt for slide 3 (needs his 4K frame); arguing men (underpass) → Berlin video, not here. Final caption in
-  `projects/shorts-from-archive/what_if_reel_caption.md`. Recipe: `tools/diptych.sh`.
-- **Quality problem (30 Oct):** frames sent as chat images are too compressed → he is to send ORIGINAL
-  clip segments as a ZIP (cart · floor · bath · G-Klasse exit); all four panels get rebuilt from keyframes.
+### IG post — WHAT IF split carousel (30 Oct) — 3 SLIDES, READY TO POST (his OK on the order pending)
+- `projects/ig-post-what-if-carousel/` (sheet: `carousel_3slides_FINAL_overview.jpg`). **His call, 30 Oct late: "maybe skip tahsin?
+  less is more"** → the pool | Tahsin slide is DROPPED. Posting order (my proposal): **1 G-Klasse | cart → 2 interior | depot
+  (youth 19, consented, face blurred) → 3 bath | floor** — ends on his smile on Tahsin's floor; old order 1→2→3 = alternative
+  (rename only). All three built from his 4K originals (`split1` / `split3` / `split2` `…FINAL…jpg`, 1080×1350, `tools/diptych.sh`).
+  Caption = his typed v2 FINAL, unchanged (v3 Tahsin line withdrawn) in `projects/shorts-from-archive/what_if_reel_caption.md`.
+  First comment: hashtags (+ optional "the cart and the floor are tahsin's. he cooked for me there.").
+- PARKED: pool frame (4K) + the Tahsin-on-the-bull photo (nicest portrait of him; WhatsApp JPG 1536×2048 = the only non-4K image —
+  "not turkey like all other pics" is most likely "4K" mis-dictated, my reading, unconfirmed). For a later Tahsin post: get the
+  ORIGINAL from Tahsin (WhatsApp → "Document") or shoot 4K at ≥1/250 s. Fisherman = alt for slide 2 (needs his 4K frame);
+  arguing men (underpass) → Berlin video, not here.
+- Open: his OK on the order 1→3→2 · passenger in the interior frame (asked twice, unanswered; offer = blur like the youth).
+- **Quality problem (30 Oct) SOLVED:** rebuilt from 4K originals (his ZIPs); rules in MEMORY §14.
 
 ### ZÜRICH — "Der ärmste Mann in der reichsten Stadt der Welt" — PREPRODUCTION (29 Oct)
 - Briefing v1 with research + sources in `projects/zurich-poorest-man/BRIEFING.md`. Packaging

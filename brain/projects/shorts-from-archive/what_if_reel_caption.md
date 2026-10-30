@@ -73,7 +73,7 @@ held accountable for everything extra you got…" — unfinished "If…" sentenc
 third what-if keeps his rhythm. All else verbatim, incl. 95 %, 😳, "if there is God", "idk".)
 
 ---
-## PROPOSED addition (30 Oct, NOT yet approved by him) — fit check against the 4-slide carousel
+## WITHDRAWN (the 4-slide carousel is gone) — was: PROPOSED addition (30 Oct), fit check against the 4-slide carousel
 His question: "Passt auch nicht perfekt?" Verdict: ~80 % fit. Hook = slide 1 (G-Class) perfect; the middle
 (borrowed / weighed / accountable) carries slides 1–3. GAP: slide 4 (Tahsin, joy) + nobody is named — the caption
 talks guilt, the carousel ends on joy. One line in his typed voice, right before the question:
@@ -90,7 +90,7 @@ Optional, his call: "99% / 95%" is the only attackable claim → "most people" i
 Facts used: "over sixty" / "every night he pulls this cart through Istanbul" (Istanbul script).
 
 ---
-## FINAL v3 (30 Oct) — his direction: slide 4 is the split pool | Tahsin, context line SHORT, "not bla bla bla"
+## SUPERSEDED by v4 (below) — was: FINAL v3 (30 Oct), his direction: slide 4 is the split pool | Tahsin, context line SHORT, "not bla bla bla"
 His words: "besser people who have least give the most, Tahsin cooked for me or something". His own line from the swap
 video ("People who have the least give the most", 03:40) + the act. It also answers the caption's "held accountable for
 how you spent it": the ones with least give most. Everything else verbatim:
@@ -112,3 +112,14 @@ people who have the least give the most. last slide is tahsin, he cooked for me.
 what do you think
 
 (first comment = hashtags only. Optional: "99% / 95%" → "most people" if he wants it unattackable.)
+
+---
+## FINAL v4 (30 Oct, late) — 3 slides, no Tahsin slide → the v2 FINAL text stands, WORD FOR WORD
+His call: "maybe skip tahsin? less is more". The carousel is G-Klasse|cart · interior|depot · bath|floor, so the v3 line
+"people who have the least give the most. last slide is tahsin, he cooked for me." has nothing to point at → withdrawn.
+Caption = the "FINAL (30 Oct)" text above, unchanged; "idk. just a thought. what do you think" closes it.
+Fit: slide 1 = line 1 (G-Class); slides 1–3 carry "borrowed / weighed / accountable"; the contrast sits on ONE man (him, in
+both worlds) — exactly "what if the wealth you get from the country you're born in is not yours". Nobody else needs naming.
+First comment (his call): hashtags only — or ONE line crediting Tahsin: "the cart and the floor are tahsin's. he cooked for me there."
+Parked for a Tahsin post/reel: "people who have the least give the most." + the Tahsin photo (needs the original file).
+Optional, unchanged: "99% / 95%" → "most people" if he wants it unattackable.

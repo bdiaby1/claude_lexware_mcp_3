@@ -1,7 +1,37 @@
-# IG POST — "What if the G-Class is not mine?" — split carousel (status 30 Oct 2026)
+# IG POST — "What if the G-Class is not mine?" — split carousel (status 30 Oct 2026, late)
 
 Form (his idea): each slide = ONE split image, luxury on top / human underneath, 4:5 = 1080×1350.
 Caption: FINAL in `../shorts-from-archive/what_if_reel_caption.md` (his typed voice).
+
+## CURRENT = 3 SLIDES, NO TAHSIN SLIDE (his call, 30 Oct late: "maybe skip tahsin? less is more …")
+Overview: `carousel_3slides_FINAL_overview.jpg`. Posting order = my proposal, his OK pending:
+
+| post slide | file | top / bottom |
+|---|---|---|
+| 1 | `split1_gklasse_over_cart_FINAL_1080x1350.jpg` | G-Klasse + Rolex street (Berlin) / him pulling Tahsin's cart (Kadıköy, night) |
+| 2 | `split3_interior_over_depot_BLURRED_1080x1350.jpg` | G-Klasse interior, direct stare / dark depot yard, the 19-year-old's face blurred |
+| 3 | `split2_bath_over_floor_4K_FINAL_1080x1350.jpg` | Waldorf bath, teacup toast / Istanbul floor, heart blanket, him smiling |
+
+- **Caption = his typed v2 FINAL, UNCHANGED.** The v3 context line ("people who have the least give the most. last slide is
+  tahsin …") has nothing to point at → withdrawn. First comment: hashtags, optionally ONE line crediting Tahsin: "the cart and
+  the floor are tahsin's. he cooked for me there."
+- **Why the Tahsin slide (pool | Tahsin) is out:** (1) less is more; (2) it is the ONLY non-4K image in the set — a compressed
+  WhatsApp JPG (1536×2048) beside sharp 4K video frames, a bright phone snapshot against cinematic frames. His words "bc its not
+  turkey like all other pics": my reading (unconfirmed) is a voice-to-text slip for "4K" — the pool is a 4K frame, the Tahsin
+  photo is the only Istanbul image that is not. If he meant the country: Berlin top / Istanbul bottom is the principle, so the
+  conclusion holds. (3) The split needed a context line he does not want ("not bla bla bla"). (4) Without a third person the
+  contrast sits on ONE man again — him in both worlds, the original reel concept (caption core value 6).
+- **Order 1 → 3 → 2 (was 1 → 2 → 3 → 4).** The old reason for "interior | depot" at slot 3 was "the invisible slide right before
+  the Tahsin reveal" — gone. His own instinct from the order check: the blurred split is "quite strong, creating attention" →
+  earlier slot. Ends on the warmest pair (his smile on Tahsin's floor) instead of the dark yard. Alternative = old order
+  1 → 2 → 3 (ends on his direct stare + the anonymous youth; bath | floor is the cleaner standalone slide 2). Swap = rename, no rebuild.
+- **PARKED, not lost:** the pool frame (4K, `1030(13)`), the Tahsin-on-the-bull photo (the nicest portrait of him), the line
+  "people who have the least give the most". Tahsin photo needs a better source: have Tahsin send the ORIGINAL (WhatsApp →
+  "Document", not "Photo", avoids the recompression) or shoot a 4K portrait at ≥1/250 s. Files kept in this folder:
+  `split4_pool_over_tahsin_bull_FINAL_1080x1350.jpg`, `slide4_tahsin_alone_RECOMMENDED_1080x1350.jpg`, `carousel_FINAL_overview.jpg` (old 4-slide sheet).
+
+Everything below is history. The sections "Recommended carousel", "Slide 4 decision", "Order check" and "FINAL DECISION slide 4"
+are SUPERSEDED by the block above; the split table, flags and rebuild recipes below still apply.
 
 ## Decisions (his, 30 Oct) + mine
 - **NO divider bar** (his call: "weg sieht besser aus"). Both seams already have a hard tonal break
@@ -17,10 +47,10 @@ Caption: FINAL in `../shorts-from-archive/what_if_reel_caption.md` (his typed vo
 | 1 | G-Klasse/Rolex street, Berlin | him pulling Tahsin's cart, Kadıköy night | 4K PNGs (his ZIP 1) | **FINAL** `split1_…FINAL…jpg` — he: "sieht krass aus" |
 | 2 | Waldorf marble bath, teacup toast | Istanbul floor, heart blanket, smiling | 4K PNGs (`split_2.zip`: `1030(26)`, `1030(27)`) | **FINAL** `split2_…4K_FINAL…jpg` (bath face detail 2× vs chat copy) |
 | 3 | G-Klasse interior, eye contact + friend (`1030(22)`, sun-flare haze) | dark Istanbul scrap-depot yard (`1030(33)`) | `split_3.zip` | **BUILT** `split3_…jpg` — the youth is 19 and agreed to be posted (per Benjamin); the weakest of the four (a portrait, no luxury code in the top frame); **depot youth's face BLURRED** (his call, 30 Oct) — soft documentary blur, `split3_…BLURRED…jpg` |
-| 4 | Waldorf spa pool (`1030(13)`) | **Tahsin on the Kadıköy bull**, Fenerbahçe jersey, arms wide (WhatsApp photo 2026-09-01) | `split_4.zip` | **FINAL — his decision 30 Oct** `split4_…FINAL…jpg` (pool | Tahsin on the bull) |
+| 4 | Waldorf spa pool (`1030(13)`) | **Tahsin on the Kadıköy bull**, Fenerbahçe jersey, arms wide (WhatsApp photo 2026-09-01) | `split_4.zip` | ~~FINAL 30 Oct~~ → **PARKED (30 Oct late: dropped — his call; the only non-4K image)** `split4_…FINAL…jpg` (pool | Tahsin on the bull) |
 | — | Berlin underpass (`1030(4)`) | — | `split_4.zip` | **NOT USED** (dignity, faces, plates) |
 
-Recommended carousel: **1 → 2 → 4** (three punches) — or all four as **1 → 2 → 3 → 4**, ending on Tahsin. Split 4 is the "what if the man
+(SUPERSEDED — see CURRENT) Recommended carousel: **1 → 2 → 4** (three punches) — or all four as **1 → 2 → 3 → 4**, ending on Tahsin. Split 4 is the "what if the man
 you look down on is better than you" slide: the happiest person in the whole set is the one with least —
 but poverty is NOT visible in it, so the first comment must carry Tahsin ("the floor is Tahsin's. he
 cooked for me there."). Pairing 4 was my call; swap if he meant the underpass.
@@ -49,11 +79,12 @@ from the UNTOUCHED source clip would give the full 16:9 (more cart, his legs).
 Cart frame choice: o2 over o1 (face sharpness 66 vs 57, direct gaze).
 
 ## Open
-1. His call: carousel 1→2→4 or all four (1→2→3→4)? Confirm the pairing of split 4. Passenger OK?
-2. Optional first comment: "the floor is Tahsin's. he cooked for me there."
+1. His OK: order 1→3→2 (or the old 1→2→3?) and whether "turkey" meant 4K. Passenger in the interior frame OK to post?
+   (asked twice, unanswered — offer: blur him like the youth.)
+2. Optional first comment: "the cart and the floor are tahsin's. he cooked for me there." (else hashtags only).
 3. Rejected: frame 9 thumbs-up on the floor (dignity), frame 10 dark bath, frame 8 yacht (no human), 1:1.
 
-## Slide 4 decision (his question, 30 Oct): keep Tahsin? fisherman? the two arguing men? more contrast or "happy end"?
+## [SUPERSEDED — see CURRENT] Slide 4 decision (his question, 30 Oct): keep Tahsin? fisherman? the two arguing men? more contrast or "happy end"?
 **Recommendation: Tahsin stays — and ALONE, full-bleed (no pool).** `slide4_tahsin_alone_RECOMMENDED…jpg`
 (crop 1240×1550 @ (150,360) of the 1536×2048 WhatsApp photo, ×0.87, unsharp 0.7; the phone-number sign at
 the top of the photo is cropped out). The pool split stays as the alternative (`split4_…DRAFT…jpg`).
@@ -72,7 +103,7 @@ the top of the photo is cropped out). The pool split stays as the alternative (`
 - Correction: the final typed caption has NO "better than you" line (it was only in rejected caption v1);
   slide 4 now carries that thought silently, without text.
 
-## Order check (his question, 30 Oct: "which first — are you sure? the blurred split is strong too; last = only Tahsin?")
+## [SUPERSEDED — see CURRENT] Order check (his question, 30 Oct: "which first — are you sure? the blurred split is strong too; last = only Tahsin?")
 **FINAL ORDER 1 → 2 → 3 → 4** (see `carousel_overview_1-2-3-4.jpg`).
 - **1 = G-Klasse | cart.** MESSAGE MATCH: caption line 1 is "What if the G-Class is not mine?" — the first image must show the
   G-Class. Luxury opens (like-magnet, MEMORY §10); bright and warm = the top-left grid tile (§9 handshake). A
@@ -84,7 +115,7 @@ the top of the photo is cropped out). The pool split stays as the alternative (`
   (ends on a bare torso, 4th repetition of the contrast).
 - If "B" meant the fine-pixel blur variant: louder (censor-box read) → keep the soft blur.
 
-## FINAL DECISION (his, 30 Oct): slide 4 = SPLIT pool | Tahsin (not Tahsin alone)
+## [SUPERSEDED — see CURRENT] was FINAL DECISION (his, 30 Oct): slide 4 = SPLIT pool | Tahsin (not Tahsin alone)
 He overrode my "Tahsin alone" recommendation: the split carries the contrast itself, so the caption needs only a
 SHORT context line ("not bla bla bla"). Final carousel = `carousel_FINAL_overview.jpg`: 1 G-Klasse|cart · 2 bath|floor ·
 3 interior|depot (blurred youth) · 4 pool|Tahsin. Tahsin-alone crop kept as an alternative

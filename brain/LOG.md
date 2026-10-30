@@ -592,3 +592,15 @@ facts only. Never edit old entries — correct with a new one.
 - He wants slide 4 = pool | Tahsin (the split carries the contrast) and ONE short context line instead of my longer
   one: "people who have the least give the most, Tahsin cooked for me". Accepted (his decision, his data on feel),
   no relitigating. Caption v3 written with his own swap-video sentence; overview sheet rebuilt; README/STATE updated.
+
+## 2026-10-30 (p) — his call: skip Tahsin, 3 slides
+- He: "maybe skip tahsin? less is more or for the pool i thought but can use it later? bc its not turkey like all other pics".
+  Read: drop slide 4 (pool | Tahsin), park the pool for later. Agreed. The stronger reason is probably quality: "turkey" is most
+  likely a voice-to-text slip for "4K" — the Tahsin photo is a WhatsApp JPG (1536×2048), the only non-4K image in the set (my
+  first reply had called it a look mismatch, "not the location" — same conclusion). Second reason: the split needed a context
+  line he does not want. Third: without a third person the contrast sits on ONE man again (the original concept).
+- Honest note: I had defended the Tahsin payoff twice (alone, then as split). His objection (look mismatch, extra line) is valid.
+- Order proposed 1→3→2 (interior|depot second, bath|floor last): the "right before the reveal" reason for slot 3 is gone; he had
+  called the blurred split "quite strong, creating attention"; ends on the warmest pair. 1→2→3 = alternative, rename only.
+- Caption: v2 FINAL stands, v3 line withdrawn; optional first comment credits Tahsin. Parked: pool frame, Tahsin photo,
+  "people who have the least give the most" (for a Tahsin post/reel). Brain: README, caption file, STATE rev 7, MEMORY §5/§10.
