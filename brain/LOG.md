@@ -485,3 +485,7 @@ facts only. Never edit old entries — correct with a new one.
 - He chose the what-if thesis as the caption's idea and added two what-ifs (country-born wealth
   isn't yours; the one you look down on is better than you) → MEMORY §1b. Listed the 6 core
   value points, wrote the AIDA caption from his own sentences (what_if_reel_caption.md).
+- (b) Caption v1 rejected: "AI, nobody types like that". v2 in his typed voice from his own
+  sentences (question → 😂 disarm → "but that's not what I mean" → what-ifs → "not religion but
+  if there's a god it seems logical" → "idk, what do you think"). Rule added to MEMORY §10:
+  captions read like a typed DM, no brochure, the open question is the CTA.

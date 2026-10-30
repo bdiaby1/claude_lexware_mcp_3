@@ -36,3 +36,20 @@ Is it yours? Tell me.
 (Hashtags in the first comment, 8–10.)
 AIDA: A = line 1 (image + question, <60 chars) · I = "born in Germany, didn't earn it" · D = the
 what-if stack, shortest line last ("better than you") · A = "Is it yours? Tell me." (comment split)
+
+---
+## v2 (30 Oct) — REJECTED v1 as "AI, nobody types like that" → his typed voice, his sentences
+His note: idea captured, info locked, formulation off — not natural, not engaging, no "high
+grandma vocabulary", imperfect like a typed message. His intro structure: question → disarm
+with a laugh → "but that's not what I mean" → the what-ifs → "not religion, but if there's a
+god it seems logical" → open question. Skip the Tahsin/"I sit with them" ending.
+
+what if the G-Class is not mine?
+
+ok it's not mine 😂 but that's not even what I mean
+
+what I'm trying to say is: what if the wealth you get from the country you're born in isn't yours. like at all. what if it's borrowed. and at the end it gets weighed against the 99% who have 90% less than you, and you're held accountable for what you got and what you spent.
+
+I'm not talking religion. but if there is a god, it seems kind of logical no?
+
+idk. just a thought. what do you think
