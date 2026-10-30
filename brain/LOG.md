@@ -480,3 +480,8 @@ facts only. Never edit old entries — correct with a new one.
   scripts, the network protocol and the begging-ban scene into BRIEFING §11.
 - IG reel caption: gave 3 directions (A image-only · B what-if thesis · C Tahsin-first with
   "They were always there. I just never looked."). Recommended B. His pick pending.
+
+## 2026-10-30 — WHAT IF caption for the G-Klasse/cart reel (value statement, AIDA)
+- He chose the what-if thesis as the caption's idea and added two what-ifs (country-born wealth
+  isn't yours; the one you look down on is better than you) → MEMORY §1b. Listed the 6 core
+  value points, wrote the AIDA caption from his own sentences (what_if_reel_caption.md).
