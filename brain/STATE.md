@@ -46,9 +46,9 @@ answers here, delete the question.
 
 ## PROJECTS
 
-### IG post — WHAT IF split carousel (30 Oct) — slide 2 DONE, slide 1 waits on ONE frame
+### IG post — WHAT IF split carousel (30 Oct) — slide 1 DONE from 4K originals; slide 2 v3 built, wants 4K originals
 - `projects/ig-post-what-if-carousel/`: slide 2 = Waldorf bath over Tahsin's floor (built); slide 1 =
-  G-Klasse over the cart (top panel ready, **needs the cart CLIP**). Final caption in
+  G-Klasse over the cart (DONE from his 4K PNGs, no divider, luxury top). Final caption in
   `projects/shorts-from-archive/what_if_reel_caption.md`. Recipe: `tools/diptych.sh`.
 - **Quality problem (30 Oct):** frames sent as chat images are too compressed → he is to send ORIGINAL
   clip segments as a ZIP (cart · floor · bath · G-Klasse exit); all four panels get rebuilt from keyframes.

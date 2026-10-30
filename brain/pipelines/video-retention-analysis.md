@@ -152,3 +152,7 @@ Retention curves in YouTube Studio are the truth. Benjamin screenshots them → 
 - Build: 4:5 split via `diptych.sh` (downscale only, white 10 px divider); sharpen ≤0.7; light gamma only.
 - Shoot: photos beside the video at ≥1/250 s for anything meant as a still.
 - Ratio: stay 4:5 (3:4 if he never boosts); 1:1 rejected (grid crops a square by 25 % width).
+
+### Toolchain note 30 Oct
+- ffmpeg 6.1.1 crashed ("malloc(): corrupted top size") when two 4K inputs went through ONE filtergraph; diptych.sh now builds each panel in its own call. Convert RGBA PNGs with `-pix_fmt rgb24` first.
+- Never pipe a `find` list into a `while read` loop that calls ffmpeg without `-nostdin` (it eats the list).

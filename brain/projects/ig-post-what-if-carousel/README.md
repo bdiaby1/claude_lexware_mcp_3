@@ -1,35 +1,35 @@
-# IG POST — "What if the G-Class is not mine?" — split carousel (30 Oct 2026)
+# IG POST — "What if the G-Class is not mine?" — split carousel (status 30 Oct 2026)
 
-Form (his idea, 29 Oct): each slide = ONE split image, luxury on top, the other side underneath
-(his thumbnail look: real frames, hard white divider). 4:5, 1080×1350 = two 1080×670 panels + 10 px
-white divider. Frames are DOWNSCALED from 2000 px → no upscaling, no AI needed. Recipe:
-`brain/tools/diptych.sh TOP BOTTOM OUT [crops] [gamma] [contrast]` (reproduces slide 2 byte-for-byte).
-Caption: FINAL text in `../shorts-from-archive/what_if_reel_caption.md` (his typed voice).
+Form (his idea): each slide = ONE split image, luxury on top / human underneath, 4:5 = 1080×1350.
+Caption: FINAL in `../shorts-from-archive/what_if_reel_caption.md` (his typed voice).
 
-| slide | top | bottom | status |
-|---|---|---|---|
-| 1 (cover) | G-Klasse / Rolex+Chanel street, him stepping out (Berlin) | **him pulling Tahsin's cart (Istanbul)** | top panel DONE (`slide1_top_panel…jpg`); **bottom: cart frame NOT yet received** |
-| 2 | Waldorf Astoria marble bath, teacup toast (frame 6) | Istanbul floor, on Tahsin's heart blanket, smiling (frame 7) | **DONE** (`slide2_bath_over_floor…jpg`) |
+## Decisions (his, 30 Oct) + mine
+- **NO divider bar** (his call: "weg sieht besser aus"). Both seams already have a hard tonal break
+  (bright street → night; warm marble → cold concrete); a bar only costs pixels. Panels = 1080×675.
+- **Order: luxury top, human bottom** (he was unsure). Reasons: first look = like-magnet, last look =
+  the brand (MEMORY §10); bottom = the floor, light-above-dark is tonally stable; the caption's
+  "the man you look down on is better than you" then flips the viewer's own habit. Flip = swap the two args.
+- **As much picture as possible**: full-height crops, aspect 1.6 (≈90 % of a 16:9 width), him in the
+  SAME horizontal spot top and bottom (the "same man, two worlds" rhyme). Sharpen 0.7 (he liked it).
 
-## Why these frames (measured, 30 Oct)
-- Bath: frame 6 (luma 104, face sharp 58) over frame 10 (luma 75, 5.8 % crushed, tiny face in the dark).
-- Floor: frame 7 (smile, eye contact) over frame 9 (two thumbs up). **Thumbs-up on Tahsin's floor reads
-  as mocking the floor — dignity (§6/§8), rejected.** The "arms crossed, silent 3 s" take from the
-  Istanbul script would be even stronger if it exists.
-- Floor panel lifted gamma 1.12 / contrast 1.03 (grading only). Lav mic visible on the collar — kept (real).
-- Slide 1 top: crop 1386×860 @ (150,0) of frame 3 → excludes the parked GLA's readable plate (B JP 176)
-  and the glitchy zebra-stripe artefacts.
-- Frame 8 (Istanbul night, yacht + Galata Bridge): no protagonist, 75 % black. NOT in this post. Best use:
-  top half of an Istanbul "same night" split with the cart at night, or a 1.5 s cutaway in the reel.
+| slide | top | bottom | source | status |
+|---|---|---|---|---|
+| 1 | G-Klasse/Rolex street, Berlin | him pulling Tahsin's cart, Kadıköy night | **4K originals from his ZIP** (`1030(19).png` = o3, `1030 (1)(7).png` = o2) | **DONE** `slide1_gklasse_over_cart_FINAL…jpg` |
+| 2 | Waldorf marble bath, teacup toast | Istanbul floor, heart blanket | chat copies 2000 px (soft) | v3 built, **rebuild from 4K originals** |
+
+## Rebuild recipe (brain/tools/diptych.sh; PNG→rgb24 first: `ffmpeg -i in.png -pix_fmt rgb24 out.png`)
+```
+slide 1: diptych.sh o3_rgb.png o2_rgb.png OUT.png 2672:1670:250:0 2848:1780:100:380 1.10 1.0 0.7 0
+slide 2: diptych.sh f6.png f7.png OUT.png 1800:1125:150:0 1700:1062:20:63 1.12 1.03 0.7 0
+```
+Slide 1 specifics: top crop x 250–2922, y 0–1670 → excludes the parked GLA's plate (B JP 176, razor-sharp
+at 4K, x≈3216–3336) and the garbled zebra-stripe artefacts (y>1680); bottom crop = the whole usable
+picture height of the cart frame (y 380–2160) because o1/o2 carry baked-in black bars (top 380 px,
+right 76 px) and his legs are cut at the bottom → the clip was shifted in his timeline. A frame grab
+from the UNTOUCHED source clip would give the full 16:9 (more cart, his legs).
+Cart frame choice: o2 over o1 (face sharpness 66 vs 57, direct gaze).
 
 ## Open
-1. Send frame(s) of him pulling the cart (original export, 16:9, ideally the "cart stuck"/street shot) → slide 1.
-2. Optional first comment crediting the host: "the floor is Tahsin's. he cooked for me there." (hero, not prop)
-3. The 4:5 single crop of frame 3 (`../berlin-rich-vs-poor/stills/…`) stays as the reel opener / fallback.
-
-## Update 30 Oct (later) — "too unsharp"
-- Root cause: chat images arrive downsized/compressed (floor frame 0.25 bits/px) → rebuild BOTH slides
-  from ORIGINAL clips sent as a ZIP (cart, floor — incl. the silent arms-crossed take —, bath, G-Klasse
-  exit). `best_frame.py --keyframes` picks the frames; `diptych.sh … 0.7` sharpens.
-- `slide2_v2_sharp_1080x1350.jpg` = best achievable from the chat copies (unsharp 0.7); floor panel stays soft.
-- 1:1 considered and rejected (MEMORY §14): grid 3:4 crops a square to 75 % of its width.
+1. 4K PNG originals of the bath and floor (same way as the ZIP) → rebuild slide 2 crisp.
+2. Optional first comment: "the floor is Tahsin's. he cooked for me there."
+3. Rejected: frame 9 thumbs-up on the floor (dignity), frame 10 dark bath, frame 8 yacht (no human), 1:1.

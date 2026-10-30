@@ -538,3 +538,12 @@ facts only. Never edit old entries — correct with a new one.
   sharpness.
 - Built: best_frame.py --keyframes (tested on a GOP-25 clip → keyframes at 0/1/2/3 s), diptych.sh
   sharpen option (regression-tested byte-identical), slide2_v2_sharp. Rules in MEMORY §14 + pipelines.
+
+## 2026-10-30 (i) — originals arrived: slide 1 built from 4K; no divider; order decided
+- ZIP of three 4K PNGs (2 cart frames, 1 G-Klasse). Real resolution 3840×2160 vs the 2000 px chat
+  copies. Cart frames carry baked-in black bars (top 380 px, right 76 px) + a shifted clip → cropped
+  to the usable picture. Picked cart frame o2 (sharper, direct gaze). Excluded the GLA plate.
+- His decisions: no divider bar ("weg"), take as much of the picture as possible, sharpening 0.7 was
+  good. Unsure about poor top/bottom → luxury top, human bottom with reasons (README).
+- Slide 1 FINAL; slide 2 v3 (wide, no bar) built from the chat copies, waits for 4K originals.
+  diptych.sh now two-stage + DIVIDER_PX param (ffmpeg 6.1 crash on two 4K inputs in one graph).
