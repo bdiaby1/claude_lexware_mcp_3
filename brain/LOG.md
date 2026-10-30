@@ -489,3 +489,6 @@ facts only. Never edit old entries — correct with a new one.
   sentences (question → 😂 disarm → "but that's not what I mean" → what-ifs → "not religion but
   if there's a god it seems logical" → "idk, what do you think"). Rule added to MEMORY §10:
   captions read like a typed DM, no brochure, the open question is the CTA.
+- (c) He rewrote the caption himself (95 % less, 😳, "if there is God"); asked which 2nd line.
+  Picked "but that's not what I'm trying to say:" (the turn). One joint fixed, rest verbatim.
+  FINAL in what_if_reel_caption.md.

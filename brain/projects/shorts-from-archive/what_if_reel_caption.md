@@ -53,3 +53,21 @@ what I'm trying to say is: what if the wealth you get from the country you're bo
 I'm not talking religion. but if there is a god, it seems kind of logical no?
 
 idk. just a thought. what do you think
+
+---
+## FINAL (30 Oct) — his text, one joint fixed. Second line = "that's not what I'm trying to say"
+What if the G-Class is not mine?
+
+ok it's not mine 😂 but that's not what I'm trying to say:
+
+what if the wealth you get from the country you're born in is not yours.
+
+what if it's just borrowed AND at the end it gets weighed against the 99% who have 95% less than you? what if you're held accountable for everything extra you got, and how you spent it 😳
+
+not religion, but if there is God, it seems logical, no?
+
+idk. just a thought. what do you think
+
+(Change vs his draft: "If you are held accountable for everything you got more…" → "what if you're
+held accountable for everything extra you got…" — unfinished "If…" sentence + "got more" stumble;
+third what-if keeps his rhythm. All else verbatim, incl. 95 %, 😳, "if there is God", "idk".)
