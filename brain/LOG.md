@@ -582,3 +582,8 @@ facts only. Never edit old entries — correct with a new one.
   the last. Built an overview sheet of 1-2-3-4 and confirmed 1→2→3→4 with reasons (message match with caption
   line 1, luxury opens, blurred split = third / the invisible before the reveal, Tahsin alone = payoff).
   Admitted the blur is barely visible at feed size. Interpretation of "B" noted as uncertain.
+
+## 2026-10-30 (n) — caption vs carousel fit
+- He pasted the final caption: "Passt auch nicht perfekt?" → fit check: ~80 %; gap = slide 4 / no people named.
+  Proposed ONE added line in his voice before the closing question (Tahsin, pulls a cart every night, happiest guy
+  in the post); flagged "99%/95%" as the one attackable claim (optional). Recorded as PROPOSED, not approved.

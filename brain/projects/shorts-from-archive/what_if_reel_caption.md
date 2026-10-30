@@ -71,3 +71,20 @@ idk. just a thought. what do you think
 (Change vs his draft: "If you are held accountable for everything you got more…" → "what if you're
 held accountable for everything extra you got…" — unfinished "If…" sentence + "got more" stumble;
 third what-if keeps his rhythm. All else verbatim, incl. 95 %, 😳, "if there is God", "idk".)
+
+---
+## PROPOSED addition (30 Oct, NOT yet approved by him) — fit check against the 4-slide carousel
+His question: "Passt auch nicht perfekt?" Verdict: ~80 % fit. Hook = slide 1 (G-Class) perfect; the middle
+(borrowed / weighed / accountable) carries slides 1–3. GAP: slide 4 (Tahsin, joy) + nobody is named — the caption
+talks guilt, the carousel ends on joy. One line in his typed voice, right before the question:
+
+  idk. just a thought.
+
+  last slide is tahsin btw. he pulls a cart through istanbul every night. happiest guy in this whole post.
+
+  what do you think
+
+(why in the caption, not the first comment: most people never open comments, slide 4 needs context at the swipe,
+and the closing question now also asks "who is the rich one?"; first comment can then be hashtags only.)
+Optional, his call: "99% / 95%" is the only attackable claim → "most people" if he wants it bulletproof.
+Facts used: "over sixty" / "every night he pulls this cart through Istanbul" (Istanbul script).
