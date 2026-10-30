@@ -624,3 +624,9 @@ facts only. Never edit old entries — correct with a new one.
 - His question: tag the Waldorf Astoria as the post location? Recommendation: no — Berlin, Germany (city level). Reasons: hotel location page = lifestyle pool
   (hashtag logic), flex/ad reading (+ Werbung label if anything was hosted), caption is about the country you're born in; no Istanbul/depot-specific tag.
   Written into README POST PACKAGE + MEMORY §10. Not yet confirmed by him.
+
+## 2026-10-30 (t) — carousel is LIVE; "reply or just like?"
+- He posted ≈14:10 and sent two comment screenshots (16:14/16:15): dailyhegazi ×2, saidhamed1, gulsah.estelik, lilschlitz101. Advice: like all; words only where they can
+  trigger a second comment — dailyhegazi #2 ("do you think it's really ours?"), saidhamed1 ("which part hit you the most?"); emoji-only and the generic legacy quote = like only;
+  "neuer hush puppy" = "wie meinst du das?" (a web search found no slang meaning — shoe brand / cornmeal ball only; my guess, unproven: banter on his droopy stare). Rule in MEMORY §10.
+- Owed: Insights after 24 h; the order and location tag he actually used.

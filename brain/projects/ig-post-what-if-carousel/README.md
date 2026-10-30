@@ -3,7 +3,7 @@
 Form (his idea): each slide = ONE split image, luxury on top / human underneath, 4:5 = 1080×1350.
 Caption: FINAL in `../shorts-from-archive/what_if_reel_caption.md` (his typed voice).
 
-## CURRENT = 3 SLIDES, NO TAHSIN SLIDE (his call, 30 Oct late: "maybe skip tahsin? less is more …")
+## CURRENT = 3 SLIDES, NO TAHSIN SLIDE (his call, 30 Oct late: "maybe skip tahsin? less is more …") — POSTED 30 Oct ≈14:10 (live snapshot in STATE)
 Overview: `carousel_3slides_FINAL_overview.jpg`. Posting order = my proposal, his OK pending:
 
 | post slide | file | top / bottom |
