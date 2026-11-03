@@ -642,3 +642,9 @@ facts only. Never edit old entries — correct with a new one.
 ## 2026-10-30 (v) — his reply draft to lilschlitz101 "not ideal"
 - His draft: "😂 1 clean dollar is worth more, dirty money is like sand ⏳" — flagged by him as not ideal. Diagnosis: the comparison breaks off (worth more than what?) and "like sand" needs
   "runs through your fingers". New pick: "😂 clean money lasts, dirty money runs through your fingers like sand ⏳"; alternative "😂 ask hushpuppi, dirty money runs through your fingers like sand ⏳". README updated.
+
+## 2026-11-03 (w) — "change anything or ready for growth?" — profile screenshot audit
+- He sent the profile (12 posts · 156 followers · 159 following; bio, highlights, 12 grid tiles with views). Read against profile_state (4 Oct) and MEMORY §3/§9/§10:
+  followers +22 in 5 weeks, posts 20 → 12 (the three best Istanbul reels gone from the grid), carousel 625 views = 2nd best visible. Verdict: ≈ 80 % there, not growth-ready —
+  the engine (Reels) is the bottleneck, not the profile. Proposals + open questions (archived vs deleted, dashboard, swap shorts) → profile_state.md, STATE Q12/Q13.
+- Searched what "Add banners" is: no primary source found (profile banners for live streams 2022 / professional accounts 2024) — recommended only "if it takes a link, use it for the latest video".

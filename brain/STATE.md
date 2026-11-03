@@ -1,4 +1,4 @@
-# STATE — as of 2026-10-30 (rev 7)
+# STATE — as of 2026-11-03 (rev 8)
 
 **WHERE HE IS (29 Oct):** working in Zürich EVERY DAY now (new job onboarding; Lausanne hotel 2 days);
 has the new camera; shoots evenings/weekends. First Zürich video in preproduction →
@@ -43,6 +43,8 @@ answers here, delete the question.
     transcripts: fisherman's NAME, friends-drowned wording, driver's income number + master's vs
     doctorate + his exact "religion first" line, rifle footage exists?, the bucket-wash country.
     Which 2–3 go to Michael first (§9 batch discipline)?
+12. **IG grid 20 → 12 posts (3 Nov)** — the Tahsin reel (1,516), cats (1,088) and 500-Lira are no longer in the grid: archived or deleted? (archived = restorable).
+13. **IG dashboard, last 30 days** — views, % non-followers, profile visits, follows (needed to judge reach vs conversion).
 
 ## PROJECTS
 
@@ -60,6 +62,7 @@ answers here, delete the question.
 - Passenger in the interior frame: RESOLVED 30 Oct late — his call, cropped out at the eye line (left edge), no blur; slide 2 rebuilt 1.19× bigger.
 - LIVE (his comment screenshots 16:14; his first comment 2 h old → posted ≈14:10): 5 comments from 4 accounts — dailyhegazi (❤️❤️❤️🔥 + "Now u can enjoy the life better" = reads it as "enjoy it"), saidhamed1 (💯), gulsah.estelik (generic "legacy / kindness" quote), lilschlitz101 ("neuer hush puppy" = Hushpuppi jab, decoded by him: luxury flex reads as scammer). Nobody answers the caption's question yet. Reply plan given: like all, words only where they can trigger a 2nd comment (MEMORY §10). OWED: Insights after 24 h (reach, likes, saves, shares, profile visits, follows) + which order and location tag he actually used.
 - **Quality problem (30 Oct) SOLVED:** rebuilt from 4K originals (his ZIPs); rules in MEMORY §14.
+- **IG PROFILE audit (3 Nov, screenshot):** 12 posts · 156 followers (+22 in 5 weeks) · carousel 625 views after 4 days (2nd best on the grid). Verdict: profile ≈ 80 %, bottleneck = Reels engine. Proposed: pins (handshake row), label the YouTube link, restore archived Istanbul reels, child-safety check on 2 tiles, Reels every 2nd day from the archive. Full read: `projects/instagram-highlights/profile_state.md`.
 
 ### ZÜRICH — "Der ärmste Mann in der reichsten Stadt der Welt" — PREPRODUCTION (29 Oct)
 - Briefing v1 with research + sources in `projects/zurich-poorest-man/BRIEFING.md`. Packaging
