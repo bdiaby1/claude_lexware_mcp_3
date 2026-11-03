@@ -51,7 +51,7 @@ post-publish half of the loop — still owed for Görli too).
 - Bio: "I sit with the invisible. / The people everyone walks past." + link youtube.com/@benjamin-diaby (the line "New video on YouTube." is gone). Note bubble "Can't decide…".
   Highlights: THE INVISIBLE · OFF SCRIPT · BEHIND (+1 cut off). Buttons: "Add banners" (function not verified — web search only found profile banners for live streams / professional accounts), dashboard "New tools are now available".
 - Grid views (3:4 tiles), row by row: 625 WHAT IF split carousel · 348 split (man in a shop / boy) · 455 dark depot interior | 551 sunglasses selfie · 539 yellow shirt + cup (warm) · 594 Oman desert book |
-  ? villa chair · 488 cooking · 503 Grab drivers | ? group photo with donations · 684 camera back-screen BTS · 468 two men. WHAT IF carousel = second best visible after 4 days; the BTS tile leads (684) =
+  ? villa chair · 488 cooking · 503 Grab drivers | ? group photo with donations · 684 camera back-screen BTS · 468 two men. WHAT IF carousel = in the top group after 4 days (two tile numbers are cut off in the screenshot); the BTS tile leads (684) =
   the filmmaker pool, not his target audience (§3).
 - Verdict given: profile ≈ 80 % there; the growth bottleneck is the Reels engine, not the profile. Proposed: (1) clarify 20→12 and restore archived reels, (2) 3 pins = the handshake row
   (WHAT IF carousel · warm yellow-shirt tile · Tahsin reel, else Grab drivers), (3) label the YouTube link ("New film: <title>"), (4) don't thin the grid further — each new row = contrast · face · warm,

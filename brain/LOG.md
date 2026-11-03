@@ -648,3 +648,4 @@ facts only. Never edit old entries — correct with a new one.
   followers +22 in 5 weeks, posts 20 → 12 (the three best Istanbul reels gone from the grid), carousel 625 views = 2nd best visible. Verdict: ≈ 80 % there, not growth-ready —
   the engine (Reels) is the bottleneck, not the profile. Proposals + open questions (archived vs deleted, dashboard, swap shorts) → profile_state.md, STATE Q12/Q13.
 - Searched what "Add banners" is: no primary source found (profile banners for live streams 2022 / professional accounts 2024) — recommended only "if it takes a link, use it for the latest video".
+- Correction to (w): I wrote "2nd best visible" for the carousel — two tiles' view counts are cut off in the screenshot, so only "top group" is safe. STATE/profile_state fixed.
