@@ -649,3 +649,13 @@ facts only. Never edit old entries — correct with a new one.
   the engine (Reels) is the bottleneck, not the profile. Proposals + open questions (archived vs deleted, dashboard, swap shorts) → profile_state.md, STATE Q12/Q13.
 - Searched what "Add banners" is: no primary source found (profile banners for live streams 2022 / professional accounts 2024) — recommended only "if it takes a link, use it for the latest video".
 - Correction to (w): I wrote "2nd best visible" for the carousel — two tiles' view counts are cut off in the screenshot, so only "top group" is safe. STATE/profile_state fixed.
+
+## 2026-11-08 (x) — "es muss reinhauen wie eine Bombe": Zürich Christmas plan
+- He asked to think again about the Zürich video (and the next 2–3 videos + packaging): lights on a certain date, the prices, "he ends better off" (face treatment, pants), a viral/extreme
+  character, tell the man's story in the form of stories that already exist (Cinderella, Hunchback), Christmas = ideal time. I read README/STATE/BRIEFING/MEMORY/channel-map first.
+- Researched: Lucy switch-on Thu 19 Nov 2026 18:00 (nume.ch; ZVV page still "folgt" → confirm), 11,550 crystals / 23,100 LED (ewz), Friends-of-Lucy Patenschaft from CHF 45/crystal from 20 Nov (CHF 10 to the
+  Kinderspital), Surprise-Stadtführungen exist (zuerich.com), Pfuusbus season mid-Nov–mid-Apr (2026/27 date unconfirmed).
+- Decision proposed (his OK pending): spine = Cinderella (3 wishes = his list, lights night = ball, midnight clock with the reversal "the magic does not end", shoe = what he gives, Part 2 on 24 Dec);
+  Hunchback = one scene (city from above), Dickens = his own role in one line. Why: the swap (only 10K) had a want + a clock; the person-led video needs both (MEMORY §7 new entry).
+  Makeover returns as HIS wish list with safeguards (BRIEFING §12.4) — corrects my own Oct "avoid makeover" note. Casting by Sun 15 Nov; calendar and packaging in BRIEFING §12.6/§12.7.
+- Open: STATE Q14 (outreach drafts OK? night without a bed? budget + Berlin cut? ex-colleague lead).

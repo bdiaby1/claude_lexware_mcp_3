@@ -1,4 +1,4 @@
-# STATE — as of 2026-11-03 (rev 8)
+# STATE — as of 2026-11-08 (rev 9)
 
 **WHERE HE IS (29 Oct):** working in Zürich EVERY DAY now (new job onboarding; Lausanne hotel 2 days);
 has the new camera; shoots evenings/weekends. First Zürich video in preproduction →
@@ -45,6 +45,7 @@ answers here, delete the question.
     Which 2–3 go to Michael first (§9 batch discipline)?
 12. **IG grid 20 → 12 posts (3 Nov)** — the Tahsin reel (1,516), cats (1,088) and 500-Lira are no longer in the grid: archived or deleted? (archived = restorable).
 13. **IG dashboard, last 30 days** — views, % non-followers, profile visits, follows (needed to judge reach vs conversion).
+14. **ZÜRICH v2 (8 Nov), four decisions** — (a) may Claude prepare outreach drafts to Surprise / Nachtcafé Pace / SWS (he sends)? (b) a night WITHOUT a bed with the hero (Pace/outside)? (c) budget number for the giving + where is the Berlin cut / can Michael deliver by 11 Dec? (d) the ex-colleague lead: move-out date, does he want to be public?
 
 ## PROJECTS
 
@@ -64,7 +65,8 @@ answers here, delete the question.
 - **Quality problem (30 Oct) SOLVED:** rebuilt from 4K originals (his ZIPs); rules in MEMORY §14.
 - **IG PROFILE audit (3 Nov, screenshot):** 12 posts · 156 followers (+22 in 5 weeks) · carousel 625 views after 4 days (top group of the grid; two tile numbers cut off). Verdict: profile ≈ 80 %, bottleneck = Reels engine. Proposed: pins (handshake row), label the YouTube link, restore archived Istanbul reels, child-safety check on 2 tiles, Reels every 2nd day from the archive. Full read: `projects/instagram-highlights/profile_state.md`.
 
-### ZÜRICH — "Der ärmste Mann in der reichsten Stadt der Welt" — PREPRODUCTION (29 Oct)
+### ZÜRICH — "Der ärmste Mann in der reichsten Stadt der Welt" — PREPRODUCTION, v2 CHRISTMAS PLAN (8 Nov)
+- **v2 (8 Nov, BRIEFING §12):** he wants the breakthrough ("reinhauen wie eine Bombe"). Frame = Cinderella with a reversal: 3 wishes (HIS list) · Lucy lights on THU 19 NOV 2026 18:00 = the ball (11,550 crystals; date per nume.ch — ZVV page still says "folgt", confirm) · midnight clock, "our magic does not end" · the shoe = what HE gives · Part 2 on 24 Dec. Casting is the bottleneck (decide by Sun 15 Nov; routes: Surprise-Stadtführungen, his network incl. the ex-colleague losing his flat, Incontro/Pace/SWS). Calendar: shoot 19/20/21/28 Nov → cut 30 Nov–10 Dec → V1 Sun 13 Dec; Berlin ~27 Nov (if the cut exists); Part 2 Thu 24 Dec. Packaging first: title templates + same-angle before/after thumbnail "MIDNIGHT" in §12.6.
 - Briefing v1 with research + sources in `projects/zurich-poorest-man/BRIEFING.md`. Packaging
   first (his rule). Character routes: Surprise vendor (legal Tahsin-equivalent) or the Incontro
   food line behind the 25hours Hotel (the WHERE scene, 10 min from Bahnhofstrasse). Pfuusbus

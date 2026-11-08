@@ -242,3 +242,89 @@ sip züri · Leads in `../germany-subjects/` als Vorbild (verify before film, §
 
 **Szene Bettelverbot (gesetzt):** "Er fragt gerade nach Geld. Ich darf es nicht zeigen — in
 Zürich ist das verboten." Das Gesetz wird zum Mitspieler; die Person bleibt geschützt.
+
+
+---
+## 12. v2 — 8 NOV 2026: DAS GERÜST ("Aschenbrödel Zürich") · LICHTER-DATUM · KALENDER
+
+### 12.0 Sein Input (8 Nov, sinngemäß; seine Worte zuerst)
+"Es muss wirklich reinhauen wie eine Bombe … Das Krasseste ist das in Zürich mit dem armen Mann. Davon muss ich noch einen finden … Die Lichter
+werden an einem gewissen Datum angeschaltet — das wäre eine coole Aufnahme, nimm es mit ins Dokument … die übertriebenen Preise … am Ende soll er besser dastehen
+als vorher, so eine Gesichtsbehandlung oder was er gerade braucht, wenn er sagt 'ich brauche eine Hose', dann kaufen wir eine tolle Hose … Es braucht diesen
+viralen, extremen Charakter … Wir erzählen die Geschichte des Mannes in der Form von Geschichten, die es schon gibt: Aschenputtel, Glöckner von Notre Dame …
+viele ranken sich um Weihnachten, und jetzt ist die ideale Zeit, Content aufzunehmen … die nächsten 2–3 Videos und die Verpackungen … ich will den Durchbruch."
+
+### 12.1 Diagnose: Bausteine ohne Rückgrat
+Mann, Preise, Lichter, "besser am Ende" sind Texturen. Es fehlen (a) EIN Mensch mit einem konkreten Wunsch und (b) EINE Uhr. Sein einziger 10K-Treffer (Swap) hatte
+beides: Opfer zuerst · "Then Brought Him Home" · 24 h (channel-map.md). Ein bekanntes Märchen liefert Wunsch + Uhr + Umkehrung in fünf Sekunden — sein Instinkt stimmt.
+Garantie für "Bombe" gibt es nicht; wir bauen die Chancen ein (Pool rich-vs-poor + Weihnachten, Mensch mit Wunsch, Uhr, Serienteil) und messen nach 48 h.
+
+### 12.2 DIE LICHTER — Fakten (recherchiert 8 Nov 2026)
+- "Lucy" (Weihnachtsbeleuchtung Bahnhofstrasse) wird laut nume.ch (nennt Zürich Tourismus + Vereinigung Zürcher Bahnhofstrasse) am **DONNERSTAG 19. NOVEMBER 2026, 18:00**
+  eingeschaltet; sie leuchtet bis 4. Jan 2027. ⚠️ Die ZVV-Seite zeigt noch "Datum folgt" → vor dem Dreh auf bahnhofstrasse-zuerich.ch/lucy bestätigen.
+- 11'550 Glaskristalle, ~23'100 LED (ewz, Stand 2022; nau.ch spricht von ~20'000 LED — die Kristallzahl nennen mehrere Quellen). Erste Lucy 2010 ≈ 2,5 Mio CHF (swissinfo via nume.ch);
+  die Vereinigung gibt ~250'000 CHF/Jahr für die Weihnachtsstimmung aus (SRF); Strom pro Saison 227,80 CHF (SRF) ⚠️ ungewöhnlich niedrig — im SRF-Artikel gegenlesen, bevor die Zahl ins Video geht.
+- "Friends of Lucy": Patenschaft ab **45 CHF pro Kristall**, gilt 1 Jahr, ab **20. Nov** im Online-Shop der Vereinigung; 10 CHF pro Patenschaft gehen ans Kinderspital Zürich (SRF, Stand 2024).
+  OFFEN: bekommt der Pate Urkunde/Namen? → bei der Vereinigung nachfragen, bevor man es als Szene plant. Idee: sein eigener Kristall — oder ER verschenkt einen (Magi-Moment, nur wenn es von ihm kommt).
+- Gleicher Abend laut Reiseseiten/Veranstaltern (nicht offiziell bestätigt): Polarzauber/Christkindlimarkt im HB ab 19. Nov, Bellevue Noël (ex Wienachtsdorf, Sechseläutenplatz) 19. Nov–23. Dez.
+  Singing Christmas Tree: keine bestätigten Daten.
+- Pfuusbus: Saison Mitte Nov–Mitte April, 46 Betten (Albisgüetli, Uetlibergerstrasse 311a); genaues Datum 2026/27 nicht bestätigt → bei SWS erfragen.
+
+### 12.3 DAS GERÜST — Aschenbrödel/Cinderella, aber Mitternacht bleibt
+(DACH-Bonus: "Drei Haselnüsse für Aschenbrödel" ist ein Weihnachtsklassiker; global: Cinderella kennt jeder.)
+| Märchen-Beat | Zürich-Szene (real) | Regel |
+|---|---|---|
+| arm & unsichtbar | SEIN Zürich: er zeigt die Stadt (HOW-Achse), liest die Preise (Globus/Sprüngli/Migros) — er ist die Autorität | Opfer zuerst: Benjamin sitzt eine Nacht MIT ihm (Nachtcafé Pace / draussen) und nimmt KEIN Bett (Notschlafstellen in ~80 % der Nächte voll) |
+| Einladung | "Wünsch dir was." | seine Liste, nicht dein Konzept |
+| 3 Haselnüsse | 3 Wünsche: (1) Körper — was ER nennt (Hose, Schuhe, Friseur, Gesichtsbehandlung, Zahnarzt …) (2) Abend — wohin er will (3) der, den er nie für sich stellen würde (jemand anderes / später) | Wunsch 3 = die offene Schleife des ganzen Videos |
+| der Ball | **Do 19.11. 18:00 Lucy geht an** (Kaltstart) · sein Abend am Ort SEINER Wahl (nur wenn er es will: Märchenschloss-Hotel mit Blick über die Stadt) | Menge nur als Beiwerk, keine Nahaufnahmen Fremder (CH-Recht am eigenen Bild), Läden/Hotels vorher um Drehgenehmigung fragen |
+| Mitternacht | die Uhr läuft im Bild — **Umkehrung: bei uns endet der Zauber nicht** | alles bleibt + etwas, das hält (mit SWS/Caritas/Surprise abgestimmt, nicht allein) |
+| der Schuh | ER schenkt DIR etwas (Tahsins Handschuhe) — "wer am wenigsten hat, gibt am meisten" (sein Satz) | nur wenn es von ihm kommt, nicht inszeniert |
+| Nachspiel | Heiligabend, Teil 2: hat es gehalten? | Serieneffekt + Beweis, dass er nicht abhaut |
+Echos, nicht Gerüst: **Glöckner** = EINE Szene, die Stadt von oben (Aussichtspunkt), falls er sie nie von oben gesehen hat (vorher klären); "wer ist das Monster?" NICHT (beleidigt die Stadt, MEMORY §4).
+**Dickens (Weihnachtsgeschichte)** = Benjamins eigene Rolle (Marleys Kette = was nicht seins ist, "was wenn es nicht meins ist") — ein Satz im Schluss, kein Zitat.
+**Gift of the Magi** = der Schuh.
+
+### 12.4 "BESSER ALS VORHER" — ohne Pity-Porn (Korrektur zu next-videos-zurich.md "Avoid: Makeover")
+- Seine Wunschliste, nicht dein Makeover; "was er braucht" fragt man, man rät es nicht.
+- Kein Vorher/Nachher als Demütigungs-Reveal; Spiegel-Moment nur, wenn er ihn will.
+- Drei Schichten: Körper · Abend · das, was bleibt (Wohnung/Papiere/Zahnarzt/Anlaufstelle — mit den Profis).
+- Er sieht den Rohschnitt seiner Szenen, Veto-Recht. Einseitiger schriftlicher Consent (DE/EN), Widerruf vor Veröffentlichung.
+- Zahlung: fixe Zeitentschädigung (kein Anteil, 50 %-Regel §11); das Geben ist der Schluss, nicht der Vertrag.
+- Betteln im Kanton Zürich verboten → nie beim Betteln identifizierbar zeigen (§7).
+
+### 12.5 CASTING — der Engpass (11 Tage bis zum 19.11.)
+Kriterien: ein konkreter Wunsch, Wärme/Humor, erzählt gern, will sichtbar sein (Consent), am Drehtag nüchtern/stabil, spricht DE oder EN, kein Minderjähriger/kein Status-Risiko ohne Consent.
+Drei Wege parallel:
+1. **Surprise-Stadtführungen** (zuerich.com/touren-ausfluege/surprise-stadtfuehrungen): Verkäufer:innen führen als Expert:innen durch Zürich — schon Erzähler mit Consent-Kultur; Anfrage über die Organisation (Buchung/Kontakt nicht verifiziert).
+2. **Sein Netzwerk-Protokoll (§11)**: 3 Begegnungen/Woche, Hilfe zuerst, WhatsApp; der Ex-Kollege seines Freundes (verliert bald die Wohnung): wenn das Auszugsdatum in die Weihnachtszeit fällt, ist das die echteste Uhr überhaupt (Leerstand 0,07 %) — Datum + seine Haltung erfragen; evtl. anderes Video, nicht "poorest man".
+3. **Incontro-Schlange / Nachtcafé Pace / SWS / sip züri** — Anfrage nur über die Institution.
+Entscheidung Held + Backup bis **So 15. Nov**. Ein Probetreffen (Kaffee, 50 CHF) VOR dem 19.
+
+### 12.6 VERPACKUNG ZUERST (Down → Up, erste Hälfte trägt allein; Titel ≠ Thumbnail-Text)
+Titel-Schablonen (je nach Held anpassen; "Poorest" nur, wenn es stimmt):
+1. I Sat Up All Night With Zürich's Poorest Man — Then Gave Him a Cinderella Midnight
+2. The Richest City on Earth Turned On Its Lights. I Sat With the Man Nobody Sees.
+3. (Teil 2, 24. Dez) Did the Magic End at Midnight? Christmas Eve With Zürich's Poorest Man
+Thumbnail-Konzepte (echte Frames): A) Split mit IDENTISCHER Kameraposition: links Bank/Nacht (19.11.), rechts dieselbe Position danach — ein Wort: MIDNIGHT.
+B) Zeit-Split wie Görli: "6 PM" / "MIDNIGHT". C) sein Gesicht im Lucy-Bokeh — Text nur, wenn wahr ("NEVER SEEN THEM" erst nach Klärung).
+MUSS-Frames am 19.11.: Vorher-Frame in der späteren Nachher-Position · seine Augen lesbar bei 320 px · separate Stills ≥ 1/250 s (nicht aus Video, MEMORY §14).
+Pre-Test: Lichter-Nacht als Short am 20.11. (Hook-Test) · IG-Cover "G-Class | Cart" (625 Views) = Prototyp für Berlin.
+
+### 12.7 DIE NÄCHSTEN DREI VIDEOS + KALENDER (Wochentage 2026 geprüft)
+| Video | Inhalt | Dreh | Release |
+|---|---|---|---|
+| V2 Berlin | Material (G-Klasse/Waldorf) ist gedreht; Status/Schnitt klären (Michael). Thumbnail-Prototyp: G-Class \| Cart + Text NOT MINE (entwaffnet den "Hushpuppi"-Blick) | — | ~Fr 27. Nov |
+| V1 Zürich Teil 1 (DIE BOMBE) | Gerüst 12.3 | Do 19.11. (Lichter) · Fr 20.11. (Kristall-Patenschaft ab 20.11.) · Sa 21.11. (sein Tag + Preise + Nacht) · Sa 28.11. (Wünsche + Abend) · So 29.11. Reserve | Schnitt 30.11.–10.12. → **So 13. Dez** |
+| V3 Zürich Teil 2 | "Hat es gehalten?" — Heiligabend | Sa 19./So 20.12. | **Do 24. Dez** |
+Casting bis So 15.11. · Anfragen Mo 9.–Sa 14.11. · Shorts aus der Lichter-Nacht ab Fr 20.11. · nach 48 h Studio-Zahlen (CTR/Retention) → EINMAL sauber nachjustieren, dann lassen (§8).
+
+### 12.8 OFFENE FRAGEN (neu, 8 Nov)
+1. Darf Claude Anfragen-Entwürfe an Surprise / Nachtcafé Pace / SWS vorbereiten (er sendet)? (= Frage 3 oben)
+2. Nacht OHNE Bett mit dem Helden (Pace/draussen) — ja/nein? (= Frage 1 oben)
+3. Budget-Zahl fürs Geben (damit "besser als vorher" planbar ist) · Berlin-Schnitt: wo steht er, liefert Michael bis 11.12.?
+4. Ex-Kollege-Lead: Auszugsdatum? will er öffentlich?
+
+### 12.9 QUELLEN (8 Nov)
+nume.ch/?p=12491 (Lucy-Termin, Patenschaft) · srf.ch (Lucy: Kosten, Patenschaft, Kinderspital) · ewz.ch (23'100 LED/11'550 Kristalle) · bahnhofstrasse-zuerich.ch/en/friendsoflucy ·
+zvv.ch (Lucy, Datum "folgt") · nume.ch (Bellevue Noël) · zuerich.com (Surprise-Stadtführungen; Polarzauber) · swissinfo (Pfuusbus 46 Betten, Lucy 2010).

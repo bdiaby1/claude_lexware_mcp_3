@@ -33,3 +33,6 @@ world). Weaker in Zürich (less Pfand culture) → use #1/#2 there.
 Lamborghini-with-homeless (flex) · the döner "makeover" with makeup+clothes (pity-porn
 risk) · prison / most-dangerous-station ideas (fear, against the warmth pivot) · rich-kids
 / lifestyle (off-brand).
+
+[8 Nov, his call] The makeover is back as HIS wish list (pants, face treatment, "what he needs") inside the Cinderella frame — with the safeguards in
+`zurich-poorest-man/BRIEFING.md` §12.4 (his list, no humiliation reveal, rough cut to him, fixed fee, lasting part with the professionals).
